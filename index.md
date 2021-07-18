@@ -5,9 +5,9 @@ This page keeps track of the on-going imaging reading group activities. You will
 The meetings are held every Friday between 14:00 - 15:00 in hybrid mode: in-person at J04 conference room, Rose Street Building, Australian Centre for Field Robotics (ACFR), The University of Sydney, NSW, Australia and via Zoom. If you like to join Robotic Imaging Reading Group, feel free to contact us. 
 
 ## Upcoming Reading Sessions
-| Date  | Presenter | Topic | Link |
-| ------------- | ------------- | ------------- | ------------- |
-| 16.07.2021 | Dr. Tejaswi Digumarti | 2-3 minutes presentation by each paper on a recent interesting paper | - |
+| Date  | Presenter | Paper Title | Link |
+| ---| --- | --- | ---|
+| 16.07.2021 | Dr. Tejaswi Digumarti | TBA | TBA|
 | 23.07.2021 | Dr. Mitch Bryson | TBA | TBA |
 | 30.07.2021 | Jesse | TBA | TBA |
 | 06.08.2021 | Ryan | TBA | TBA |
@@ -20,9 +20,9 @@ The meetings are held every Friday between 14:00 - 15:00 in hybrid mode: in-pers
 
 
 ## Past Presentations
-| Date  | Presenter | Topic | Link |
-| ------------- | ------------- | ------------- | ------------- |
-| 16.07.2021 | Reboot Meeting | 2-3 minutes presentation by each paper on a recent interesting paper | - |
+| Date  | Presenter | Paper Title | Link |
+| --- | --- | ---| --- |
+| 16.07.2021 | Reboot Meeting | 2-3 minutes presentation by each paper on a recent interesting paper | Multiple Papers |
 
 
 ## Paper Suggestions for Presentation
@@ -54,7 +54,7 @@ The meetings are held every Friday between 14:00 - 15:00 in hybrid mode: in-pers
 
 ## Curated list of Robotic Imaging Resources
 ### A curated list of awesome robotic imaging resources
-* [Awesome Robotic Imaging](https://github.com/avie00/Awesome-Robotic-Imaging): 
+* [Awesome Robotic Imaging](https://github.com/avie00/Awesome-Robotic-Imaging)
 ### Upcoming Conferences 
 * [SIGGRAPH](https://s2021.siggraph.org/) - Graphics
 * [NeurIPS Proceedings](https://nips.cc/) - Robotic Imaging; Machine Learning
