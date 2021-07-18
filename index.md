@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to Robotic Imaging Readng Group
 
-You can use the [editor on GitHub](https://github.com/avie00/ImgRG/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This page keeps track of the on-going imaging reading group activities. You will be able to find the schedule of the upcoming talks, past presentations, related articles and a curated list of resources on imaging.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you like to join the Image Reading Group, please contact us. The meetings are usually held every Friday between 14:00 - 15:00 at J04, Rose Street Building, Australian Centre for Field Robotics (ACFR), The University of Sydney, NSW, Australia and via [Zoom](https://uni-sydney.zoom.us/j/83985253003).
 
-### Markdown
+### Upcoming Reading Sessions
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Contact Us
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/avie00/ImgRG/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+{::nomarkdown}
+<form action="https://formspree.io/f/xbjqazgp method="POST">
+  <input type="email" name="_replyto">
+  <textarea   name="body"></textarea>
+  <input type="submit" value="Send">
+</form>
+{:/nomarkdown}
