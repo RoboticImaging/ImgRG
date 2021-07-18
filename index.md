@@ -23,10 +23,9 @@ The meetings are held every Friday between 14:00 - 15:00 in hybrid mode: in-pers
 
 ## Past Presentations
 
-| Date | Presenter | Paper Title | Related Link |   
+| Date | Presenter | Date | Presenter |  
 | ---------| ----------- | ---------| ----------- |
-| 16.07.2021 | Reboot Meeting | 2-3 minutes presentation by each paper on a recent interesting paper | Multiple Papers |
-
+| 16.07.2021 | Reboot Meeting | 2-3 minutes presentation by each member | Multiple recent papers |
 
 ## Paper Suggestions for Presentation
 * [Blocks-World Camera](https://wisionlab.cs.wisc.edu/wp-content/uploads/2021/05/CVPR21_Blocks_World_Cameras_combined.pdf) Lee, J. and Gupta, M., 2021. Blocks-World Cameras. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 11412-11422).
