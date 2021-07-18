@@ -13,11 +13,12 @@ The meetings are held every Friday between 14:00 - 15:00 in hybrid mode: in-pers
 | 06.08.2021 | Jesse | TBA | TBA |
 | 13.08.2021 | Ryan | TBA | TBA |
 | 20.08.2021 | Jacob | TBA | TBA |
-| 27.08.2021 | Dr. Donald Dansereau | TBA | TBA |
-| 03.08.2021 | Liu | TBA | TBA |
-| 10.09.2021 | Will | TBA | TBA |
-| 17.09.2021 | Ziting | TBA | TBA |
-| 24.09.2021 | Avie | TBA | TBA |
+| 27.08.2021 | Jasper | TBA | TBA |
+| 03.09.2021 | Dr. Donald Dansereau | TBA | TBA |
+| 10.09.2021 | Liu | TBA | TBA |
+| 17.09.2021 | Will | TBA | TBA |
+| 24.09.2021 | Ziting | TBA | TBA |
+| 01.10.2021 | Avie | TBA | TBA |
 
 
 ## Past Presentations
