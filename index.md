@@ -9,9 +9,18 @@ If you like to join the Image Reading Group, please contact us. The meetings are
 ### Contact Us
 
 {::nomarkdown}
-<form action="https://formspree.io/f/xbjqazgp method="POST">
-  <input type="email" name="_replyto">
-  <textarea   name="body"></textarea>
-  <input type="submit" value="Send">
+<form
+  action="https://formspree.io/f/xbjqazgp"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="_replyto">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+<button type="submit">Send</button>
 </form>
 {:/nomarkdown}
