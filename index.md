@@ -5,6 +5,12 @@ This page keeps track of the on-going imaging reading group activities. You will
 The meetings are held every Friday between 14:00 - 15:00 in hybrid mode: in-person at J04 conference room, Rose Street Building, Australian Centre for Field Robotics (ACFR), The University of Sydney, NSW, Australia and via Zoom. If you like to join Robotic Imaging Reading Group, feel free to contact us. 
 
 ## Upcoming Reading Sessions
+
+| Filename | Description | Filename | Description |   
+| ---------| ----------- | ---------| ----------- |
+| Readme.md | Readme.md | Readme.md | This file describes the input data and the scripts inside each folder |
+
+
 | Date  | Presenter | Paper Title | Link |
 | ---| --- | --- | ---|
 | 16.07.2021 | Dr. Tejaswi Digumarti | TBA | TBA|
