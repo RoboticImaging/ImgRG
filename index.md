@@ -8,28 +8,22 @@ The meetings are held every Friday between 14:00 - 15:00 in hybrid mode: in-pers
 
 | Filename | Description | Filename | Description |   
 | ---------| ----------- | ---------| ----------- |
-| Readme.md | Readme.md | Readme.md | This file describes the input data and the scripts inside each folder |
-
-
-| Date  | Presenter | Paper Title | Link |
-| ---| --- | --- | ---|
-| 16.07.2021 | Dr. Tejaswi Digumarti | TBA | TBA|
-| 23.07.2021 | Dr. Mitch Bryson | TBA | TBA |
-| 30.07.2021 | Jesse | TBA | TBA |
-| 06.08.2021 | Ryan | TBA | TBA |
-| 13.08.2021 | Jacob | TBA | TBA |
-| 20.08.2021 | Dr. Donald Dansereau | TBA | TBA |
-| 27.08.2021 | Liu | TBA | TBA |
-| 03.09.2021 | Will | TBA | TBA |
-| 10.09.2021 | Ziting | TBA | TBA |
-| 17.09.2021 | Avie | TBA | TBA |
+| 23.07.2021 | Dr. Tejaswi Digumarti | TBA | TBA|
+| 30.07.2021 | Dr. Mitch Bryson | TBA | TBA |
+| 06.08.2021 | Jesse | TBA | TBA |
+| 13.08.2021 | Ryan | TBA | TBA |
+| 20.08.2021 | Jacob | TBA | TBA |
+| 27.08.2021 | Dr. Donald Dansereau | TBA | TBA |
+| 03.08.2021 | Liu | TBA | TBA |
+| 10.09.2021 | Will | TBA | TBA |
+| 17.09.2021 | Ziting | TBA | TBA |
+| 24.09.2021 | Avie | TBA | TBA |
 
 
 ## Past Presentations
-| Date  | Presenter | Paper Title | Link |
-| --- | --- | ---| --- |
+| Date | Presenter | Paper Title | Related Link |   
+| ---------| ----------- | ---------| ----------- |
 | 16.07.2021 | Reboot Meeting | 2-3 minutes presentation by each paper on a recent interesting paper | Multiple Papers |
-
 
 ## Paper Suggestions for Presentation
 * [Blocks-World Camera](https://wisionlab.cs.wisc.edu/wp-content/uploads/2021/05/CVPR21_Blocks_World_Cameras_combined.pdf) Lee, J. and Gupta, M., 2021. Blocks-World Cameras. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 11412-11422).
