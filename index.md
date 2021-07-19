@@ -97,7 +97,7 @@ The meetings are held every **Friday between 14:00 - 15:00 in hybrid mode: in-pe
 
 ### Gallery
 <p align="center">
-![Image](RM.png)  
+  <img width="288" height="222" src="https://github.com/avie00/ImgRG/blob/gh-pages/RM.png">
 </p>
 
 Credits: Dr. Donald Dansereau
