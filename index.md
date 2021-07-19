@@ -96,5 +96,8 @@ The meetings are held every **Friday between 14:00 - 15:00 in hybrid mode: in-pe
 {:/nomarkdown}
 
 ### Gallery
-![Image](RM.png) 
+<p align="center">
+![Image](RM.png)  
+</p>
+
 Credits: Dr. Donald Dansereau
