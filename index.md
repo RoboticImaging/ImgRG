@@ -1,4 +1,4 @@
-## Welcome to Robotic Imaging Readng Group
+## Welcome to Robotic Imaging Reading Group
 
 This page keeps track of the on-going imaging reading group activities. You will be able to find the schedule of the upcoming reading sessions, past presentations, related articles and a curated list of resources on imaging.
 
