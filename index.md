@@ -8,7 +8,7 @@ The meetings are held every **Friday between 14:00 - 15:00 in hybrid mode: in-pe
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 23.07.2021 | Dr. Teja | TBA | TBA|
+| 23.07.2021 | Dr. Teja | Back to the Feature: Learning Robust Camera Localization from Pixels to Pose | [link](https://psarlin.com/pixloc/) |
 | 30.07.2021 | Dr. Mitch | TBA | TBA |
 | 06.08.2021 | Jesse | TBA | TBA |
 | 13.08.2021 | Ryan | TBA | TBA |
@@ -23,7 +23,7 @@ The meetings are held every **Friday between 14:00 - 15:00 in hybrid mode: in-pe
 
 ## Past Presentations
 
-| Date | Presenter | Date | Presenter |  
+| Date | Presenter | Paper Title | Related Link |  
 | ---------| ----------- | ---------| ----------- |
 | 16.07.2021 | Reboot Meeting | 2-3 minutes presentation by each member | Multiple recent papers |
 
