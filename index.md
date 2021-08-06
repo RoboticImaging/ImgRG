@@ -8,7 +8,7 @@ The meetings are held every **Friday between 14:00 - 15:00 in hybrid mode: in-pe
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 06.08.2021 | Jesse | CodeMapping: Real-Time Dense Mapping for Sparse SLAM using Compact Scene Representations | [link](https://arxiv.org/pdf/2107.08994.pdf)) |
+| 06.08.2021 | Jesse | CodeMapping: Real-Time Dense Mapping for Sparse SLAM using Compact Scene Representations | [link](https://arxiv.org/pdf/2107.08994.pdf) |
 | 13.08.2021 | Ryan | TBA | TBA |
 | 20.08.2021 | Jacob | TBA | TBA |
 | 27.08.2021 | Jasper | TBA | TBA |
