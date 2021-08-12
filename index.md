@@ -15,7 +15,9 @@ The meetings are held every **Friday between 14:00 - 15:00 in hybrid mode: in-pe
 | 10.09.2021 | Liu | TBA | TBA |
 | 17.09.2021 | Will | TBA | TBA |
 | 24.09.2021 | Ziting | TBA | TBA |
-| 01.10.2021 | Avie | TBA | TBA |
+| 01.10.2021 | Heather | TBA | TBA |
+| 08.10.2021 | Dr. Mehala | TBA | TBA |
+| 15.10.2021 | Avie | TBA | TBA |
 
 
 ## Past Presentations
