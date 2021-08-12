@@ -8,8 +8,7 @@ The meetings are held every **Friday between 14:00 - 15:00 in hybrid mode: in-pe
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 06.08.2021 | Jesse | CodeMapping: Real-Time Dense Mapping for Sparse SLAM using Compact Scene Representations | [link](https://arxiv.org/pdf/2107.08994.pdf) |
-| 13.08.2021 | Ryan | TBA | TBA |
+| 13.08.2021 | Ryan |  Data-Uncertainty Guided Multi-Phase Learning for Semi-Supervised Object Detection | [link](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Data-Uncertainty_Guided_Multi-Phase_Learning_for_Semi-Supervised_Object_Detection_CVPR_2021_paper.pdf) |
 | 20.08.2021 | Jacob | TBA | TBA |
 | 27.08.2021 | Jasper | TBA | TBA |
 | 03.09.2021 | Dr. Don | TBA | TBA |
@@ -26,6 +25,7 @@ The meetings are held every **Friday between 14:00 - 15:00 in hybrid mode: in-pe
 | 16.07.2021 | Reboot Meeting | 2-3 minutes presentation by each member | Multiple recent papers |
 | 23.07.2021 | Dr. Teja | Back to the Feature: Learning Robust Camera Localization from Pixels to Pose | [link](https://psarlin.com/pixloc/) |
 | 30.07.2021 | Dr. Mitch | MBA-VO: Motion Blur Aware Visual Odometry | [link](https://arxiv.org/pdf/2103.13684.pdf) |
+| 06.08.2021 | Jesse | CodeMapping: Real-Time Dense Mapping for Sparse SLAM using Compact Scene Representations | [link](https://arxiv.org/pdf/2107.08994.pdf) |
 
 ## Paper Suggestions for Presentation
 * [Blocks-World Camera](https://wisionlab.cs.wisc.edu/wp-content/uploads/2021/05/CVPR21_Blocks_World_Cameras_combined.pdf) Lee, J. and Gupta, M., 2021. Blocks-World Cameras. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 11412-11422).
