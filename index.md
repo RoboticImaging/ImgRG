@@ -8,8 +8,7 @@ The meetings are held every **Friday between 14:00 - 15:00 in hybrid mode: in-pe
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 20.08.2021 | Jacob | Wave-based non-line-of-sight imaging using fast f-k migration | [link](https://dl.acm.org/doi/pdf/10.1145/3306346.3322937) |
-| 27.08.2021 | Jasper | TBA | TBA |
+| 27.08.2021 | Umar | Hypercorrelation Squeeze for Few-Shot Segmentation | [link](https://arxiv.org/pdf/2104.01538.pdf) |
 | 03.09.2021 | Dr. Don | TBA | TBA |
 | 10.09.2021 | Liu | TBA | TBA |
 | 17.09.2021 | Will | TBA | TBA |
@@ -28,17 +27,16 @@ The meetings are held every **Friday between 14:00 - 15:00 in hybrid mode: in-pe
 | 30.07.2021 | Dr. Mitch | MBA-VO: Motion Blur Aware Visual Odometry | [link](https://arxiv.org/pdf/2103.13684.pdf) |
 | 06.08.2021 | Jesse | CodeMapping: Real-Time Dense Mapping for Sparse SLAM using Compact Scene Representations | [link](https://arxiv.org/pdf/2107.08994.pdf) |
 | 13.08.2021 | Ryan |  Data-Uncertainty Guided Multi-Phase Learning for Semi-Supervised Object Detection | [link](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Data-Uncertainty_Guided_Multi-Phase_Learning_for_Semi-Supervised_Object_Detection_CVPR_2021_paper.pdf) |
+| 20.08.2021 | Jacob | Wave-based non-line-of-sight imaging using fast f-k migration | [link](https://dl.acm.org/doi/pdf/10.1145/3306346.3322937) |
 
 ## Paper Suggestions for Presentation
 * [Blocks-World Camera](https://wisionlab.cs.wisc.edu/wp-content/uploads/2021/05/CVPR21_Blocks_World_Cameras_combined.pdf) Lee, J. and Gupta, M., 2021. Blocks-World Cameras. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 11412-11422).
-* [MBA-VO: Motion Blur Aware Visual Odometry](https://arxiv.org/pdf/2103.13684.pdf) Liu, P., Zuo, X., Larsson, V. and Pollefeys, M., 2021. MBA-VO: Motion Blur Aware Visual Odometry. arXiv preprint arXiv:2103.13684.
 * [A Physics-based Noise Formation Model for Extreme Low-light Raw Denoising](https://arxiv.org/abs/2003.12751) Wei, K., Fu, Y., Yang, J. and Huang, H., 2020. A physics-based noise formation model for extreme low-light raw denoising. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 2758-2767).
 * [ACORN: Adaptive Coordinate Networks for Neural Representation](https://arxiv.org/pdf/2105.02788.pdf) Martel, J.N., Lindell, D.B., Lin, C.Z., Chan, E.R., Monteiro, M. and Wetzstein, G., 2021. ACORN: Adaptive Coordinate Networks for Neural Scene Representation. arXiv preprint arXiv:2105.02788.
 * [Motion Adaptive Deblurring with Single-Photon Cameras](https://arxiv.org/abs/2012.07931) Seets, T., Ingle, A., Laurenzis, M. and Velten, A., 2021. Motion Adaptive Deblurring with Single-Photon Cameras. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (pp. 1945-1954).
 * [Single-Image HDR Reconstruction by Learning to Reverse the Camera Pipeline](https://arxiv.org/abs/2004.01179) Liu, Y.L., Lai, W.S., Chen, Y.S., Kao, Y.L., Yang, M.H., Chuang, Y.Y. and Huang, J.B., 2020. Single-image HDR reconstruction by learning to reverse the camera pipeline. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 1651-1660).
 * [MaskFlownet: Asymmetric Feature Matching with Learnable Occlusion Mask](https://arxiv.org/abs/2003.10955). Zhao, S., Sheng, Y., Dong, Y., Chang, E.I. and Xu, Y., 2020. Maskflownet: Asymmetric feature matching with learnable occlusion mask. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 6278-6287).
 * [Warp to the Future: Joint Forecasting of Features and Feature Motion](https://ieeexplore.ieee.org/document/9157463) Saric, J., Orsic, M., Antunovic, T., Vrazic, S. and Segvic, S., 2020. Warp to the future: Joint forecasting of features and feature motion. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 10648-10657).
-* [Back to the Feature: Learning Robust Camera Localization from Pixels to Pose](https://arxiv.org/abs/2103.092130) Sarlin, P.E., Unagar, A., Larsson, M., Germain, H., Toft, C., Larsson, V., Pollefeys, M., Lepetit, V., Hammarstrand, L., Kahl, F. and Sattler, T., 2021. Back to the Feature: Learning Robust Camera Localization from Pixels to Pose. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 3247-3257).
 * [Unsupervised Learning of Depth and Ego-Motion from Video](https://people.eecs.berkeley.edu/~tinghuiz/projects/SfMLearner/) Zhou, T., Brown, M., Snavely, N. and Lowe, D.G., 2017. Unsupervised learning of depth and ego-motion from video. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 1851-1858).
 * [Looking Beyond Two Frames: End-to-End Multi-Object Tracking Using Spatial and Temporal Transformers](https://arxiv.org/pdf/2103.14829.pdf) Zhu, T., Hiller, M., Ehsanpour, M., Ma, R., Drummond, T. and Rezatofighi, H., 2021. Looking Beyond Two Frames: End-to-End Multi-Object Tracking Using Spatial and Temporal Transformers. arXiv preprint arXiv:2103.14829.
 * [Dirty Pixels: Towards End-to-End Image Processing and Perception](https://arxiv.org/abs/1701.06487) Diamond, S., Sitzmann, V., Julca-Aguilar, F., Boyd, S., Wetzstein, G. and Heide, F., 2021. Dirty Pixels: Towards End-to-end Image Processing and Perception. ACM Transactions on Graphics (TOG), 40(3), pp.1-15.
@@ -59,6 +57,7 @@ The meetings are held every **Friday between 14:00 - 15:00 in hybrid mode: in-pe
 ## Curated list of Robotic Imaging Resources
 ### A curated list of awesome robotic imaging resources
 * [Awesome Robotic Imaging](https://github.com/avie00/Awesome-Robotic-Imaging)
+
 ### Upcoming Conferences 
 * [SIGGRAPH](https://s2021.siggraph.org/) - Graphics
 * [NeurIPS Proceedings](https://nips.cc/) - Robotic Imaging; Machine Learning
