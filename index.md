@@ -8,8 +8,6 @@ The meetings are held every **Friday between 14:00 - 15:00 in hybrid mode: in-pe
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 03.09.2021 | Dr. Don | Privacy-Preserving Action Recognition using Coded Aperture Videos | [link](https://arxiv.org/pdf/1902.09085.pdf) |
-| 10.09.2021 | Liu | TBA | TBA |
 | 17.09.2021 | Will | TBA | TBA |
 | 24.09.2021 | Ziting | TBA | TBA |
 | 01.10.2021 | Heather | TBA | TBA |
@@ -28,6 +26,8 @@ The meetings are held every **Friday between 14:00 - 15:00 in hybrid mode: in-pe
 | 13.08.2021 | Ryan |  Data-Uncertainty Guided Multi-Phase Learning for Semi-Supervised Object Detection | [link](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Data-Uncertainty_Guided_Multi-Phase_Learning_for_Semi-Supervised_Object_Detection_CVPR_2021_paper.pdf) |
 | 20.08.2021 | Jacob | Wave-based non-line-of-sight imaging using fast f-k migration | [link](https://dl.acm.org/doi/pdf/10.1145/3306346.3322937) |
 | 27.08.2021 | Umar | Hypercorrelation Squeeze for Few-Shot Segmentation | [link](https://arxiv.org/pdf/2104.01538.pdf) |
+| 03.09.2021 | Dr. Don | Privacy-Preserving Action Recognition using Coded Aperture Videos | [link](https://arxiv.org/pdf/1902.09085.pdf) |
+| 10.09.2021 | Liu | Building 3D Object Models during Manipulation by Reconstruction-Aware Trajectory Optimization | [link](https://arxiv.org/pdf/1905.03907.pdf) |
 
 ## Paper Suggestions for Presentation
 * [Blocks-World Camera](https://wisionlab.cs.wisc.edu/wp-content/uploads/2021/05/CVPR21_Blocks_World_Cameras_combined.pdf) Lee, J. and Gupta, M., 2021. Blocks-World Cameras. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 11412-11422).
