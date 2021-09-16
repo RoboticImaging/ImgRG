@@ -8,11 +8,12 @@ The meetings are held every **Friday between 14:00 - 15:00 in hybrid mode: in-pe
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 17.09.2021 | Will | TBA | TBA |
+| 17.09.2021 | Will | Motion Adaptive Deblurring with Single-Photon Cameras | [link](https://arxiv.org/abs/2012.07931) |
 | 24.09.2021 | Ziting | TBA | TBA |
-| 01.10.2021 | Heather | TBA | TBA |
-| 08.10.2021 | Dr. Mehala | TBA | TBA |
-| 15.10.2021 | Avie | TBA | TBA |
+| 01.10.2021 | IROS 2021 Conference Week |
+| 08.10.2021 | Heather | TBA | TBA |
+| 15.10.2021 | Dr. Mehala | TBA | TBA |
+| 22.10.2021 | Avie | TBA | TBA |
 
 
 ## Past Presentations
