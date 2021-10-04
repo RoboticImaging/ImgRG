@@ -8,9 +8,6 @@ The meetings are held every **Friday between 14:00 - 15:00 in hybrid mode: in-pe
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 17.09.2021 | Will | Motion Adaptive Deblurring with Single-Photon Cameras | [link](https://arxiv.org/abs/2012.07931) |
-| 24.09.2021 | Ziting | TBA | TBA |
-| 01.10.2021 | IROS 2021 Conference Week | - | - |
 | 08.10.2021 | Heather | TBA | TBA |
 | 15.10.2021 | Dr. Mehala | TBA | TBA |
 | 22.10.2021 | Avie | TBA | TBA |
@@ -29,6 +26,9 @@ The meetings are held every **Friday between 14:00 - 15:00 in hybrid mode: in-pe
 | 27.08.2021 | Umar | Hypercorrelation Squeeze for Few-Shot Segmentation | [link](https://arxiv.org/pdf/2104.01538.pdf) |
 | 03.09.2021 | Dr. Don | Privacy-Preserving Action Recognition using Coded Aperture Videos | [link](https://arxiv.org/pdf/1902.09085.pdf) |
 | 10.09.2021 | Liu | Building 3D Object Models during Manipulation by Reconstruction-Aware Trajectory Optimization | [link](https://arxiv.org/pdf/1905.03907.pdf) |
+| 17.09.2021 | Will | Motion Adaptive Deblurring with Single-Photon Cameras | [link](https://arxiv.org/abs/2012.07931) |
+| 24.09.2021 | Ziting | Exploring Simple Siamese Representation Learning | [link](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Exploring_Simple_Siamese_Representation_Learning_CVPR_2021_paper.pdf) |
+| 01.10.2021 | IROS 2021 Conference Week | - | - |
 
 ## Paper Suggestions for Presentation
 * [Blocks-World Camera](https://wisionlab.cs.wisc.edu/wp-content/uploads/2021/05/CVPR21_Blocks_World_Cameras_combined.pdf) Lee, J. and Gupta, M., 2021. Blocks-World Cameras. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 11412-11422).
@@ -48,7 +48,6 @@ The meetings are held every **Friday between 14:00 - 15:00 in hybrid mode: in-pe
 * [Portrait Shadow Manipulation](https://dl.acm.org/doi/10.1145/3386569.3392390) Zhang, X., Barron, J.T., Tsai, Y.T., Pandey, R., Zhang, X., Ng, R. and Jacobs, D.E., 2020. Portrait shadow manipulation. ACM Transactions on Graphics (TOG), 39(4), pp.78-1.
 * [RoboCut: Hot-wire Cutting with Robot-controlled Flexible Rods](https://dl.acm.org/doi/abs/10.1145/3386569.3392465) Duenser, S., Poranne, R., Thomaszewski, B. and Coros, S., 2020. RoboCut: hot-wire cutting with robot-controlled flexible rods. ACM Transactions on Graphics (TOG), 39(4), pp.98-1.
 * [Compact snapshot hyperspectral imaging with diffracted rotation](https://dl.acm.org/doi/10.1145/3306346.3322946) Jeon, D.S., Baek, S.H., Yi, S., Fu, Q., Dun, X., Heidrich, W. and Kim, M.H., 2019. Compact snapshot hyperspectral imaging with diffracted rotation.
-* [Wave-Based Non-Line-of-Sight Imaging using Fastf−kMigration](https://dl.acm.org/doi/pdf/10.1145/3306346.3322937) Lindell, D.B., Wetzstein, G. and O'Toole, M., 2019. Wave-based non-line-of-sight imaging using fast fk migration. ACM Transactions on Graphics (TOG), 38(4), pp.1-13.
 * [PuppetMaster: robotic animation of marionettes](https://dl.acm.org/doi/10.1145/3306346.3323003) Zimmermann, S., Poranne, R., Bern, J.M. and Coros, S., 2019. PuppetMaster: robotic animation of marionettes. ACM Transactions on Graphics (TOG), 38(4), pp.1-11.
 * [Multi-view relighting using a geometry-aware network](https://dl.acm.org/doi/10.1145/3306346.3323013) Philip, J., Gharbi, M., Zhou, T., Efros, A.A. and Drettakis, G., 2019. Multi-view relighting using a geometry-aware network. ACM Transactions on Graphics (TOG), 38(4), pp.1-14.
 * [Deep reflectance fields: high-quality facial reflectance field inference from color gradient illumination](https://dl.acm.org/doi/10.1145/3306346.3323027) Meka, A., Haene, C., Pandey, R., Zollhöfer, M., Fanello, S., Fyffe, G., Kowdle, A., Yu, X., Busch, J., Dourgarian, J. and Denny, P., 2019. Deep reflectance fields: high-quality facial reflectance field inference from color gradient illumination. ACM Transactions on Graphics (TOG), 38(4), pp.1-12.
