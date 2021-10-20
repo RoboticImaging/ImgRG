@@ -26,7 +26,7 @@ The meetings are held every **Friday between 14:00 - 15:00 in hybrid mode: in-pe
 | 17.09.2021 | Will | Motion Adaptive Deblurring with Single-Photon Cameras | [link](https://arxiv.org/abs/2012.07931) |
 | 24.09.2021 | Ziting | Exploring Simple Siamese Representation Learning | [link](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Exploring_Simple_Siamese_Representation_Learning_CVPR_2021_paper.pdf) |
 | 01.10.2021 | IROS 2021 Conference Week | - | - |
-| 08.10.2021 | Heather | Deep RGB-D Saliency Detection with Depth-Sensitive Attention and AutomaticMulti-Modal Fusion | (https://openaccess.thecvf.com/content/CVPR2021/html/Sun_Deep_RGB-D_Saliency_Detection_With_Depth-Sensitive_Attention_and_Automatic_Multi-Modal_CVPR_2021_paper.html) |
+| 08.10.2021 | Heather | Deep RGB-D Saliency Detection with Depth-Sensitive Attention and AutomaticMulti-Modal Fusion | [link](https://openaccess.thecvf.com/content/CVPR2021/html/Sun_Deep_RGB-D_Saliency_Detection_With_Depth-Sensitive_Attention_and_Automatic_Multi-Modal_CVPR_2021_paper.html) |
 | 15.10.2021 | Avie | Defocus Map Estimation and Deblurring from a Single Dual-Pixel Image | [link](https://imaging.cs.cmu.edu/dual_pixels/assets/dual_pixel_ICCV_2021.pdf) |
 
 ## Paper Suggestions for Presentation
