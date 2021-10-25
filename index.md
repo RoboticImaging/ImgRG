@@ -16,7 +16,7 @@ The meetings are held every **Friday between 14:00 - 15:00 in hybrid mode: in-pe
 | 03.12.2021 | TBA | TBA | TBA |
 | 10.12.2021 | TBA | TBA | TBA |
 | 17.12.2021 | TBA | TBA | TBA |
-| 24.10.2021 | Christmas Eve | :smiley: | :smiley: |
+| 24.10.2021 | Christmas Eve | - | - |
 | 31.10.2021 | TBA | TBA | TBA |
 
 ## Past Presentations
