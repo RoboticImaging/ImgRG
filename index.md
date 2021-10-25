@@ -2,7 +2,7 @@
 
 This page keeps track of the on-going imaging reading group activities. You will be able to find the schedule of the upcoming reading sessions, past presentations, related articles and a curated list of resources on imaging.
 
-The meetings are held every **Friday between 14:00 - 15:00 in hybrid mode: in-person at J04 conference room, Rose Street Building, Australian Centre for Field Robotics (ACFR), The University of Sydney, NSW, Australia and via Zoom**. If you like to join Robotic Imaging Reading Group, feel free to contact us. 
+The meetings are held every **Friday between 14:00 - 15:00 in hybrid mode: currently via Zoom** and hopefully soon in-person at J04/J18 conference room, Australian Centre for Field Robotics (ACFR), The University of Sydney, NSW, Australia. If you like to join Robotic Imaging Reading Group, feel free to contact us. 
 
 ## Upcoming Reading Sessions
 
