@@ -16,8 +16,8 @@ The meetings are held every **Friday between 14:00 - 15:00 in hybrid mode: curre
 | 03.12.2021 | TBA | TBA | TBA |
 | 10.12.2021 | TBA | TBA | TBA |
 | 17.12.2021 | TBA | TBA | TBA |
-| 24.10.2021 | Christmas Eve | - | - |
-| 31.10.2021 | TBA | TBA | TBA |
+| 24.12.2021 | Christmas Eve | - | - |
+| 31.12.2021 | New Year Eve | - | - |
 
 ## Past Presentations
 
