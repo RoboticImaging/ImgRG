@@ -8,7 +8,7 @@ The meetings are held every **Friday between 14:00 - 15:00 in hybrid mode: in-pe
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 22.10.2021 | Dr. Mehala | MaskFlownet: Asymmetric Feature Matching with Learnable Occlusion Mask | [link](https://arxiv.org/abs/2003.10955) |
+| 26.10.2021 | TBA | TBA | TBA |
 
 ## Past Presentations
 
@@ -28,6 +28,7 @@ The meetings are held every **Friday between 14:00 - 15:00 in hybrid mode: in-pe
 | 01.10.2021 | IROS 2021 Conference Week | - | - |
 | 08.10.2021 | Heather | Deep RGB-D Saliency Detection with Depth-Sensitive Attention and AutomaticMulti-Modal Fusion | [link](https://openaccess.thecvf.com/content/CVPR2021/html/Sun_Deep_RGB-D_Saliency_Detection_With_Depth-Sensitive_Attention_and_Automatic_Multi-Modal_CVPR_2021_paper.html) |
 | 15.10.2021 | Avie | Defocus Map Estimation and Deblurring from a Single Dual-Pixel Image | [link](https://imaging.cs.cmu.edu/dual_pixels/assets/dual_pixel_ICCV_2021.pdf) |
+| 22.10.2021 | Dr. Mehala | MaskFlownet: Asymmetric Feature Matching with Learnable Occlusion Mask | [link](https://arxiv.org/abs/2003.10955) |
 
 
 ## Paper Suggestions for Presentation
