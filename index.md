@@ -4,11 +4,12 @@ This page keeps track of the on-going imaging reading group activities. You will
 
 The meetings are held every **Friday between 14:00 - 15:00 in hybrid mode: currently via Zoom** and hopefully soon in-person at J04/J18 conference room, Australian Centre for Field Robotics (ACFR), The University of Sydney, NSW, Australia. If you like to join Robotic Imaging Reading Group, feel free to contact us. 
 
+To schedule for the upcoming weeks: [link](https://doodle.com/poll/kyg5kwcz9hiyizcd?utm_source=poll&utm_medium=link)
 ## Upcoming Reading Sessions
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 29.10.2021 | Bring your Favourite Paper Session | 2-3 minutes presentation by each member | Multiple recent papers |
+| 29.10.2021 | Bring your Favourite Paper Session | 3-4 minutes presentation by each member | Multiple recent papers |
 | 05.11.2021 | TBA | TBA | TBA |
 | 12.11.2021 | TBA | TBA | TBA |
 | 19.11.2021 | TBA | TBA | TBA |
