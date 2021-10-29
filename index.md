@@ -8,7 +8,7 @@ The meetings are held every **Friday between 14:00 - 15:00 in hybrid mode: curre
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 29.10.2021 | TBA | TBA | TBA |
+| 29.10.2021 | Bring your Favourite Paper Session | 2-3 minutes presentation by each member | Multiple recent papers |
 | 05.11.2021 | TBA | TBA | TBA |
 | 12.11.2021 | TBA | TBA | TBA |
 | 19.11.2021 | TBA | TBA | TBA |
