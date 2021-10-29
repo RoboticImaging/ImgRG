@@ -23,7 +23,7 @@ To schedule for the upcoming weeks: [link](https://doodle.com/poll/kyg5kwcz9hiyi
 
 | Date | Presenter | Paper Title | Related Link |  
 | ---------| ----------- | ---------| ----------- |
-| 16.07.2021 | Reboot Meeting | 2-3 minutes presentation by each member | Multiple recent papers |
+| 16.07.2021 | Reboot Meeting | 2-3 minutes presentation by each member | | Dr. Don [link](http://imagesci.ece.cmu.edu/files/paper/2020/FreeCam3D_ECCV20.pdf) <br /> Dr. Mitch [link](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w14/Tremblay_Training_Deep_Networks_CVPR_2018_paper.pdf) <br /> Dr. Teja [link](http://yaksoy.github.io/papers/CVPR21-HighResDepth.pdf) <br />  Jacob [link](https://www.sciencedirect.com/science/article/abs/pii/S0262885613001650) <br />  Ziting [link](https://arxiv.org/abs/2104.02822) <br /> Jesse TBA <br /> Liu TBA <br /> Ryan [link](https://arxiv.org/abs/2011.09284) <br /> Will [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6423206) Avie [link](https://time-travel-rephotography.github.io/#) <br />|
 | 23.07.2021 | Dr. Teja | Back to the Feature: Learning Robust Camera Localization from Pixels to Pose | [link](https://psarlin.com/pixloc/) |
 | 30.07.2021 | Dr. Mitch | MBA-VO: Motion Blur Aware Visual Odometry | [link](https://arxiv.org/pdf/2103.13684.pdf) |
 | 06.08.2021 | Jesse | CodeMapping: Real-Time Dense Mapping for Sparse SLAM using Compact Scene Representations | [link](https://arxiv.org/pdf/2107.08994.pdf) |
@@ -38,7 +38,7 @@ To schedule for the upcoming weeks: [link](https://doodle.com/poll/kyg5kwcz9hiyi
 | 08.10.2021 | Heather | Deep RGB-D Saliency Detection with Depth-Sensitive Attention and AutomaticMulti-Modal Fusion | [link](https://openaccess.thecvf.com/content/CVPR2021/html/Sun_Deep_RGB-D_Saliency_Detection_With_Depth-Sensitive_Attention_and_Automatic_Multi-Modal_CVPR_2021_paper.html) |
 | 15.10.2021 | Avie | Defocus Map Estimation and Deblurring from a Single Dual-Pixel Image | [link](https://imaging.cs.cmu.edu/dual_pixels/assets/dual_pixel_ICCV_2021.pdf) |
 | 22.10.2021 | Dr. Mehala | MaskFlownet: Asymmetric Feature Matching with Learnable Occlusion Mask | [link](https://arxiv.org/abs/2003.10955) |
-| 29.10.2021 | Bring your Favourite Paper Session | 3-4 minutes presentation by each member | Dr. Don [link](https://vsitzmann.github.io/lfns/) <br /> Dr. Liyang Liu TBA <br /> Heather TBA <br /> Ryan [link](https://arxiv.org/abs/2107.00700) <br /> Avie [link](https://time-travel-rephotography.github.io/#) <br />|
+| 29.10.2021 | Bring your Favourite Paper Session | 3-4 minutes presentation by each member | Dr. Don [link](https://vsitzmann.github.io/lfns/) <br /> Dr. Liyang TBA <br /> Heather TBA <br /> Ryan [link](https://arxiv.org/abs/2107.00700) <br /> Avie [link](https://time-travel-rephotography.github.io/#) <br />|
 
 ## Paper Suggestions for Presentation
 * [Blocks-World Camera](https://wisionlab.cs.wisc.edu/wp-content/uploads/2021/05/CVPR21_Blocks_World_Cameras_combined.pdf) Lee, J. and Gupta, M., 2021. Blocks-World Cameras. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 11412-11422).
