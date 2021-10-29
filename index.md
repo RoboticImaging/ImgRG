@@ -9,7 +9,6 @@ To schedule for the upcoming weeks: [link](https://doodle.com/poll/kyg5kwcz9hiyi
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 29.10.2021 | Bring your Favourite Paper Session | 3-4 minutes presentation by each member | Multiple recent papers |
 | 05.11.2021 | TBA | TBA | TBA |
 | 12.11.2021 | TBA | TBA | TBA |
 | 19.11.2021 | TBA | TBA | TBA |
@@ -39,7 +38,7 @@ To schedule for the upcoming weeks: [link](https://doodle.com/poll/kyg5kwcz9hiyi
 | 08.10.2021 | Heather | Deep RGB-D Saliency Detection with Depth-Sensitive Attention and AutomaticMulti-Modal Fusion | [link](https://openaccess.thecvf.com/content/CVPR2021/html/Sun_Deep_RGB-D_Saliency_Detection_With_Depth-Sensitive_Attention_and_Automatic_Multi-Modal_CVPR_2021_paper.html) |
 | 15.10.2021 | Avie | Defocus Map Estimation and Deblurring from a Single Dual-Pixel Image | [link](https://imaging.cs.cmu.edu/dual_pixels/assets/dual_pixel_ICCV_2021.pdf) |
 | 22.10.2021 | Dr. Mehala | MaskFlownet: Asymmetric Feature Matching with Learnable Occlusion Mask | [link](https://arxiv.org/abs/2003.10955) |
-
+| 29.10.2021 | Bring your Favourite Paper Session | 3-4 minutes presentation by each member | Dr. Don [link](https://vsitzmann.github.io/lfns/) \ Ryan[link](https://arxiv.org/abs/2107.00700) |
 
 ## Paper Suggestions for Presentation
 * [Blocks-World Camera](https://wisionlab.cs.wisc.edu/wp-content/uploads/2021/05/CVPR21_Blocks_World_Cameras_combined.pdf) Lee, J. and Gupta, M., 2021. Blocks-World Cameras. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 11412-11422).
