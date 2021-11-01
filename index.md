@@ -18,8 +18,11 @@ To schedule for the upcoming weeks: [link](https://doodle.com/poll/kyg5kwcz9hiyi
 | 17.12.2021 | Break 2021 | - | - |
 | 24.12.2021 | Christmas Eve | - | - |
 | 31.12.2021 | New Year Eve | - | - |
-| 07.11.2021 | Jesse | TBA | TBA |
-| 14.11.2021 | Dr. Liyang | TBA | TBA |
+| 07.01.2022 | Jesse | TBA | TBA |
+| 14.01.2022 | Dr. Liyang | TBA | TBA |
+| 21.01.2022 | TBA | TBA | TBA |
+| 28.01.2022 | TBA | TBA | TBA |
+| 04.02.2022 | Dr. Mehala | TBA | TBA |
 
 ## Past Presentations
 
