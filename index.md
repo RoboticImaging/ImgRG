@@ -10,7 +10,7 @@ To schedule for the upcoming weeks: [link](https://doodle.com/poll/kyg5kwcz9hiyi
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
 | 05.11.2021 | TBA | TBA | TBA |
-| 12.11.2021 | TBA | TBA | TBA |
+| 12.11.2021 | Dr. Jasper | TBA | TBA |
 | 19.11.2021 | Ziting | TBA | TBA |
 | 26.11.2021 | Heather | TBA | TBA |
 | 03.12.2021 | Ryan | TBA | TBA |
