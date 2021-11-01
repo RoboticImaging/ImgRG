@@ -11,13 +11,15 @@ To schedule for the upcoming weeks: [link](https://doodle.com/poll/kyg5kwcz9hiyi
 | ---------| ----------- | ---------| ----------- |
 | 05.11.2021 | TBA | TBA | TBA |
 | 12.11.2021 | TBA | TBA | TBA |
-| 19.11.2021 | TBA | TBA | TBA |
-| 26.11.2021 | TBA | TBA | TBA |
-| 03.12.2021 | TBA | TBA | TBA |
-| 10.12.2021 | TBA | TBA | TBA |
-| 17.12.2021 | TBA | TBA | TBA |
+| 19.11.2021 | Ziting | TBA | TBA |
+| 26.11.2021 | Heather | TBA | TBA |
+| 03.12.2021 | Ryan | TBA | TBA |
+| 10.12.2021 | Dr. Don | TBA | TBA |
+| 17.12.2021 | Break 2021 | - | - |
 | 24.12.2021 | Christmas Eve | - | - |
 | 31.12.2021 | New Year Eve | - | - |
+| 07.11.2021 | Jesse | TBA | TBA |
+| 14.11.2021 | Dr. Liyang | TBA | TBA |
 
 ## Past Presentations
 
@@ -38,7 +40,7 @@ To schedule for the upcoming weeks: [link](https://doodle.com/poll/kyg5kwcz9hiyi
 | 08.10.2021 | Heather | Deep RGB-D Saliency Detection with Depth-Sensitive Attention and AutomaticMulti-Modal Fusion | [link](https://openaccess.thecvf.com/content/CVPR2021/html/Sun_Deep_RGB-D_Saliency_Detection_With_Depth-Sensitive_Attention_and_Automatic_Multi-Modal_CVPR_2021_paper.html) |
 | 15.10.2021 | Avie | Defocus Map Estimation and Deblurring from a Single Dual-Pixel Image | [link](https://imaging.cs.cmu.edu/dual_pixels/assets/dual_pixel_ICCV_2021.pdf) |
 | 22.10.2021 | Dr. Mehala | MaskFlownet: Asymmetric Feature Matching with Learnable Occlusion Mask | [link](https://arxiv.org/abs/2003.10955) |
-| 29.10.2021 | Bring your Favourite Paper Session | 3-4 minutes presentation by each member | Dr. Don [link](https://vsitzmann.github.io/lfns/) <br /> Dr. Liyang [link](https://arxiv.org/pdf/1801.07455.pdf), [Link](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_Skeleton-Based_Action_Recognition_With_Directed_Graph_Neural_Networks_CVPR_2019_paper.pdf) <br /> Heather [link](https://link.springer.com/chapter/10.1007/978-3-030-60633-6_38) <br /> Ryan [link](https://arxiv.org/abs/2107.00700) <br /> Avie [link](https://time-travel-rephotography.github.io/#) <br />|
+| 29.10.2021 | Bring your Favourite Paper Session | 3-4 minutes presentation by each member | Dr. Don [link](https://vsitzmann.github.io/lfns/) <br /> Dr. Liyang [link](https://arxiv.org/pdf/1801.07455.pdf), [link](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_Skeleton-Based_Action_Recognition_With_Directed_Graph_Neural_Networks_CVPR_2019_paper.pdf) <br /> Heather [link](https://link.springer.com/chapter/10.1007/978-3-030-60633-6_38) <br /> Ryan [link](https://arxiv.org/abs/2107.00700) <br /> Avie [link](https://time-travel-rephotography.github.io/#) <br />|
 
 ## Paper Suggestions for Presentation
 * [Blocks-World Camera](https://wisionlab.cs.wisc.edu/wp-content/uploads/2021/05/CVPR21_Blocks_World_Cameras_combined.pdf) Lee, J. and Gupta, M., 2021. Blocks-World Cameras. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 11412-11422).
