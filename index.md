@@ -9,7 +9,6 @@ To schedule for the upcoming weeks: [link](https://doodle.com/poll/kyg5kwcz9hiyi
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 05.11.2021 | TBA | TBA | TBA |
 | 12.11.2021 | Dr. Jasper | TBA | TBA |
 | 19.11.2021 | Ziting | TBA | TBA |
 | 26.11.2021 | Heather | TBA | TBA |
@@ -33,7 +32,7 @@ To schedule for the upcoming weeks: [link](https://doodle.com/poll/kyg5kwcz9hiyi
 | 30.07.2021 | Dr. Mitch | MBA-VO: Motion Blur Aware Visual Odometry | [link](https://arxiv.org/pdf/2103.13684.pdf) |
 | 06.08.2021 | Jesse | CodeMapping: Real-Time Dense Mapping for Sparse SLAM using Compact Scene Representations | [link](https://arxiv.org/pdf/2107.08994.pdf) |
 | 13.08.2021 | Ryan |  Data-Uncertainty Guided Multi-Phase Learning for Semi-Supervised Object Detection | [link](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Data-Uncertainty_Guided_Multi-Phase_Learning_for_Semi-Supervised_Object_Detection_CVPR_2021_paper.pdf) |
-| 20.08.2021 | Jacob | Wave-based non-line-of-sight imaging using fast f-k migration | [link](https://dl.acm.org/doi/pdf/10.1145/3306346.3322937) |
+| 20.08.2021 | Jacob | Wave-based Non-Line-of-Sight Imaging using Fast f-k Migration | [link](https://dl.acm.org/doi/pdf/10.1145/3306346.3322937) |
 | 27.08.2021 | Umar | Hypercorrelation Squeeze for Few-Shot Segmentation | [link](https://arxiv.org/pdf/2104.01538.pdf) |
 | 03.09.2021 | Dr. Don | Privacy-Preserving Action Recognition using Coded Aperture Videos | [link](https://arxiv.org/pdf/1902.09085.pdf) |
 | 10.09.2021 | Liu | Building 3D Object Models during Manipulation by Reconstruction-Aware Trajectory Optimization | [link](https://arxiv.org/pdf/1905.03907.pdf) |
@@ -44,6 +43,7 @@ To schedule for the upcoming weeks: [link](https://doodle.com/poll/kyg5kwcz9hiyi
 | 15.10.2021 | Avie | Defocus Map Estimation and Deblurring from a Single Dual-Pixel Image | [link](https://imaging.cs.cmu.edu/dual_pixels/assets/dual_pixel_ICCV_2021.pdf) |
 | 22.10.2021 | Dr. Mehala | MaskFlownet: Asymmetric Feature Matching with Learnable Occlusion Mask | [link](https://arxiv.org/abs/2003.10955) |
 | 29.10.2021 | Bring your Favourite Paper Session | 3-4 minutes presentation by each member | Dr. Don [link](https://vsitzmann.github.io/lfns/) <br /> Dr. Liyang [link](https://arxiv.org/pdf/1801.07455.pdf), [link](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_Skeleton-Based_Action_Recognition_With_Directed_Graph_Neural_Networks_CVPR_2019_paper.pdf) <br /> Heather [link](https://link.springer.com/chapter/10.1007/978-3-030-60633-6_38) <br /> Ryan [link](https://arxiv.org/abs/2107.00700) <br /> Avie [link](https://time-travel-rephotography.github.io/#) <br />|
+| 05.11.2021 | Avie | Matching in the Dark: A Dataset for Matching Image Pairs of Low-light Scenes | [link](https://openaccess.thecvf.com/content/ICCV2021/papers/Song_Matching_in_the_Dark_A_Dataset_for_Matching_Image_Pairs_ICCV_2021_paper.pdf) |
 
 ## Paper Suggestions for Presentation
 * [Blocks-World Camera](https://wisionlab.cs.wisc.edu/wp-content/uploads/2021/05/CVPR21_Blocks_World_Cameras_combined.pdf) Lee, J. and Gupta, M., 2021. Blocks-World Cameras. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 11412-11422).
