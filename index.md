@@ -19,9 +19,9 @@ To schedule for the upcoming weeks: [link](https://doodle.com/poll/kyg5kwcz9hiyi
 | 31.12.2021 | New Year Eve | - | - |
 | 07.01.2022 | Jesse | TBA | TBA |
 | 14.01.2022 | Dr. Liyang | TBA | TBA |
-| 21.01.2022 | TBA | TBA | TBA |
+| 21.01.2022 | Dr. Mehala | TBA | TBA |
 | 28.01.2022 | TBA | TBA | TBA |
-| 04.02.2022 | Dr. Mehala | TBA | TBA |
+| 04.02.2022 | TBA | TBA | TBA |
 
 ## Past Presentations
 
