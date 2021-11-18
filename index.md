@@ -9,8 +9,7 @@ To schedule for the upcoming weeks: [link](https://doodle.com/poll/kyg5kwcz9hiyi
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 12.11.2021 | Dr. Jasper | TBA | TBA |
-| 19.11.2021 | Ziting | TBA | TBA |
+| 19.11.2021 | Ziting | Iterative Teaching by Label Synthesis | [link](https://papers.nips.cc/paper/2021/file/b5488aeff42889188d03c9895255cecc-Paper.pdf) |
 | 26.11.2021 | Heather | TBA | TBA |
 | 03.12.2021 | Ryan | TBA | TBA |
 | 10.12.2021 | Dr. Don | TBA | TBA |
@@ -20,7 +19,7 @@ To schedule for the upcoming weeks: [link](https://doodle.com/poll/kyg5kwcz9hiyi
 | 07.01.2022 | Jesse | TBA | TBA |
 | 14.01.2022 | Dr. Liyang | TBA | TBA |
 | 21.01.2022 | Dr. Mehala | TBA | TBA |
-| 28.01.2022 | TBA | TBA | TBA |
+| 28.01.2022 | Georgia Rose Markham | TBA | TBA |
 | 04.02.2022 | TBA | TBA | TBA |
 
 ## Past Presentations
@@ -44,6 +43,7 @@ To schedule for the upcoming weeks: [link](https://doodle.com/poll/kyg5kwcz9hiyi
 | 22.10.2021 | Dr. Mehala | MaskFlownet: Asymmetric Feature Matching with Learnable Occlusion Mask | [link](https://arxiv.org/abs/2003.10955) |
 | 29.10.2021 | Bring your Favourite Paper Session | 3-4 minutes presentation by each member | Dr. Don [link](https://vsitzmann.github.io/lfns/) <br /> Dr. Liyang [link](https://arxiv.org/pdf/1801.07455.pdf), [link](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_Skeleton-Based_Action_Recognition_With_Directed_Graph_Neural_Networks_CVPR_2019_paper.pdf) <br /> Heather [link](https://link.springer.com/chapter/10.1007/978-3-030-60633-6_38) <br /> Ryan [link](https://arxiv.org/abs/2107.00700) <br /> Avie [link](https://time-travel-rephotography.github.io/#) <br />|
 | 05.11.2021 | Avie | Matching in the Dark: A Dataset for Matching Image Pairs of Low-light Scenes | [link](https://openaccess.thecvf.com/content/ICCV2021/papers/Song_Matching_in_the_Dark_A_Dataset_for_Matching_Image_Pairs_ICCV_2021_paper.pdf) |
+| 12.11.2021 | Dr. Jasper | An image is worth 16x16 words: Transformers for image recognition at scale | [link](https://openreview.net/forum?id=YicbFdNTTy) |
 
 ## Paper Suggestions for Presentation
 * [Blocks-World Camera](https://wisionlab.cs.wisc.edu/wp-content/uploads/2021/05/CVPR21_Blocks_World_Cameras_combined.pdf) Lee, J. and Gupta, M., 2021. Blocks-World Cameras. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 11412-11422).
