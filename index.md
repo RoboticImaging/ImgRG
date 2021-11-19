@@ -10,8 +10,8 @@ To schedule for the upcoming weeks: [link](https://doodle.com/poll/kyg5kwcz9hiyi
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
 | 19.11.2021 | Ziting | Iterative Teaching by Label Synthesis | [link](https://papers.nips.cc/paper/2021/file/b5488aeff42889188d03c9895255cecc-Paper.pdf) |
-| 26.11.2021 | Heather | TBA | TBA |
-| 03.12.2021 | Ryan | TBA | TBA |
+| 26.11.2021 | Ryan | TBA | TBA |
+| 03.12.2021 | Heather | TBA | TBA |
 | 10.12.2021 | Dr. Don | TBA | TBA |
 | 17.12.2021 | Break 2021 | - | - |
 | 24.12.2021 | Christmas Eve | - | - |
