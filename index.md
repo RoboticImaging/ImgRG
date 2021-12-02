@@ -9,8 +9,6 @@ To schedule for the upcoming weeks: [link](https://doodle.com/poll/kyg5kwcz9hiyi
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 26.11.2021 | Ryan | NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections | [link](https://openaccess.thecvf.com/content/CVPR2021/papers/Martin-Brualla_NeRF_in_the_Wild_Neural_Radiance_Fields_for_Unconstrained_Photo_CVPR_2021_paper.pdf) |
-| 03.12.2021 | Heather | TBA | TBA |
 | 10.12.2021 | Dr. Don | TBA | TBA |
 | 17.12.2021 | Break 2021 | - | - |
 | 24.12.2021 | Christmas Eve | - | - |
@@ -44,6 +42,8 @@ To schedule for the upcoming weeks: [link](https://doodle.com/poll/kyg5kwcz9hiyi
 | 05.11.2021 | Avie | Matching in the Dark: A Dataset for Matching Image Pairs of Low-light Scenes | [link](https://openaccess.thecvf.com/content/ICCV2021/papers/Song_Matching_in_the_Dark_A_Dataset_for_Matching_Image_Pairs_ICCV_2021_paper.pdf) |
 | 12.11.2021 | Dr. Jasper | An image is worth 16x16 words: Transformers for image recognition at scale | [link](https://openreview.net/forum?id=YicbFdNTTy) |
 | 19.11.2021 | Ziting | Iterative Teaching by Label Synthesis | [link](https://papers.nips.cc/paper/2021/file/b5488aeff42889188d03c9895255cecc-Paper.pdf) |
+| 26.11.2021 | Ryan | NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections | [link](https://openaccess.thecvf.com/content/CVPR2021/papers/Martin-Brualla_NeRF_in_the_Wild_Neural_Radiance_Fields_for_Unconstrained_Photo_CVPR_2021_paper.pdf) |
+| 03.12.2021 | Heather | Swin Transformer: Hierarchical Vision Transformer Using Shifted Windows | [link](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.html) |
 
 ## Paper Suggestions for Presentation
 * [Blocks-World Camera](https://wisionlab.cs.wisc.edu/wp-content/uploads/2021/05/CVPR21_Blocks_World_Cameras_combined.pdf) Lee, J. and Gupta, M., 2021. Blocks-World Cameras. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 11412-11422).
