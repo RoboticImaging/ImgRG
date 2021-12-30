@@ -42,7 +42,7 @@ The meetings are held every **Friday between 14:00 - 15:00 in hybrid mode: curre
 | 17.12.2021 | Break 2021 | - | - |
 | 24.12.2021 | Christmas Eve | - | - |
 | 31.12.2021 | New Year Eve | - | - |
-| 07.01.2022 | Break 2022 | TBA | TBA |
+| 07.01.2022 | Break 2022 | - | - |
 
 ## Paper Suggestions for Presentation
 * [Blocks-World Camera](https://wisionlab.cs.wisc.edu/wp-content/uploads/2021/05/CVPR21_Blocks_World_Cameras_combined.pdf) Lee, J. and Gupta, M., 2021. Blocks-World Cameras. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 11412-11422).
