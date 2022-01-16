@@ -2,19 +2,19 @@
 
 This page keeps track of the on-going imaging reading group activities. You will be able to find the schedule of the upcoming reading sessions, past presentations, related articles and a curated list of resources on imaging.
 
-The meetings are held every **Friday between 14:00 - 15:00 in hybrid mode: currently via Zoom** and hopefully soon in-person at J04/J18 conference room, Australian Centre for Field Robotics (ACFR), The University of Sydney, NSW, Australia. If you like to join Robotic Imaging Reading Group, feel free to contact us. 
+The meetings are held during summer on **Fridays between 11:00 - 12:00 in hybrid mode: currently via Zoom** and hopefully soon in-person at J04/J18 conference room, Australian Centre for Field Robotics (ACFR), The University of Sydney, NSW, Australia. If you like to join Robotic Imaging Reading Group, feel free to contact us. 
 
 ## Upcoming Reading Sessions
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| TBA | Jesse | TBA | TBA |
-| TBA | Dr. Mehala | TBA | TBA |
 | 28.01.2022 | Dr. Liyang | Learning One-Shot View Planning via Set Covering for Unknown Object Reconstruction | [link](https://ieeexplore.ieee.org/document/9670705) |
 | 04.02.2022 | Robotic Vision Summer School (RVSS 2022) | - | - |
 | 11.02.2022 | Georgia | TBA | TBA |
-| 18.02.2022 | TBA | TBA | TBA |
+| 18.02.2022 | Stephany | TBA | TBA |
 | 25.02.2022 | Darren Tsai | TBA | TBA |
+| TBA | Jesse | TBA | TBA |
+| TBA | Dr. Mehala | TBA | TBA |
 
 ## Past Presentations
 
