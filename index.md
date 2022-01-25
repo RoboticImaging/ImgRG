@@ -11,7 +11,7 @@ The meetings are held during summer on **Fridays between 11:00 - 12:00 in hybrid
 | 28.01.2022 | Dr. Liyang | Learning One-Shot View Planning via Set Covering for Unknown Object Reconstruction | [link](https://ieeexplore.ieee.org/document/9670705) |
 | 04.02.2022 | Robotic Vision Summer School (RVSS 2022) | - | - |
 | 11.02.2022 | Georgia | TBA | TBA |
-| 18.02.2022 | Stephany | TBA | TBA |
+| 18.02.2022 | Dr. Stephany | TBA | TBA |
 | 25.02.2022 | Darren Tsai | TBA | TBA |
 | TBA | Jesse | TBA | TBA |
 | TBA | Dr. Mehala | TBA | TBA |
