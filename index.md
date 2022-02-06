@@ -8,8 +8,6 @@ The meetings are held during summer on **Fridays between 11:00 - 12:00 in hybrid
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 28.01.2022 | Dr. Liyang | Learning One-Shot View Planning via Set Covering for Unknown Object Reconstruction | [link](https://ieeexplore.ieee.org/document/9670705) |
-| 04.02.2022 | Robotic Vision Summer School (RVSS 2022) | - | - |
 | 11.02.2022 | Georgia | TBA | TBA |
 | 18.02.2022 | Dr. Stephany | TBA | TBA |
 | 25.02.2022 | Darren Tsai | TBA | TBA |
@@ -45,7 +43,8 @@ The meetings are held during summer on **Fridays between 11:00 - 12:00 in hybrid
 | 17.12.2021 | Break 2021 | - | - |
 | 24.12.2021 | Christmas Eve | - | - |
 | 31.12.2021 | New Year Eve | - | - |
-| 07.01.2022 | Break 2022 | - | - |
+| 07.01.2022 - 28.01.2022| Break 2022 | - | - |
+| 04.02.2022 | Dr. Liyang | Learning One-Shot View Planning via Set Covering for Unknown Object Reconstruction | [link](https://ieeexplore.ieee.org/document/9670705) |
 
 ## Paper Suggestions for Presentation
 * [Blocks-World Camera](https://wisionlab.cs.wisc.edu/wp-content/uploads/2021/05/CVPR21_Blocks_World_Cameras_combined.pdf) Lee, J. and Gupta, M., 2021. Blocks-World Cameras. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 11412-11422).
