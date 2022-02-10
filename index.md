@@ -8,7 +8,7 @@ The meetings are held during summer on **Fridays between 11:00 - 12:00 in hybrid
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 11.02.2022 | Georgia | TBA | TBA |
+| 11.02.2022 | Georgia | Video Swin Transformer | [link](https://arxiv.org/abs/2106.13230) |
 | 18.02.2022 | Dr. Stephany | TBA | TBA |
 | 25.02.2022 | Darren Tsai | TBA | TBA |
 | TBA | Jesse | TBA | TBA |
