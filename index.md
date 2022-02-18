@@ -15,23 +15,23 @@ The meetings are held during summer on **Fridays between 11:00 - 12:00 in hybrid
 
 ## Active Presenters
 
-| Active | Team |
-| ---------| ----------- | 
-| Jack Naylor | Kunming Li |
-| Jesse Morris | Dr. Mehala |
-| Georgia Markham |
-| Ryan Griffiths |
-| Heather Doig |
-| Darren Tsai |
-| Will Marais |
-| Jacob MacKay |
-| Ahalya Ravendran |
-| Ziting Wen |
-| Dr. Stephany Berrio |
-| Dr. Jasper Brown |
-| Dr. Donald Danaserau |
-| Dr. Mitch Bryson |
-
+*Jack Naylor
+*Jesse Morris
+*Georgia Markham
+*Ryan Griffiths
+*Heather Doig
+*Darren Tsai
+*Will Marais
+*Jacob MacKay
+*Ahalya Ravendran
+*Ziting Wen
+*Evie Deaker
+*Dr. Stephany Berrio
+*Dr. Liyang Liu
+*Dr. Mehala Balamurali
+*Dr. Jasper Brown
+*Dr. Mitch Bryson
+*Dr. Donald Danaserau
 
 ## Past Presentations
 
