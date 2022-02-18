@@ -64,7 +64,7 @@ The meetings are held during summer on **Fridays between 11:00 - 12:00 in hybrid
 | 26.11.2021 | Ryan | NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections | [link](https://openaccess.thecvf.com/content/CVPR2021/papers/Martin-Brualla_NeRF_in_the_Wild_Neural_Radiance_Fields_for_Unconstrained_Photo_CVPR_2021_paper.pdf) |
 | 03.12.2021 | Heather | Swin Transformer: Hierarchical Vision Transformer Using Shifted Windows | [link](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.html) |
 | 10.12.2021 | Dr. Don | Communal Retrospective Session | - |
-| 17.12.2021 - 28.01.2022| Break 2021/2022 | - | - |
+| 17.12.2021-28.01.2022| Break 2021/2022 | - | - |
 | 04.02.2022 | Dr. Liyang | Learning One-Shot View Planning via Set Covering for Unknown Object Reconstruction | [link](https://ieeexplore.ieee.org/document/9670705) |
 
 ## Paper Suggestions for Presentation
