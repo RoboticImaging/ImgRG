@@ -12,8 +12,28 @@ The meetings are held during summer on **Fridays between 11:00 - 12:00 in hybrid
 
 | 25.02.2022 | Darren Tsai | TBA | TBA |
 | 04.03.2022 | Georgia | Multiview Transformers for Video Recognition | [link](https://arxiv.org/pdf/2201.04288v2.pdf) |
-| 11.03.2022 | Jesse | TBA | TBA |
+| 11.03.2022 | TBA | TBA | TBA |
 | 18.03.2022 | Dr. Stephany | TBA | TBA |
+
+## Active Presenters
+
+| Active | Team |
+| ---------| ----------- | 
+| Jack Naylor | Kunming Li |
+| Jesse Morris | Dr. Mehala |
+| Georgia Markham |
+| Ryan Griffiths |
+| Heather Doig |
+| Darren Tsai |
+| Will Marais |
+| Jacob MacKay |
+| Ahalya Ravendran |
+| Ziting Wen |
+| Dr. Stephany Berrio |
+| Dr. Jasper Brown |
+| Dr. Donald Danaserau |
+| Dr. Mitch Bryson |
+
 
 ## Past Presentations
 
