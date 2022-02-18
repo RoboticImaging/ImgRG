@@ -8,8 +8,6 @@ The meetings are held during summer on **Fridays between 11:00 - 12:00 in hybrid
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 11.02.2022 | Meeting Cancelled | - | - |
-
 | 25.02.2022 | Darren Tsai | TBA | TBA |
 | 04.03.2022 | Georgia | Multiview Transformers for Video Recognition | [link](https://arxiv.org/pdf/2201.04288v2.pdf) |
 | 11.03.2022 | TBA | TBA | TBA |
@@ -61,10 +59,7 @@ The meetings are held during summer on **Fridays between 11:00 - 12:00 in hybrid
 | 26.11.2021 | Ryan | NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections | [link](https://openaccess.thecvf.com/content/CVPR2021/papers/Martin-Brualla_NeRF_in_the_Wild_Neural_Radiance_Fields_for_Unconstrained_Photo_CVPR_2021_paper.pdf) |
 | 03.12.2021 | Heather | Swin Transformer: Hierarchical Vision Transformer Using Shifted Windows | [link](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.html) |
 | 10.12.2021 | Dr. Don | Communal Retrospective Session | - |
-| 17.12.2021 | Break 2021 | - | - |
-| 24.12.2021 | Christmas Eve | - | - |
-| 31.12.2021 | New Year Eve | - | - |
-| 07.01.2022 - 28.01.2022| Break 2022 | - | - |
+| 17.12.2021 - 28.01.2022| Break 2021/2022 | - | - |
 | 04.02.2022 | Dr. Liyang | Learning One-Shot View Planning via Set Covering for Unknown Object Reconstruction | [link](https://ieeexplore.ieee.org/document/9670705) |
 
 ## Paper Suggestions for Presentation
@@ -72,7 +67,6 @@ The meetings are held during summer on **Fridays between 11:00 - 12:00 in hybrid
 * [A Physics-based Noise Formation Model for Extreme Low-light Raw Denoising](https://arxiv.org/abs/2003.12751) Wei, K., Fu, Y., Yang, J. and Huang, H., 2020. A physics-based noise formation model for extreme low-light raw denoising. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 2758-2767).
 * [ACORN: Adaptive Coordinate Networks for Neural Representation](https://arxiv.org/pdf/2105.02788.pdf) Martel, J.N., Lindell, D.B., Lin, C.Z., Chan, E.R., Monteiro, M. and Wetzstein, G., 2021. ACORN: Adaptive Coordinate Networks for Neural Scene Representation. arXiv preprint arXiv:2105.02788.
 * [Single-Image HDR Reconstruction by Learning to Reverse the Camera Pipeline](https://arxiv.org/abs/2004.01179) Liu, Y.L., Lai, W.S., Chen, Y.S., Kao, Y.L., Yang, M.H., Chuang, Y.Y. and Huang, J.B., 2020. Single-image HDR reconstruction by learning to reverse the camera pipeline. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 1651-1660).
-* [MaskFlownet: Asymmetric Feature Matching with Learnable Occlusion Mask](https://arxiv.org/abs/2003.10955). Zhao, S., Sheng, Y., Dong, Y., Chang, E.I. and Xu, Y., 2020. Maskflownet: Asymmetric feature matching with learnable occlusion mask. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 6278-6287).
 * [Warp to the Future: Joint Forecasting of Features and Feature Motion](https://ieeexplore.ieee.org/document/9157463) Saric, J., Orsic, M., Antunovic, T., Vrazic, S. and Segvic, S., 2020. Warp to the future: Joint forecasting of features and feature motion. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 10648-10657).
 * [Unsupervised Learning of Depth and Ego-Motion from Video](https://people.eecs.berkeley.edu/~tinghuiz/projects/SfMLearner/) Zhou, T., Brown, M., Snavely, N. and Lowe, D.G., 2017. Unsupervised learning of depth and ego-motion from video. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 1851-1858).
 * [Looking Beyond Two Frames: End-to-End Multi-Object Tracking Using Spatial and Temporal Transformers](https://arxiv.org/pdf/2103.14829.pdf) Zhu, T., Hiller, M., Ehsanpour, M., Ma, R., Drummond, T. and Rezatofighi, H., 2021. Looking Beyond Two Frames: End-to-End Multi-Object Tracking Using Spatial and Temporal Transformers. arXiv preprint arXiv:2103.14829.
