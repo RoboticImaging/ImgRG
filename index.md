@@ -13,25 +13,30 @@ The meetings are held during summer on **Fridays between 11:00 - 12:00 in hybrid
 | 11.03.2022 | TBA | TBA | TBA |
 | 18.03.2022 | Dr. Stephany | TBA | TBA |
 
-## Active Presenters
+## Members 
+* Active, Presenters
+  * Jack Naylor
+  * Jesse Morris
+  * Georgia Markham
+  * Ryan Griffiths
+  * Heather Doig
+  * Darren Tsai
+  * Will Marais
+  * Jacob MacKay
+  * Ahalya Ravendran
+  * Ziting Wen
+  * Dr. Jasper Brown
+  * Dr. James Allworth
+  * Dr. Stephany Berrio
+  * Dr. Liyang Liu
+  * Dr. Mehala Balamurali
+  * Dr. Mitch Bryson
+  * Dr. Donald Danaserau
 
-*Jack Naylor
-*Jesse Morris
-*Georgia Markham
-*Ryan Griffiths
-*Heather Doig
-*Darren Tsai
-*Will Marais
-*Jacob MacKay
-*Ahalya Ravendran
-*Ziting Wen
-*Evie Deaker
-*Dr. Stephany Berrio
-*Dr. Liyang Liu
-*Dr. Mehala Balamurali
-*Dr. Jasper Brown
-*Dr. Mitch Bryson
-*Dr. Donald Danaserau
+* Others
+  * Kunming Li
+  * Evie Deaker
+  
 
 ## Past Presentations
 
