@@ -8,7 +8,7 @@ The meetings are held during summer on **Fridays between 11:00 - 12:00 in hybrid
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 25.02.2022 | Darren Tsai | TBA | TBA |
+| 25.02.2022 | Darren Tsai | Canonical Capsules: Self-Supervised Capsules in Canonical Pose | [link](https://canonical-capsules.github.io/resources/CanonicalCapsulesNeurIPS2021.pdf) |
 | 04.03.2022 | Georgia | Multiview Transformers for Video Recognition | [link](https://arxiv.org/pdf/2201.04288v2.pdf) |
 | 11.03.2022 | TBA | TBA | TBA |
 | 18.03.2022 | Dr. Stephany | TBA | TBA |
