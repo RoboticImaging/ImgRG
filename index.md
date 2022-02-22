@@ -21,7 +21,6 @@ The meetings are held during summer on **Fridays between 11:00 - 12:00 in hybrid
   * Ryan Griffiths
   * Heather Doig
   * Darren Tsai
-  * Will Marais
   * Jacob MacKay
   * Ahalya Ravendran
   * Ziting Wen
@@ -29,13 +28,14 @@ The meetings are held during summer on **Fridays between 11:00 - 12:00 in hybrid
   * Dr. James Allworth
   * Dr. Stephany Berrio
   * Dr. Liyang Liu
-  * Dr. Mehala Balamurali
   * Dr. Mitch Bryson
   * Dr. Donald Danaserau
 
 * Others
   * Kunming Li
   * Evie Deaker
+  * Will Marais
+  * Dr. Mehala Balamurali
   
 
 ## Past Presentations
