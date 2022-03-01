@@ -12,20 +12,26 @@ The meetings are held during summer on **Fridays between 11:00 - 12:00 in hybrid
 | 04.03.2022 | Georgia | Multiview Transformers for Video Recognition | [link](https://arxiv.org/pdf/2201.04288v2.pdf) |
 | 11.03.2022 | TBA | TBA | TBA |
 | 18.03.2022 | Dr. Stephany | TBA | TBA |
+| 25.03.2022 | Jesse | TBA | TBA |
+| 01.04.2022 | TBA | TBA | TBA |
+| 08.04.2022 | Ziting | TBA | TBA |
+| 15.04.2022 | TBA | TBA | TBA |
+| 22.04.2022 | TBA | TBA | TBA |
+| 29.04.2022 | TBA | TBA | TBA |
+| 06.05.2022 | Dr. Mehala | TBA | TBA |
 
 ## Members 
 * Active, Presenters
-  * Jack Naylor
   * Jesse Morris
   * Georgia Markham
   * Ryan Griffiths
   * Heather Doig
   * Darren Tsai
-  * Jacob MacKay
   * Ahalya Ravendran
   * Ziting Wen
+  * Jacob MacKay
+  * James Allworth
   * Dr. Jasper Brown
-  * Dr. James Allworth
   * Dr. Stephany Berrio
   * Dr. Liyang Liu
   * Dr. Mitch Bryson
