@@ -8,7 +8,6 @@ The meetings are held during summer on **Fridays between 11:00 - 12:00 in hybrid
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 25.02.2022 | Darren Tsai | Canonical Capsules: Self-Supervised Capsules in Canonical Pose | [link](https://canonical-capsules.github.io/resources/CanonicalCapsulesNeurIPS2021.pdf) |
 | 04.03.2022 | Georgia | Multiview Transformers for Video Recognition | [link](https://arxiv.org/pdf/2201.04288v2.pdf) |
 | 11.03.2022 | TBA | TBA | TBA |
 | 18.03.2022 | Dr. Stephany | TBA | TBA |
@@ -72,6 +71,7 @@ The meetings are held during summer on **Fridays between 11:00 - 12:00 in hybrid
 | 10.12.2021 | Dr. Don | Communal Retrospective Session | - |
 | 17.12.2021-28.01.2022| Break 2021/2022 | - | - |
 | 04.02.2022 | Dr. Liyang | Learning One-Shot View Planning via Set Covering for Unknown Object Reconstruction | [link](https://ieeexplore.ieee.org/document/9670705) |
+| 25.02.2022 | Darren Tsai | Canonical Capsules: Self-Supervised Capsules in Canonical Pose | [link](https://canonical-capsules.github.io/resources/CanonicalCapsulesNeurIPS2021.pdf) |
 
 ## Paper Suggestions for Presentation
 * [Blocks-World Camera](https://wisionlab.cs.wisc.edu/wp-content/uploads/2021/05/CVPR21_Blocks_World_Cameras_combined.pdf) Lee, J. and Gupta, M., 2021. Blocks-World Cameras. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 11412-11422).
