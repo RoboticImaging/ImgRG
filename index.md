@@ -9,18 +9,17 @@ The meetings are held during summer on **Fridays between 11:00 - 12:00 in hybrid
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
 | 07.03.2022 | Avie | Implicit Neural Representations with Periodic Activation Functions  | [link](https://proceedings.neurips.cc/paper/2020/file/53c04118df112c13a8c34b38343b9c10-Paper.pdf) |
-| 14.03.2022 | Dr. Stephany | TBA | TBA |
+| 14.03.2022 | Ryan | SEAL: Self-supervised Embodied Active Learning | https://devendrachaplot.github.io/papers/neurips21_seal.pdf |
 | 21.03.2022 | Jesse | TBA | TBA |
 | 28.03.2022 | Feng | TBA | TBA |
 | 04.04.2022 | Ziting | TBA | TBA |
 | 11.04.2022 | Jack | TBA | TBA |
-| 18.04.2022 | TBA | TBA | TBA |
-| 25.04.2022 | Ryan | TBA | TBA |
-| 02.05.2022 | Dr. Mehala | TBA | TBA |
-| 09.05.2022 | Heather | TBA | TBA |
-| 16.05.2022 | Dr. Liyang | TBA | TBA |
-| 23.05.2022 | Darren | TBA | TBA |
-| 30.05.2022 | Georgia | TBA | TBA |
+| 18.04.2022 | Dr. Mehala  | TBA | TBA |
+| 25.04.2022 | Heather | TBA | TBA |
+| 02.05.2022 | Dr. Liyang | TBA | TBA |
+| 09.05.2022 | Darren | TBA | TBA |
+| 16.05.2022 | Georgia | TBA | TBA |
+| 23.05.2022 | TBA | TBA | TBA |
 
 ## Members 
 * Active, Presenters
