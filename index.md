@@ -8,12 +8,11 @@ The meetings are held during summer on **Fridays between 11:00 - 12:00 in hybrid
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 14.03.2022 | Ryan | SEAL: Self-supervised Embodied Active Learning | https://devendrachaplot.github.io/papers/neurips21_seal.pdf |
-| 21.03.2022 | Jesse | TBA | TBA |
+| 21.03.2022 | Jack | Pixel-Perfect Structure-from-Motion with Featuremetric Refinement | [link](https://openaccess.thecvf.com/content/ICCV2021/papers/Lindenberger_Pixel-Perfect_Structure-From-Motion_With_Featuremetric_Refinement_ICCV_2021_paper.pdf) |
 | 28.03.2022 | Feng | TBA | TBA |
 | 01.04.2022 | Dr. Stephany | TBA | TBA |
 | 11.04.2022 | Ziting | TBA | TBA |
-| 18.04.2022 | Jack | TBA | TBA |
+| 18.04.2022 | Jesse | TBA | TBA |
 | 25.04.2022 | Dr. Mehala  | TBA | TBA |
 | 02.04.2022 | Heather | TBA | TBA |
 | 09.05.2022 | Dr. Liyang | TBA | TBA |
@@ -76,6 +75,7 @@ The meetings are held during summer on **Fridays between 11:00 - 12:00 in hybrid
 | 25.02.2022 | Darren Tsai | Canonical Capsules: Self-Supervised Capsules in Canonical Pose | [link](https://canonical-capsules.github.io/resources/CanonicalCapsulesNeurIPS2021.pdf) |
 | 04.03.2022 | Georgia | Multiview Transformers for Video Recognition | [link](https://arxiv.org/pdf/2201.04288v2.pdf) |
 | 07.03.2022 | Avie | Implicit Neural Representations with Periodic Activation Functions  | [link](https://proceedings.neurips.cc/paper/2020/file/53c04118df112c13a8c34b38343b9c10-Paper.pdf) |
+| 14.03.2022 | Ryan | SEAL: Self-supervised Embodied Active Learning | [link](https://devendrachaplot.github.io/papers/neurips21_seal.pdf) |
 
 ## Paper Suggestions for Presentation
 * [Blocks-World Camera](https://wisionlab.cs.wisc.edu/wp-content/uploads/2021/05/CVPR21_Blocks_World_Cameras_combined.pdf) Lee, J. and Gupta, M., 2021. Blocks-World Cameras. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 11412-11422).
