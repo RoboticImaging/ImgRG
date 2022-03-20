@@ -14,7 +14,7 @@ The meetings are held during summer on **Fridays between 11:00 - 12:00 in hybrid
 | 11.04.2022 | Ziting | TBA | TBA |
 | 18.04.2022 | Jesse | TBA | TBA |
 | 25.04.2022 | Dr. Mehala  | TBA | TBA |
-| 02.04.2022 | Heather | TBA | TBA |
+| 02.05.2022 | Heather | TBA | TBA |
 | 09.05.2022 | Dr. Liyang | TBA | TBA |
 | 16.05.2022 | Darren | TBA | TBA |
 | 23.05.2022 | Georgia | TBA | TBA |
