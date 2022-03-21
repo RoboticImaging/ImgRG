@@ -12,13 +12,13 @@ The meetings are held during summer on **Fridays between 11:00 - 12:00 in hybrid
 | 28.03.2022 | Dr. Stephany  | TBA | TBA |
 | 01.04.2022 | Ziting | TBA | TBA |
 | 11.04.2022 | Feyu | TBA | TBA |
-| 18.04.2022 | Heather | TBA | TBA |
+| 18.04.2022 | TBA | TBA | TBA |
 | 25.04.2022 | TBA  | TBA | TBA |
-| 02.05.2022 | Dr. Mehala  | TBA | TBA |
-| 09.05.2022 | James | TBA | TBA |
-| 16.05.2022 | Darren | TBA | TBA |
+| 02.05.2022 | Dr. Mehala | TBA | TBA |
+| 09.05.2022 | Heather | TBA | TBA |
+| 16.05.2022 | James | TBA | TBA |
 | 23.05.2022 | Georgia | TBA | TBA |
-| 30.05.2022 | TBA | TBA | TBA |
+| 30.05.2022 | Darren | TBA | TBA |
 
 ## Members 
 * Active, Presenters
