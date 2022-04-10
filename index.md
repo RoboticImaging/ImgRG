@@ -9,6 +9,9 @@ The meetings are held during summer on **Fridays between 11:00 - 12:00 in hybrid
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
 | 11.04.2022 | Feyu | TBA | TBA |
+| 18.04.2022 | EASTER MONDAY | - | - |
+| 25.04.2022 | TBA | TBA | TBA |
+| 02.05.2022 | TBA | TBA | TBA |
 | 09.05.2022 | Heather | TBA | TBA |
 | 16.05.2022 | James | TBA | TBA |
 | 23.05.2022 | Georgia | TBA | TBA |
