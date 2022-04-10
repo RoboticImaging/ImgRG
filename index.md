@@ -14,22 +14,31 @@ The meetings are held during summer on **Fridays between 11:00 - 12:00 in hybrid
 | 02.05.2022 | TBA | TBA | TBA |
 | 09.05.2022 | Heather | TBA | TBA |
 | 16.05.2022 | James | TBA | TBA |
-| 23.05.2022 | Georgia | TBA | TBA |
+| 23.05.2022 | Liyang | TBA | TBA |
 | 30.05.2022 | Darren | TBA | TBA |
-
+| 06.06.2022 | Georgia | TBA | TBA |
+| 13.06.2022 | Avie | TBA | TBA |
+| 20.06.2022 | Ryan | TBA | TBA |
+| 27.06.2022 | Jack | TBA | TBA |
+| 04.07.2022 | Stephany | TBA | TBA |
+| 11.07.2022 | Ziting | TBA | TBA |
+| 18.07.2022 | Feyu | TBA | TBA |
+| 25.07.2022 | Mitch | TBA | TBA |
+| 01.08.2022 | Don | TBA | TBA |
+| 08.08.2022 | Heather | TBA | TBA |
 
 ## Members 
 * Active, Presenters
-  * Jesse Morris
   * Georgia Markham
   * Ryan Griffiths
+  * Jack Naylor
+  * Feiyu Wang
+  * Ziting Wen
   * Heather Doig
   * Darren Tsai
   * Ahalya Ravendran
   * Ziting Wen
-  * Jacob MacKay
   * James Allworth
-  * Dr. Jasper Brown
   * Dr. Stephany Berrio
   * Dr. Liyang Liu
   * Dr. Mitch Bryson
@@ -40,7 +49,9 @@ The meetings are held during summer on **Fridays between 11:00 - 12:00 in hybrid
   * Evie Deaker
   * Will Marais
   * Dr. Mehala Balamurali
-  
+  * Jacob MacKay
+  * Jesse Morris
+  * Dr. Jasper Brown
 
 ## Past Presentations
 
