@@ -10,8 +10,8 @@ The meetings are held during summer on **Fridays between 11:00 - 12:00 in hybrid
 | ---------| ----------- | ---------| ----------- |
 
 | 11.04.2022 | Feyu | TBA | TBA |
-| 18.04.2022 | Easter Monday Holidays | - | - |
-| 25.04.2022 | TBA  | TBA | TBA |
+| 18.04.2022 | TBA | - | - |
+| 25.04.2022 | TBA | TBA | TBA |
 | 02.05.2022 | TBA | TBA | TBA |
 | 09.05.2022 | Heather | TBA | TBA |
 | 16.05.2022 | James | TBA | TBA |
