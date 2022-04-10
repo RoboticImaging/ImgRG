@@ -8,7 +8,7 @@ The meetings are held during summer on **Fridays between 11:00 - 12:00 in hybrid
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 11.04.2022 | Feyu | Meta Pseudo Labels | [link](https://openaccess.thecvf.com/content/CVPR2021/papers/Pham_Meta_Pseudo_Labels_CVPR_2021_paper.pdf) |
+| 11.04.2022 | Feiyu | Meta Pseudo Labels | [link](https://openaccess.thecvf.com/content/CVPR2021/papers/Pham_Meta_Pseudo_Labels_CVPR_2021_paper.pdf) |
 | 18.04.2022 | EASTER MONDAY | - | - |
 | 25.04.2022 | TBA | TBA | TBA |
 | 02.05.2022 | TBA | TBA | TBA |
