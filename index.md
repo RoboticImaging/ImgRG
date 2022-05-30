@@ -22,10 +22,10 @@ The meetings are held on Mondays between 11:00 - 12:00 in hybrid mode: via Zoom 
 | 22.08.2022 | Evie | TBA | TBA |
 | 29.08.2022 | Bhargava | TBA | TBA |
 | 05.09.2022 | Mehala | TBA | TBA |
-| 12.09.2022 | Jesse | TBA | TBA |
+| 12.09.2022 | Suraj | TBA | TBA |
 | 19.09.2022 | Stephany | TBA | TBA |
 | 26.09.2022 | Heather | TBA | TBA |
-| 03.10.2022 | TBA | TBA | TBA |
+| 03.10.2022 | Jesse | TBA | TBA |
 
 ## Members 
 * Active, Presenters
