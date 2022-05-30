@@ -131,6 +131,4 @@ The meetings are held on Mondays between 11:00 - 12:00 in hybrid mode: via Zoom 
 
 ### Contact Us
 Organizers:
-Ahalya Ravendran (ahalya dot ravendran dot sydney dot edu dot au)
 Ryan Griffiths (ryan dot griffiths dot sydney dot edu dot au)
-Donald Dansereau (donald dot dansereau dot sydney dot edu dot au)
