@@ -1,2 +1,2 @@
 # ImgRG
-Robotic Imaging Reading Group, To visit: https://avie00.github.io/ImgRG/
+Robotic Imaging Reading Group, To visit: https://roboticimaging.github.io/ImgRG/
