@@ -8,24 +8,24 @@ The meetings are held during summer on **Fridays between 11:00 - 12:00 in hybrid
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 11.04.2022 | Feiyu | Meta Pseudo Labels | [link](https://openaccess.thecvf.com/content/CVPR2021/papers/Pham_Meta_Pseudo_Labels_CVPR_2021_paper.pdf) |
-| 18.04.2022 | EASTER MONDAY | - | - |
-| 25.04.2022 | TBA | TBA | TBA |
-| 02.05.2022 | TBA | TBA | TBA |
-| 09.05.2022 | Heather | TBA | TBA |
-| 16.05.2022 | James | TBA | TBA |
-| 23.05.2022 | Liyang | TBA | TBA |
-| 30.05.2022 | Darren | TBA | TBA |
-| 06.06.2022 | Georgia | TBA | TBA |
-| 13.06.2022 | Avie | TBA | TBA |
-| 20.06.2022 | Ryan | TBA | TBA |
-| 27.06.2022 | Jack | TBA | TBA |
-| 04.07.2022 | Stephany | TBA | TBA |
-| 11.07.2022 | Ziting | TBA | TBA |
-| 18.07.2022 | Feyu | TBA | TBA |
-| 25.07.2022 | Mitch | TBA | TBA |
-| 01.08.2022 | Don | TBA | TBA |
-| 08.08.2022 | Heather | TBA | TBA |
+| 06.06.2022 | Mitch | TBA | TBA |
+| 13.06.2022 | Liyang | TBA | TBA |
+| 20.06.2022 | Darren | TBA | TBA |
+| 27.06.2022 | James | TBA | TBA |
+| 04.07.2022 | Avie | TBA | TBA |
+| 11.07.2022 | Georgia | TBA | TBA |
+| 18.07.2022 | Ryan | TBA | TBA |
+| 25.07.2022 | Jack | TBA | TBA |
+| 01.08.2022 | Ziting | TBA | TBA |
+| 08.08.2022 | Feiyu | TBA | TBA |
+| 15.08.2022 | Don | TBA | TBA |
+| 22.08.2022 | Evie | TBA | TBA |
+| 29.08.2022 | Bhargava | TBA | TBA |
+| 05.09.2022 | Mehala | TBA | TBA |
+| 12.09.2022 | Jesse | TBA | TBA |
+| 19.09.2022 | Stephany | TBA | TBA |
+| 26.09.2022 | Heather | TBA | TBA |
+| 03.10.2022 | TBA | TBA | TBA |
 
 ## Members 
 * Active, Presenters
@@ -88,6 +88,8 @@ The meetings are held during summer on **Fridays between 11:00 - 12:00 in hybrid
 | 21.03.2022 | Jack | Pixel-Perfect Structure-from-Motion with Featuremetric Refinement | [link](https://openaccess.thecvf.com/content/ICCV2021/papers/Lindenberger_Pixel-Perfect_Structure-From-Motion_With_Featuremetric_Refinement_ICCV_2021_paper.pdf) |
 | 28.03.2022 | Dr. Stephany  | EfficientPS: Efficient Panoptic Segmentation | [link](https://arxiv.org/abs/2004.02307) |
 | 01.04.2022 | Ziting | In-Place Scene Labelling and Understanding with Implicit Scene Representation | [link](https://arxiv.org/abs/2103.15875) |
+| 11.04.2022 | Feiyu | Meta Pseudo Labels | [link](https://openaccess.thecvf.com/content/CVPR2021/papers/Pham_Meta_Pseudo_Labels_CVPR_2021_paper.pdf) |
+| 09.05.2022 | Heather | Siamese Transformer Pyramid Networks for Real-Time UAV Tracking | [link](https://openaccess.thecvf.com/content/WACV2022/html/Xing_Siamese_Transformer_Pyramid_Networks_for_Real-Time_UAV_Tracking_WACV_2022_paper.html) |
 
 ## Paper Suggestions for Presentation
 * [Blocks-World Camera](https://wisionlab.cs.wisc.edu/wp-content/uploads/2021/05/CVPR21_Blocks_World_Cameras_combined.pdf) Lee, J. and Gupta, M., 2021. Blocks-World Cameras. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 11412-11422).
@@ -114,40 +116,21 @@ The meetings are held during summer on **Fridays between 11:00 - 12:00 in hybrid
 * [Awesome Robotic Imaging](https://github.com/avie00/Awesome-Robotic-Imaging)
 
 ### Upcoming Conferences 
-* [SIGGRAPH](https://s2022.siggraph.org/) - Graphics
-* [Computer Vision Foundation open access](http://cvpr2022.thecvf.com/) - Robotic Imaging; Computer Vision
-* [ICRA 2022: International Conference on Robotics and Automation](https://www.icra2022.org/) - Robotic Imaging
-* [IROS 2022: International Conference on Intelligent Robots and Systems](https://iros2022.org/) - Robotic Imaging
-* [ECCV 2022: European Conference on Computer Vision](https://iros2022.org/) - Robotic Imaging; Computer Vision
+* [ICCP 2022: International Conference on Computational Photography](https://iccp-conference.org/) - Computational Imaging
+* [SIGGRAPH](http://kesen.realtimerendering.com/sig2022.html) - Graphics, Robotic Imaging
+* [Computer Vision Foundation open access](http://cvpr2022.thecvf.com/) - Robotic Imaging, Computer Vision, Robotic Vision
+* [IROS 2022: International Conference on Intelligent Robots and Systems](https://iros2022.org/) - Robotic Vision
+* [ECCV 2022: European Conference on Computer Vision](https://eccv2022.ecva.net)) - Robotic Vision; Computer Vision
 
 ### Recent Conferences
-* [SIGGRAPH](https://s2020.siggraph.org/wp-content/uploads/2020/08/tog394firstpages.pdf) - Graphics
-* [NeurIPS Proceedings](https://proceedings.neurips.cc//) - Robotic Imaging; Machine Learning
-* [Computer Vision Foundation open access](https://openaccess.thecvf.com/menu) - Robotic Imaging; Computer Vision
-* [ICCP 2021: International Conference on Computational Photography](https://iccp-conference.org/) - Robotic Imaging; Computational Imaging
-* [IROS: 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems](https://www.iros2021.org/) - Robotic Imaging
+* [ICRA 2022: International Conference on Robotics and Automation](https://www.icra2022.org/) - Robotic Vision
+* [IROS: 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems](https://www.iros2021.org/) - Robotic Vision
+* [SIGGRAPH](https://kesen.realtimerendering.com/sig2021.html) - Graphics
+* [NeurIPS Proceedings](https://proceedings.neurips.cc//) - Robotic Vision, Machine Learning
+* [Computer Vision Foundation open access](https://openaccess.thecvf.com/menu) - Robotic Imaging, Robotic Vision, Computer Vision
 
 ### Contact Us
-{::nomarkdown}
-<form
-  action="https://formspree.io/f/xbjqazgp"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="email" name="_replyto">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-<button type="submit">Send</button>
-</form>
-{:/nomarkdown}
-
-### Gallery
-<p align="center">
-  <img width="288" height="222" src="https://github.com/avie00/ImgRG/blob/gh-pages/RM.png">
-</p>
-
-
+Organizers:
+Ahalya Ravendran (ahalya dot ravendran dot sydney dot edu dot au)
+Ryan Griffiths (ryan dot griffiths dot sydney dot edu dot au)
+Donald Dansereau (donald dot dansereau dot sydney dot edu dot au)
