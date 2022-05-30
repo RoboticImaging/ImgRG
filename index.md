@@ -130,5 +130,5 @@ The meetings are held on Mondays between 11:00 - 12:00 in hybrid mode: via Zoom 
 * [Computer Vision Foundation open access](https://openaccess.thecvf.com/menu) - Robotic Imaging, Robotic Vision, Computer Vision
 
 ### Contact Us
-Organizers:
+Organizer:
 Ryan Griffiths (r dot griffiths at acfr dot usyd dot edu dot au)
