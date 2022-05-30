@@ -131,4 +131,4 @@ The meetings are held on Mondays between 11:00 - 12:00 in hybrid mode: via Zoom 
 
 ### Contact Us
 Organizers:
-Ryan Griffiths (ryan dot griffiths dot sydney dot edu dot au)
+Ryan Griffiths (r dot griffiths at acfr dot usyd dot edu dot au)
