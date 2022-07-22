@@ -8,14 +8,7 @@ The meetings are held on Mondays between 11:00 - 12:00 in hybrid mode: via Zoom 
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 06.06.2022 | Mitch | TBA | TBA |
-| 13.06.2022 | Liyang | TBA | TBA |
-| 20.06.2022 | Darren | TBA | TBA |
-| 27.06.2022 | James | TBA | TBA |
-| 04.07.2022 | Avie | TBA | TBA |
-| 11.07.2022 | Georgia | TBA | TBA |
-| 18.07.2022 | Ryan | TBA | TBA |
-| 25.07.2022 | Jack | TBA | TBA |
+| 25.07.2022 | Georgia | TBA | TBA |
 | 01.08.2022 | Ziting | TBA | TBA |
 | 08.08.2022 | Feiyu | TBA | TBA |
 | 15.08.2022 | Don | TBA | TBA |
@@ -90,6 +83,12 @@ The meetings are held on Mondays between 11:00 - 12:00 in hybrid mode: via Zoom 
 | 01.04.2022 | Ziting | In-Place Scene Labelling and Understanding with Implicit Scene Representation | [link](https://arxiv.org/abs/2103.15875) |
 | 11.04.2022 | Feiyu | Meta Pseudo Labels | [link](https://openaccess.thecvf.com/content/CVPR2021/papers/Pham_Meta_Pseudo_Labels_CVPR_2021_paper.pdf) |
 | 09.05.2022 | Heather | Siamese Transformer Pyramid Networks for Real-Time UAV Tracking | [link](https://openaccess.thecvf.com/content/WACV2022/html/Xing_Siamese_Transformer_Pyramid_Networks_for_Real-Time_UAV_Tracking_WACV_2022_paper.html) |
+| 06.06.2022 | Mitch | Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains | [link](https://proceedings.neurips.cc/paper/2020/file/55053683268957697aa39fba6f231c68-Paper.pdf) <br/> [link](https://bmild.github.io/fourfeat/) |
+| 13.06.2022 | Liyang | QuadricSLAM: Dual Quadrics from Object Detections as Landmarks in Object-oriented SLAM | [link](https://ieeexplore.ieee.org/document/8440105) |
+| 20.06.2022 | 2-Minute Papers | A round of two minute papers where everyone brings a couple papers to briefly present | [link](https://docs.google.com/spreadsheets/d/1QpGbUnLCfxU6MiKGZK8vDq3byWXYBsTQwSc9worlqrE/edit?usp=sharing)|
+| 04.07.2022 | Avie | Dancing under the stars: video denoising in starlight | [link](http://arxiv.org/abs/2204.04210) |
+| 11.07.2022 | Ryan | Self-Calibrating Neural Radiance Fields | [link](https://arxiv.org/abs/2108.13826 ) <br/> [link](https://postech-cvlab.github.io/SCNeRF/) |
+| 18.07.2022 | Jack | Gravitationally Lensed Black Hole Emission Tomography | [link](http://imaging.cms.caltech.edu/bhnerf/CVPR2022_main.pdf) |
 
 ## Paper Suggestions for Presentation
 * [Blocks-World Camera](https://wisionlab.cs.wisc.edu/wp-content/uploads/2021/05/CVPR21_Blocks_World_Cameras_combined.pdf) Lee, J. and Gupta, M., 2021. Blocks-World Cameras. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 11412-11422).
