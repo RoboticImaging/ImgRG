@@ -2,23 +2,16 @@
 
 This page keeps track of the on-going imaging reading group activities. You will be able to find the schedule of the upcoming reading sessions, past presentations, related articles and a curated list of resources on imaging.
 
-The meetings are held on Mondays between 11:00 - 12:00 in hybrid mode: via Zoom and hopefully and  in-person at J04 conference room, Australian Centre for Field Robotics (ACFR), The University of Sydney, NSW, Australia. If you like to join Robotic Imaging Reading Group, feel free to contact us. 
+Our meetings generally alternate between reviewing a recent paper in detail and a section of a computational imaging textbook.
 
-## Upcoming Reading Sessions
+The meetings are held once a week (day and time subject to change depending on availabilities) in hybrid mode: via Zoom and hopefully and  in-person at J04/J18 conference rooms, Australian Centre For Robotics (ACFR), The University of Sydney, NSW, Australia. If you like to join Robotic Imaging Reading Group, feel free to contact us. 
+
+## Upcoming Reading Sessions 
+Will Resume Early 2024
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 25.07.2022 | Georgia | TBA | TBA |
-| 01.08.2022 | Ziting | TBA | TBA |
-| 08.08.2022 | Feiyu | TBA | TBA |
-| 15.08.2022 | Don | TBA | TBA |
-| 22.08.2022 | Evie | TBA | TBA |
-| 29.08.2022 | Bhargava | TBA | TBA |
-| 05.09.2022 | Mehala | TBA | TBA |
-| 12.09.2022 | Suraj | TBA | TBA |
-| 19.09.2022 | Stephany | TBA | TBA |
-| 26.09.2022 | Heather | TBA | TBA |
-| 03.10.2022 | Jesse | TBA | TBA |
+| Early 2024 | TBA | TBA | TBA |
 
 ## Members 
 * Active, Presenters
