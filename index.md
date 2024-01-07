@@ -40,7 +40,38 @@ Will Resume Early 2024
   * Dr. Jasper Brown
 
 ## Past Presentations
+[2024](#2024)
+[2023](#2023)
+[2022](#2022)
+[2021](#2021)
 
+### 2024
+WIP
+
+### 2023
+WIP
+
+### 2022
+| Date | Presenter | Paper Title | Related Link |  
+| ---------| ----------- | ---------| ----------- |
+| 04.02.2022 | Dr. Liyang | Learning One-Shot View Planning via Set Covering for Unknown Object Reconstruction | [link](https://ieeexplore.ieee.org/document/9670705) |
+| 25.02.2022 | Darren Tsai | Canonical Capsules: Self-Supervised Capsules in Canonical Pose | [link](https://canonical-capsules.github.io/resources/CanonicalCapsulesNeurIPS2021.pdf) |
+| 04.03.2022 | Georgia | Multiview Transformers for Video Recognition | [link](https://arxiv.org/pdf/2201.04288v2.pdf) |
+| 07.03.2022 | Avie | Implicit Neural Representations with Periodic Activation Functions  | [link](https://proceedings.neurips.cc/paper/2020/file/53c04118df112c13a8c34b38343b9c10-Paper.pdf) |
+| 14.03.2022 | Ryan | SEAL: Self-supervised Embodied Active Learning | [link](https://devendrachaplot.github.io/papers/neurips21_seal.pdf) |
+| 21.03.2022 | Jack | Pixel-Perfect Structure-from-Motion with Featuremetric Refinement | [link](https://openaccess.thecvf.com/content/ICCV2021/papers/Lindenberger_Pixel-Perfect_Structure-From-Motion_With_Featuremetric_Refinement_ICCV_2021_paper.pdf) |
+| 28.03.2022 | Dr. Stephany  | EfficientPS: Efficient Panoptic Segmentation | [link](https://arxiv.org/abs/2004.02307) |
+| 01.04.2022 | Ziting | In-Place Scene Labelling and Understanding with Implicit Scene Representation | [link](https://arxiv.org/abs/2103.15875) |
+| 11.04.2022 | Feiyu | Meta Pseudo Labels | [link](https://openaccess.thecvf.com/content/CVPR2021/papers/Pham_Meta_Pseudo_Labels_CVPR_2021_paper.pdf) |
+| 09.05.2022 | Heather | Siamese Transformer Pyramid Networks for Real-Time UAV Tracking | [link](https://openaccess.thecvf.com/content/WACV2022/html/Xing_Siamese_Transformer_Pyramid_Networks_for_Real-Time_UAV_Tracking_WACV_2022_paper.html) |
+| 06.06.2022 | Mitch | Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains | [link](https://proceedings.neurips.cc/paper/2020/file/55053683268957697aa39fba6f231c68-Paper.pdf) <br/> [link](https://bmild.github.io/fourfeat/) |
+| 13.06.2022 | Liyang | QuadricSLAM: Dual Quadrics from Object Detections as Landmarks in Object-oriented SLAM | [link](https://ieeexplore.ieee.org/document/8440105) |
+| 20.06.2022 | 2-Minute Papers | A round of two minute papers where everyone brings a couple papers to briefly present | [link](https://docs.google.com/spreadsheets/d/1QpGbUnLCfxU6MiKGZK8vDq3byWXYBsTQwSc9worlqrE/edit?usp=sharing)|
+| 04.07.2022 | Avie | Dancing under the stars: video denoising in starlight | [link](http://arxiv.org/abs/2204.04210) |
+| 11.07.2022 | Ryan | Self-Calibrating Neural Radiance Fields | [link](https://arxiv.org/abs/2108.13826 ) <br/> [link](https://postech-cvlab.github.io/SCNeRF/) |
+| 18.07.2022 | Jack | Gravitationally Lensed Black Hole Emission Tomography | [link](http://imaging.cms.caltech.edu/bhnerf/CVPR2022_main.pdf) |
+
+### 2021
 | Date | Presenter | Paper Title | Related Link |  
 | ---------| ----------- | ---------| ----------- |
 | 16.07.2021 | Reboot Meeting | 2-3 minutes presentation by each member <br/> *Dr. Don* - FreeCam3D: Snapshot Structured Light 3D with Freely-Moving Cameras <br/> *Dr. Mitch* - Training Deep Networks with Synthetic Data: Bridging the Reality Gap by Domain Randomization <br /> *Dr. Teja* - Boosting Monocular Depth Estimation Models to High-Resolution via Content-Adaptive Multi-Resolution Merging <br />  *Jacob* - Modeling and correction of multipath interference in time of flight cameras <br/> *Ryan* - 3D imaging from multipath temporal echoes <br/>  *Will* - Sparse Hyperspectral Unmixing Based on Constrained lp - l2 Optimization <br />  *Ziting* - Low-Regret Active learning <br/> *Other presenters: Jesse, Liu, Avie* | [link](http://imagesci.ece.cmu.edu/files/paper/2020/FreeCam3D_ECCV20.pdf) <br/> [link](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w14/Tremblay_Training_Deep_Networks_CVPR_2018_paper.pdf) <br/> [link](http://yaksoy.github.io/papers/CVPR21-HighResDepth.pdf) <br/>  [link](https://www.sciencedirect.com/science/article/abs/pii/S0262885613001650) <br/> [link](https://arxiv.org/abs/2104.02822) <br /> [link](https://arxiv.org/abs/2011.09284) <br/> [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6423206) <br/> |
@@ -65,23 +96,8 @@ Will Resume Early 2024
 | 26.11.2021 | Ryan | NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections | [link](https://openaccess.thecvf.com/content/CVPR2021/papers/Martin-Brualla_NeRF_in_the_Wild_Neural_Radiance_Fields_for_Unconstrained_Photo_CVPR_2021_paper.pdf) |
 | 03.12.2021 | Heather | Swin Transformer: Hierarchical Vision Transformer Using Shifted Windows | [link](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.html) |
 | 10.12.2021 | Dr. Don | Communal Retrospective Session | - |
-| 17.12.2021-28.01.2022| Break 2021/2022 | - | - |
-| 04.02.2022 | Dr. Liyang | Learning One-Shot View Planning via Set Covering for Unknown Object Reconstruction | [link](https://ieeexplore.ieee.org/document/9670705) |
-| 25.02.2022 | Darren Tsai | Canonical Capsules: Self-Supervised Capsules in Canonical Pose | [link](https://canonical-capsules.github.io/resources/CanonicalCapsulesNeurIPS2021.pdf) |
-| 04.03.2022 | Georgia | Multiview Transformers for Video Recognition | [link](https://arxiv.org/pdf/2201.04288v2.pdf) |
-| 07.03.2022 | Avie | Implicit Neural Representations with Periodic Activation Functions  | [link](https://proceedings.neurips.cc/paper/2020/file/53c04118df112c13a8c34b38343b9c10-Paper.pdf) |
-| 14.03.2022 | Ryan | SEAL: Self-supervised Embodied Active Learning | [link](https://devendrachaplot.github.io/papers/neurips21_seal.pdf) |
-| 21.03.2022 | Jack | Pixel-Perfect Structure-from-Motion with Featuremetric Refinement | [link](https://openaccess.thecvf.com/content/ICCV2021/papers/Lindenberger_Pixel-Perfect_Structure-From-Motion_With_Featuremetric_Refinement_ICCV_2021_paper.pdf) |
-| 28.03.2022 | Dr. Stephany  | EfficientPS: Efficient Panoptic Segmentation | [link](https://arxiv.org/abs/2004.02307) |
-| 01.04.2022 | Ziting | In-Place Scene Labelling and Understanding with Implicit Scene Representation | [link](https://arxiv.org/abs/2103.15875) |
-| 11.04.2022 | Feiyu | Meta Pseudo Labels | [link](https://openaccess.thecvf.com/content/CVPR2021/papers/Pham_Meta_Pseudo_Labels_CVPR_2021_paper.pdf) |
-| 09.05.2022 | Heather | Siamese Transformer Pyramid Networks for Real-Time UAV Tracking | [link](https://openaccess.thecvf.com/content/WACV2022/html/Xing_Siamese_Transformer_Pyramid_Networks_for_Real-Time_UAV_Tracking_WACV_2022_paper.html) |
-| 06.06.2022 | Mitch | Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains | [link](https://proceedings.neurips.cc/paper/2020/file/55053683268957697aa39fba6f231c68-Paper.pdf) <br/> [link](https://bmild.github.io/fourfeat/) |
-| 13.06.2022 | Liyang | QuadricSLAM: Dual Quadrics from Object Detections as Landmarks in Object-oriented SLAM | [link](https://ieeexplore.ieee.org/document/8440105) |
-| 20.06.2022 | 2-Minute Papers | A round of two minute papers where everyone brings a couple papers to briefly present | [link](https://docs.google.com/spreadsheets/d/1QpGbUnLCfxU6MiKGZK8vDq3byWXYBsTQwSc9worlqrE/edit?usp=sharing)|
-| 04.07.2022 | Avie | Dancing under the stars: video denoising in starlight | [link](http://arxiv.org/abs/2204.04210) |
-| 11.07.2022 | Ryan | Self-Calibrating Neural Radiance Fields | [link](https://arxiv.org/abs/2108.13826 ) <br/> [link](https://postech-cvlab.github.io/SCNeRF/) |
-| 18.07.2022 | Jack | Gravitationally Lensed Black Hole Emission Tomography | [link](http://imaging.cms.caltech.edu/bhnerf/CVPR2022_main.pdf) |
+
+
 
 ## Paper Suggestions for Presentation
 * [Blocks-World Camera](https://wisionlab.cs.wisc.edu/wp-content/uploads/2021/05/CVPR21_Blocks_World_Cameras_combined.pdf) Lee, J. and Gupta, M., 2021. Blocks-World Cameras. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 11412-11422).
@@ -104,6 +120,10 @@ Will Resume Early 2024
 * [Distortion-free wide-angle portraits on camera phones](https://dl.acm.org/doi/10.1145/3306346.3322948) Shih, Y., Lai, W.S. and Liang, C.K., 2019. Distortion-free wide-angle portraits on camera phones. ACM Transactions on Graphics (TOG), 38(4), pp.1-12.
 
 ## Curated list of Robotic Imaging Resources
+### Textbooks
+* [Computation Imaging](https://imagingtext.github.io/)
+* [Computational Imaging through Atmospheric Turbulence](https://nchimitt.github.io/book/)
+
 ### A curated list of awesome robotic imaging resources
 * [Awesome Robotic Imaging](https://github.com/avie00/Awesome-Robotic-Imaging)
 
