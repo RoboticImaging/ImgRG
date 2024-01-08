@@ -40,10 +40,10 @@ Will Resume Early 2024
   * Dr. Jasper Brown
 
 ## Past Presentations
-[2024](#2024)
-[2023](#2023)
-[2022](#2022)
 [2021](#2021)
+[2022](#2022)
+[2023](#2023)
+[2024](#2024)
 
 ### 2024
 WIP
@@ -52,6 +52,7 @@ WIP
 WIP
 
 ### 2022
+
 | Date | Presenter | Paper Title | Related Link |  
 | ---------| ----------- | ---------| ----------- |
 | 04.02.2022 | Dr. Liyang | Learning One-Shot View Planning via Set Covering for Unknown Object Reconstruction | [link](https://ieeexplore.ieee.org/document/9670705) |
@@ -72,6 +73,7 @@ WIP
 | 18.07.2022 | Jack | Gravitationally Lensed Black Hole Emission Tomography | [link](http://imaging.cms.caltech.edu/bhnerf/CVPR2022_main.pdf) |
 
 ### 2021
+
 | Date | Presenter | Paper Title | Related Link |  
 | ---------| ----------- | ---------| ----------- |
 | 16.07.2021 | Reboot Meeting | 2-3 minutes presentation by each member <br/> *Dr. Don* - FreeCam3D: Snapshot Structured Light 3D with Freely-Moving Cameras <br/> *Dr. Mitch* - Training Deep Networks with Synthetic Data: Bridging the Reality Gap by Domain Randomization <br /> *Dr. Teja* - Boosting Monocular Depth Estimation Models to High-Resolution via Content-Adaptive Multi-Resolution Merging <br />  *Jacob* - Modeling and correction of multipath interference in time of flight cameras <br/> *Ryan* - 3D imaging from multipath temporal echoes <br/>  *Will* - Sparse Hyperspectral Unmixing Based on Constrained lp - l2 Optimization <br />  *Ziting* - Low-Regret Active learning <br/> *Other presenters: Jesse, Liu, Avie* | [link](http://imagesci.ece.cmu.edu/files/paper/2020/FreeCam3D_ECCV20.pdf) <br/> [link](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w14/Tremblay_Training_Deep_Networks_CVPR_2018_paper.pdf) <br/> [link](http://yaksoy.github.io/papers/CVPR21-HighResDepth.pdf) <br/>  [link](https://www.sciencedirect.com/science/article/abs/pii/S0262885613001650) <br/> [link](https://arxiv.org/abs/2104.02822) <br /> [link](https://arxiv.org/abs/2011.09284) <br/> [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6423206) <br/> |
