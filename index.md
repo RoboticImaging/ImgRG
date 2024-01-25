@@ -22,7 +22,7 @@ The meetings are held once a week (day and time subject to change depending on a
   * Chengyang (Oliver) Yan
   * Alexandre Cardaillac
   * Dr. Gideon Billings
-  * Dr. Donald Danaserau
+  * Dr. Donald Dansereau
 
 * Others
   * Feiyu Wang
