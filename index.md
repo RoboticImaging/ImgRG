@@ -7,17 +7,24 @@ Our meetings generally alternate between reviewing a recent paper in detail and 
 The meetings are held once a week (day and time subject to change depending on availabilities) in hybrid mode: via Zoom and hopefully and  in-person at J04/J18 conference rooms, Australian Centre For Robotics (ACFR), The University of Sydney, NSW, Australia. If you like to join Robotic Imaging Reading Group, feel free to contact us. 
 
 ## Upcoming Reading Sessions 
-Will Resume Early 2024
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| Early 2024 | TBA | TBA | TBA |
+| 29.01.2024 | Bhargava Gowda | Event driven bio-inspired attentive system for the iCub humanoid robot on SpiNNaker | [link](https://iopscience.iop.org/article/10.1088/2634-4386/ac6b50#nceac6b50s3) |
 
 ## Members 
 * Active, Presenters
-  * Georgia Markham
   * Ryan Griffiths
   * Jack Naylor
+  * Bina Rajan
+  * Bhargava Gowda
+  * Nikolai Goncharov
+  * Chengyang (Oliver) Yan
+  * Alexandre Cardaillac
+  * Dr. Gideon Billings
+  * Dr. Donald Danaserau
+
+* Others
   * Feiyu Wang
   * Ziting Wen
   * Heather Doig
@@ -28,9 +35,7 @@ Will Resume Early 2024
   * Dr. Stephany Berrio
   * Dr. Liyang Liu
   * Dr. Mitch Bryson
-  * Dr. Donald Danaserau
-
-* Others
+  * Georgia Markham
   * Kunming Li
   * Evie Deaker
   * Will Marais
@@ -46,7 +51,10 @@ Will Resume Early 2024
 [2024](#2024)
 
 ### 2024
-WIP
+| Date | Presenter | Paper Title | Related Link |   
+| ---------| ----------- | ---------| ----------- |
+| 22.01.2024 | Reboot Meeting | 2-3 minutes presentation by each member | [link]() |
+
 
 ### 2023
 WIP
