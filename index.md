@@ -51,10 +51,10 @@ The meetings are held once a week (day and time subject to change depending on a
 [2024](#2024)
 
 ### 2024
-| Date | Presenter | Paper Title | Related Link |   
-| ---------| ----------- | ---------| ----------- |
-| 22.01.2024 | Reboot Meeting | 2-3 minutes presentation by each member | [link]() |
 
+| Date | Presenter | Paper Title | Related Link |  
+| ---------| ----------- | ---------| ----------- |
+| 22.01.2024 | Reboot Meeting | 3 minutes presentation by each member | [link](https://ieeexplore.ieee.org/document/9670705) |
 
 ### 2023
 WIP
@@ -153,4 +153,4 @@ WIP
 
 ### Contact Us
 Organizer:
-Ryan Griffiths (r dot griffiths at acfr dot usyd dot edu dot au)
+Alexandre Cardaillac (alexandre dot cardaillac at sydney dot edu dot au)
