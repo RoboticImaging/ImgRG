@@ -10,7 +10,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 12.02.2024 | Bina Rajan | TBA | TBA |
+| 12.02.2024 | Alexandre Cardaillac | HoloOcean: An Underwater Robotics Simulator | [link](https://ieeexplore.ieee.org/document/9812353) |
 | 19.02.2024 | Nikolai Goncharov | TBA | TBA |
 | 26.02.2024 | Chengyang (Oliver) Yan | TBA | TBA |
 | 04.03.2024 | Jack Naylor | TBA | TBA |
@@ -18,7 +18,7 @@ The meetings are held once a week (day and time subject to change depending on a
 | 18.03.2024 | Raghav Mishra | TBA | TBA |
 | 25.03.2024 | Dr. Donald Dansereau | TBA | TBA |
 | 01.04.2024 | Ryan Griffiths | TBA | TBA |
-| 08.04.2024 | Alexandre Cardaillac | TBA | TBA |
+| 08.04.2024 | Bina Rajan | TBA | TBA |
 
 ## Members 
 * Active, Presenters
