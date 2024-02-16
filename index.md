@@ -11,7 +11,7 @@ The meetings are held once a week (day and time subject to change depending on a
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
 | 19.02.2024 | Nikolai Goncharov | HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling | [link](https://ieeexplore.ieee.org/document/10204212) |
-| 26.02.2024 | Chengyang (Oliver) Yan | TBA | TBA |
+| 26.02.2024 | Chengyang (Oliver) Yan | Physics-Guided ISO-Dependent Sensor Noise Modeling for Extreme Low-Light Photography | [link](https://www.computer.org/csdl/proceedings-article/cvpr/2023/012900f744/1PORBl5nxfy) |
 | 04.03.2024 | Bina Rajan | TBA | TBA |
 | 11.03.2024 | Dr. Gideon Billings | TBA | TBA |
 | 18.03.2024 | Raghav Mishra | TBA | TBA |
