@@ -10,10 +10,9 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 26.02.2024 | Chengyang (Oliver) Yan | Physics-Guided ISO-Dependent Sensor Noise Modeling for Extreme Low-Light Photography | [link](https://www.computer.org/csdl/proceedings-article/cvpr/2023/012900f744/1PORBl5nxfy) |
 | 04.03.2024 | Bina Rajan | DISeR: Designing Imaging Systems with Reinforcement Learning | [link](https://www.computer.org/csdl/proceedings-article/iccv/2023/071800x3575/1TJcbwhWCic) |
-| 11.03.2024 | Dr. Gideon Billings | TBA | TBA |
-| 18.03.2024 | Raghav Mishra | TBA | TBA |
+| 11.03.2024 | Raghav Mishra | TBA | TBA |
+| 18.03.2024 | Dr. Gideon Billings | TBA | TBA |
 | 25.03.2024 | Dr. Donald Dansereau | TBA | TBA |
 | 01.04.2024 | Ryan Griffiths | TBA | TBA |
 | 08.04.2024 | Jack Naylor | TBA | TBA |
@@ -63,6 +62,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Paper Title | Related Link |  
 | ---------| ----------- | ---------| ----------- |
+| 26.02.2024 | Chengyang (Oliver) Yan | Physics-Guided ISO-Dependent Sensor Noise Modeling for Extreme Low-Light Photography | [link](https://www.computer.org/csdl/proceedings-article/cvpr/2023/012900f744/1PORBl5nxfy) |
 | 19.02.2024 | Nikolai Goncharov | HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling | [link](https://ieeexplore.ieee.org/document/10204212) [link](https://hyperreel.github.io/) |
 | 12.02.2024 | Alexandre Cardaillac | HoloOcean: An Underwater Robotics Simulator | [link](https://ieeexplore.ieee.org/document/9812353) |
 | 29.01.2024 | Bhargava Gowda | Event driven bio-inspired attentive system for the iCub humanoid robot on SpiNNaker | [link](https://iopscience.iop.org/article/10.1088/2634-4386/ac6b50#nceac6b50s3) |
