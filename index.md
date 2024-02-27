@@ -10,7 +10,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 04.03.2024 | Bina Rajan | DISeR: Designing Imaging Systems with Reinforcement Learning | [link](https://www.computer.org/csdl/proceedings-article/iccv/2023/071800x3575/1TJcbwhWCic) |
+| 04.03.2024 | Bina Rajan | DISeR: Designing Imaging Systems with Reinforcement Learning | [link](https://www.computer.org/csdl/proceedings-article/iccv/2023/071800x3575/1TJcbwhWCic) [link](https://tzofi.github.io/diser/) |
 | 11.03.2024 | Raghav Mishra | TBA | TBA |
 | 18.03.2024 | Dr. Gideon Billings | TBA | TBA |
 | 25.03.2024 | Dr. Donald Dansereau | TBA | TBA |
