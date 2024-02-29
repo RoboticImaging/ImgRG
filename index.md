@@ -11,7 +11,7 @@ The meetings are held once a week (day and time subject to change depending on a
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
 | 04.03.2024 | Bina Rajan | DISeR: Designing Imaging Systems with Reinforcement Learning | [paper](https://www.computer.org/csdl/proceedings-article/iccv/2023/071800x3575/1TJcbwhWCic) [project](https://tzofi.github.io/diser/) |
-| 11.03.2024 | Raghav Mishra | TBA | TBA |
+| 11.03.2024 | Raghav Mishra | Bayes' Rays: Uncertainty Quantification for Neural Radiance Fields | [paper](https://arxiv.org/abs/2309.03185) [project](https://bayesrays.github.io/) |
 | 18.03.2024 | Dr. Gideon Billings | TBA | TBA |
 | 25.03.2024 | Dr. Donald Dansereau | TBA | TBA |
 | 01.04.2024 | Ryan Griffiths | TBA | TBA |
