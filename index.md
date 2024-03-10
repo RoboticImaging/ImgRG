@@ -10,7 +10,6 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 04.03.2024 | Bina Rajan | DISeR: Designing Imaging Systems with Reinforcement Learning | [paper](https://www.computer.org/csdl/proceedings-article/iccv/2023/071800x3575/1TJcbwhWCic) [project](https://tzofi.github.io/diser/) |
 | 11.03.2024 | Raghav Mishra | Bayes' Rays: Uncertainty Quantification for Neural Radiance Fields | [paper](https://arxiv.org/abs/2309.03185) [project](https://bayesrays.github.io/) |
 | 18.03.2024 | Dr. Gideon Billings | TBA | TBA |
 | 25.03.2024 | Dr. Donald Dansereau | TBA | TBA |
@@ -62,6 +61,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Paper Title | Related Link |  
 | ---------| ----------- | ---------| ----------- |
+| 04.03.2024 | Bina Rajan | DISeR: Designing Imaging Systems with Reinforcement Learning | [paper](https://www.computer.org/csdl/proceedings-article/iccv/2023/071800x3575/1TJcbwhWCic) [project](https://tzofi.github.io/diser/) |
 | 26.02.2024 | Chengyang (Oliver) Yan | Physics-Guided ISO-Dependent Sensor Noise Modeling for Extreme Low-Light Photography | [paper](https://www.computer.org/csdl/proceedings-article/cvpr/2023/012900f744/1PORBl5nxfy) |
 | 19.02.2024 | Nikolai Goncharov | HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling | [paper](https://ieeexplore.ieee.org/document/10204212) [project](https://hyperreel.github.io/) |
 | 12.02.2024 | Alexandre Cardaillac | HoloOcean: An Underwater Robotics Simulator | [paper](https://ieeexplore.ieee.org/document/9812353) [project](https://robots.et.byu.edu/holoocean/)|
