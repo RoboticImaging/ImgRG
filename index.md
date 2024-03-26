@@ -10,10 +10,9 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 25.03.2024 | Dr. Donald Dansereau | Neural Fields for Structured Lighting | [paper](https://www.computer.org/csdl/proceedings-article/iccv/2023/071800d489/1TJhYIVDrtS) [project](https://imaging.cs.cmu.edu/nfsl/) |
-| 01.04.2024 | Ryan Griffiths | TBA | TBA |
-| 08.04.2024 | Jack Naylor | TBA | TBA |
-| 15.04.2024 | Jesse Mehami | TBA | TBA |
+| 08.04.2024 | Ryan Griffiths | DUSt3R: Geometric 3D Vision Made Easy | [paper](https://arxiv.org/abs/2312.14132) [project](https://dust3r.europe.naverlabs.com/) |
+| 15.04.2024 | Jack Naylor | TBA | TBA |
+| 22.04.2024 | Jesse Mehami | TBA | TBA |
 
 ## Members 
 * Active, Presenters
@@ -59,6 +58,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Paper Title | Related Link |  
 | ---------| ----------- | ---------| ----------- |
+| 25.03.2024 | Dr. Donald Dansereau | Neural Fields for Structured Lighting | [paper](https://www.computer.org/csdl/proceedings-article/iccv/2023/071800d489/1TJhYIVDrtS) [project](https://imaging.cs.cmu.edu/nfsl/) |
 | 18.03.2024 | Dr. Gideon Billings | Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-Shot Cross-Dataset Transfer | [paper](https://www.computer.org/csdl/journal/tp/2022/03/09178977/1mDppWbcU5q) [project](https://github.com/isl-org/MiDaS) |
 | 11.03.2024 | Raghav Mishra | Bayes' Rays: Uncertainty Quantification for Neural Radiance Fields | [paper](https://arxiv.org/abs/2309.03185) [project](https://bayesrays.github.io/) |
 | 04.03.2024 | Bina Rajan | DISeR: Designing Imaging Systems with Reinforcement Learning | [paper](https://www.computer.org/csdl/proceedings-article/iccv/2023/071800x3575/1TJcbwhWCic) [project](https://tzofi.github.io/diser/) |
