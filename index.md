@@ -10,7 +10,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 21.01.2025 | James Gray | 3D Gaussian Splatting with Deferred Reflection | [paper](https://dl.acm.org/doi/10.1145/3641519.3657456) [project](https://gapszju.github.io/3DGS-DR/) |
+| 21.01.2025 | Jack Naylor | Radiant Foam: Real-Time Differentiable Ray Tracing | [paper](https://arxiv.org/abs/2502.01157) [project](https://radfoam.github.io/) |
 
 ## Members 
 * Active, Presenters
@@ -22,14 +22,14 @@ The meetings are held once a week (day and time subject to change depending on a
   * Bina Rajan
   * Bhargava Gowda
   * Nikolai Goncharov
-  * Chengyang (Oliver) Yan
-  * Raghav Mishra
+  * Oliver Yan
   * Jesse Mehami
   * Alexandre Cardaillac
-  * Dr. Gideon Billings
   * Dr. Donald Dansereau
 
 * Others
+  * Raghav Mishra 
+  * Dr. Gideon Billings
   * Feiyu Wang
   * Ziting Wen
   * Heather Doig
@@ -56,6 +56,13 @@ The meetings are held once a week (day and time subject to change depending on a
 [2022](#2022)
 [2023](#2023)
 [2024](#2024)
+[2025](#2025)
+
+### 2025
+
+| Date | Presenter | Paper Title | Related Link |  
+| ---------| ----------- | ---------| ----------- |
+| 21.01.2025 | James Gray | 3D Gaussian Splatting with Deferred Reflection | [paper](https://dl.acm.org/doi/10.1145/3641519.3657456) [project](https://gapszju.github.io/3DGS-DR/) |
 
 ### 2024
 
