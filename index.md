@@ -10,7 +10,16 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 21.01.2025 | Jack Naylor | Radiant Foam: Real-Time Differentiable Ray Tracing | [paper](https://arxiv.org/abs/2502.01157) [project](https://radfoam.github.io/) |
+| 25.02.2025 |  |  |  |
+| 04.03.2025 |  |  |  |
+| 11.03.2025 |  |  |  |
+| 18.03.2025 |  |  |  |
+| 01.04.2025 |  |  |  |
+| 08.04.2025 |  |  |  |
+| 15.04.2025 |  |  |  |
+| 22.04.2025 |  |  |  |
+| 29.04.2025 |  |  |  |
+| 06.05.2025 |  |  |  |
 
 ## Members 
 * Active, Presenters
@@ -62,6 +71,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Paper Title | Related Link |  
 | ---------| ----------- | ---------| ----------- |
+| 18.02.2025 | Jack Naylor | Radiant Foam: Real-Time Differentiable Ray Tracing | [paper](https://arxiv.org/abs/2502.01157) [project](https://radfoam.github.io/) |
 | 21.01.2025 | James Gray | 3D Gaussian Splatting with Deferred Reflection | [paper](https://dl.acm.org/doi/10.1145/3641519.3657456) [project](https://gapszju.github.io/3DGS-DR/) |
 
 ### 2024
