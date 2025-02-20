@@ -11,15 +11,14 @@ The meetings are held once a week (day and time subject to change depending on a
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
 | 25.02.2025 | Jason Lai | FLARE: Feed-forward Geometry, Appearance and Camera Estimation from Uncalibrated Sparse Views | [paper](https://arxiv.org/abs/2502.12138) [project](https://zhanghe3z.github.io/FLARE/) |
-| 04.03.2025 |  |  |  |
-| 11.03.2025 |  |  |  |
-| 18.03.2025 |  |  |  |
-| 01.04.2025 |  |  |  |
-| 08.04.2025 |  |  |  |
-| 15.04.2025 |  |  |  |
-| 22.04.2025 |  |  |  |
-| 29.04.2025 |  |  |  |
-| 06.05.2025 |  |  |  |
+| 04.03.2025 | Jesse Mehami |  |  |
+| 11.03.2025 | James Gray |  |  |
+| 18.03.2025 | Nikolai Goncharov |  |  |
+| 01.04.2025 | Alexandre Cardaillac |  |  |
+| 08.04.2025 | Ryan Griffiths |  |  |
+| 15.04.2025 | Oliver Yan |  |  |
+| 22.04.2025 | Connor Langford |  |  |
+| 29.04.2025 | Bina Rajan |  |  |
 
 ## Members 
 * Active, Presenters
