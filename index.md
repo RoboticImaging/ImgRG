@@ -13,7 +13,7 @@ The meetings are held once a week (day and time subject to change depending on a
 | 25.02.2025 | Jason Lai | Paper | FLARE: Feed-forward Geometry, Appearance and Camera Estimation from Uncalibrated Sparse Views | [paper](https://arxiv.org/abs/2502.12138) [project](https://zhanghe3z.github.io/FLARE/) |
 | 04.03.2025 | Jesse Mehami | Paper |  |  |
 | 11.03.2025 | James Gray | Tutorial |  |  |
-| 18.03.2025 | Nikolai Goncharov | Paper |  |  |
+| 18.03.2025 | Nikolai Goncharov | Tutorial |  |  |
 | 01.04.2025 | Alexandre Cardaillac |  |  |
 | 08.04.2025 | Ryan Griffiths |  |  |
 | 15.04.2025 | Oliver Yan |  |  |
