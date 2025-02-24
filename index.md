@@ -19,6 +19,16 @@ The meetings are held once a week (day and time subject to change depending on a
 | 15.04.2025 | Oliver Yan |  |  |
 | 22.04.2025 | Connor Langford |  |  |
 | 29.04.2025 | Bina Rajan |  |  |
+| 06.05.2025 | Jack Naylor |  |  |
+| 13.05.2025 | Jason Lai |  |  |
+| 20.05.2025 | Jesse Mehami |  |  |
+| 27.05.2025 | Nikolai Goncharov |  |  |
+| 03.06.2025 | Alexandre Cardaillac |  |  |
+| 10.06.2025 | Ryan Griffiths |  |  |
+| 17.06.2025 | Oliver Yan |  |  |
+| 24.06.2025 | Connor Langford |  |  |
+| 01.07.2025 | Bina Rajan |  |  |
+
 
 ## Members 
 * Active, Presenters
