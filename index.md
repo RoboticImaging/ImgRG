@@ -10,8 +10,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Content | Title | Related Link |   
 | ---------| ----------- | ----------- | ---------| ----------- |
-| 25.02.2025 | Jesse Mehami | Paper | Learning to Control Camera Exposure via Reinforcement Learning | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Lee_Learning_to_Control_Camera_Exposure_via_Reinforcement_Learning_CVPR_2024_paper.pdf) [project](https://openaccess.thecvf.com/content/CVPR2024/html/Lee_Learning_to_Control_Camera_Exposure_via_Reinforcement_Learning_CVPR_2024_paper.html) |
-| 04.03.2025 | Jesse Mehami | Paper |  |  |
+| 04.03.2025 | Jesse Mehami | Paper | Learning to Control Camera Exposure via Reinforcement Learning | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Lee_Learning_to_Control_Camera_Exposure_via_Reinforcement_Learning_CVPR_2024_paper.pdf) [project](https://openaccess.thecvf.com/content/CVPR2024/html/Lee_Learning_to_Control_Camera_Exposure_via_Reinforcement_Learning_CVPR_2024_paper.html) |
 | 11.03.2025 | James Gray | Tutorial |  |  |
 | 18.03.2025 | Nikolai Goncharov | Tutorial |  |  |
 | 01.04.2025 | Alexandre Cardaillac |  |  |
