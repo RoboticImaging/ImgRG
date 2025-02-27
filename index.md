@@ -10,7 +10,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Content | Title | Related Link |   
 | ---------| ----------- | ----------- | ---------| ----------- |
-| 25.02.2025 | Jason Lai | Paper | FLARE: Feed-forward Geometry, Appearance and Camera Estimation from Uncalibrated Sparse Views | [paper](https://arxiv.org/abs/2502.12138) [project](https://zhanghe3z.github.io/FLARE/) |
+| 25.02.2025 | Jesse Mehami | Paper | Learning to Control Camera Exposure via Reinforcement Learning | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Lee_Learning_to_Control_Camera_Exposure_via_Reinforcement_Learning_CVPR_2024_paper.pdf) [project](https://openaccess.thecvf.com/content/CVPR2024/html/Lee_Learning_to_Control_Camera_Exposure_via_Reinforcement_Learning_CVPR_2024_paper.html) |
 | 04.03.2025 | Jesse Mehami | Paper |  |  |
 | 11.03.2025 | James Gray | Tutorial |  |  |
 | 18.03.2025 | Nikolai Goncharov | Tutorial |  |  |
@@ -80,6 +80,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Content | Title | Related Link |  
 | ---------| ----------- | ----------- | ---------| ----------- |
+| 25.02.2025 | Jason Lai | Paper | FLARE: Feed-forward Geometry, Appearance and Camera Estimation from Uncalibrated Sparse Views | [paper](https://arxiv.org/abs/2502.12138) [project](https://zhanghe3z.github.io/FLARE/) |
 | 18.02.2025 | Jack Naylor | Paper | Radiant Foam: Real-Time Differentiable Ray Tracing | [paper](https://arxiv.org/abs/2502.01157) [project](https://radfoam.github.io/) |
 | 21.01.2025 | James Gray | Paper | 3D Gaussian Splatting with Deferred Reflection | [paper](https://dl.acm.org/doi/10.1145/3641519.3657456) [project](https://gapszju.github.io/3DGS-DR/) |
 
