@@ -8,9 +8,8 @@ The meetings are held once a week (day and time subject to change depending on a
 
 ## Upcoming Reading Sessions 
 
-| Date | Presenter | Content | Title | Related Link |   
+| Date | Presenter | Type | Title | Related Link |   
 | ---------| ----------- | ----------- | ---------| ----------- |
-| 11.03.2025 | James Gray | Tutorial | Variational Disparity and Optical Flow Estimation | / |
 | 18.03.2025 | Nikolai Goncharov | Tutorial |  |  |
 | 01.04.2025 | Alexandre Cardaillac |  |  |
 | 08.04.2025 | Ryan Griffiths |  |  |
@@ -76,8 +75,9 @@ The meetings are held once a week (day and time subject to change depending on a
 
 ### 2025
 
-| Date | Presenter | Content | Title | Related Link |  
+| Date | Presenter | Type | Title | Related Link |  
 | ---------| ----------- | ----------- | ---------| ----------- |
+| 11.03.2025 | James Gray | Tutorial | Variational Disparity and Optical Flow Estimation | [slides](https://github.com/RoboticImaging/ImgRG/blob/gh-pages/tut_slides/Gray_2025_Variational_Optical_Flow_and_Disparity_Estimation.pdf) |
 | 04.03.2025 | Jesse Mehami | Paper | Learning to Control Camera Exposure via Reinforcement Learning | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Lee_Learning_to_Control_Camera_Exposure_via_Reinforcement_Learning_CVPR_2024_paper.pdf) [project](https://openaccess.thecvf.com/content/CVPR2024/html/Lee_Learning_to_Control_Camera_Exposure_via_Reinforcement_Learning_CVPR_2024_paper.html) |
 | 25.02.2025 | Jason Lai | Paper | FLARE: Feed-forward Geometry, Appearance and Camera Estimation from Uncalibrated Sparse Views | [paper](https://arxiv.org/abs/2502.12138) [project](https://zhanghe3z.github.io/FLARE/) |
 | 18.02.2025 | Jack Naylor | Paper | Radiant Foam: Real-Time Differentiable Ray Tracing | [paper](https://arxiv.org/abs/2502.01157) [project](https://radfoam.github.io/) |
