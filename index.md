@@ -10,7 +10,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |   
 | ---------| ----------- | ----------- | ---------| ----------- |
-| 18.03.2025 | Nikolai Goncharov | Tutorial |  |  |
+| 18.03.2025 | Nikolai Goncharov | Tutorial | Levenberg Marquardt and Bundle Adjustment | Slides Available Soon |
 | 01.04.2025 | Alexandre Cardaillac |  |  |
 | 08.04.2025 | Ryan Griffiths |  |  |
 | 15.04.2025 | Oliver Yan |  |  |
