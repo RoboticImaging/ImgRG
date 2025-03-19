@@ -10,21 +10,20 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |   
 | ---------| ----------- | ----------- | ---------| ----------- |
-| 18.03.2025 | Nikolai Goncharov | Tutorial | Levenberg Marquardt and Bundle Adjustment | Slides Available Soon |
-| 01.04.2025 | Alexandre Cardaillac |  |  |
-| 08.04.2025 | Ryan Griffiths |  |  |
-| 15.04.2025 | Oliver Yan |  |  |
-| 22.04.2025 | Connor Langford |  |  |
-| 29.04.2025 | Bina Rajan |  |  |
-| 06.05.2025 | Jack Naylor |  |  |
-| 13.05.2025 | Jason Lai |  |  |
-| 20.05.2025 | Jesse Mehami |  |  |
-| 27.05.2025 | Nikolai Goncharov |  |  |
-| 03.06.2025 | Alexandre Cardaillac |  |  |
-| 10.06.2025 | Ryan Griffiths |  |  |
-| 17.06.2025 | Oliver Yan |  |  |
-| 24.06.2025 | Connor Langford |  |  |
-| 01.07.2025 | Bina Rajan |  |  |
+| 08.04.2025 | Alexandre Cardaillac |  |  |
+| 15.04.2025 | Ryan Griffiths |  |  |
+| 22.04.2025 | Oliver Yan |  |  |
+| 29.04.2025 | Connor Langford |  |  |
+| 06.05.2025 | Bina Rajan |  |  |
+| 13.05.2025 | Jack Naylor |  |  |
+| 20.05.2025 | Jason Lai |  |  |
+| 27.05.2025 | Jesse Mehami |  |  |
+| 03.06.2025 | Nikolai Goncharov |  |  |
+| 10.06.2025 | Alexandre Cardaillac |  |  |
+| 17.06.2025 | Ryan Griffiths |  |  |
+| 24.06.2025 | Oliver Yan |  |  |
+| 01.07.2025 | Connor Langford |  |  |
+| 08.07.2025 | Bina Rajan |  |  |
 
 
 ## Members 
@@ -77,7 +76,8 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |  
 | ---------| ----------- | ----------- | ---------| ----------- |
-| 11.03.2025 | James Gray | Tutorial | Variational Disparity and Optical Flow Estimation | [slides](https://github.com/RoboticImaging/ImgRG/blob/gh-pages/tut_slides/Gray_2025_Variational_Optical_Flow_and_Disparity_Estimation.pdf) |
+| 18.03.2025 | Nikolai Goncharov | Tutorial | Levenberg Marquardt and Bundle Adjustment | [slides](https://github.com/RoboticImaging/ImgRG/blob/gh-pages/tut_slides/Gray_2025_Variational_Optical_Flow_and_Disparity_Estimation.pdf) |
+| 11.03.2025 | James Gray | Tutorial | Variational Disparity and Optical Flow Estimation | [slides] (https://github.com/RoboticImaging/ImgRG/blob/gh-pages/tut_slides/Goncharov_2025_Bundle_Adjustment.pdf) |
 | 04.03.2025 | Jesse Mehami | Paper | Learning to Control Camera Exposure via Reinforcement Learning | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Lee_Learning_to_Control_Camera_Exposure_via_Reinforcement_Learning_CVPR_2024_paper.pdf) [project](https://openaccess.thecvf.com/content/CVPR2024/html/Lee_Learning_to_Control_Camera_Exposure_via_Reinforcement_Learning_CVPR_2024_paper.html) |
 | 25.02.2025 | Jason Lai | Paper | FLARE: Feed-forward Geometry, Appearance and Camera Estimation from Uncalibrated Sparse Views | [paper](https://arxiv.org/abs/2502.12138) [project](https://zhanghe3z.github.io/FLARE/) |
 | 18.02.2025 | Jack Naylor | Paper | Radiant Foam: Real-Time Differentiable Ray Tracing | [paper](https://arxiv.org/abs/2502.01157) [project](https://radfoam.github.io/) |
