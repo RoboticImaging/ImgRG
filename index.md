@@ -10,20 +10,20 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |   
 | ---------| ----------- | ----------- | ---------| ----------- |
-| 08.04.2025 | Alexandre Cardaillac |  |  |
-| 15.04.2025 | Ryan Griffiths |  |  |
-| 22.04.2025 | Oliver Yan |  |  |
-| 29.04.2025 | Connor Langford |  |  |
-| 06.05.2025 | Bina Rajan |  |  |
-| 13.05.2025 | Jack Naylor |  |  |
-| 20.05.2025 | Jason Lai |  |  |
-| 27.05.2025 | Jesse Mehami |  |  |
-| 03.06.2025 | Nikolai Goncharov |  |  |
-| 10.06.2025 | Alexandre Cardaillac |  |  |
-| 17.06.2025 | Ryan Griffiths |  |  |
-| 24.06.2025 | Oliver Yan |  |  |
-| 01.07.2025 | Connor Langford |  |  |
-| 08.07.2025 | Bina Rajan |  |  |
+| 01.04.2025 | Alexandre Cardaillac | Paper | LodeStar: Maritime Radar Descriptor for Semi-Direct Radar Odometry | [paper](https://ieeexplore.ieee.org/document/10380692) |
+| 08.04.2025 | Ryan Griffiths |  |  |
+| 15.04.2025 | Oliver Yan |  |  |
+| 22.04.2025 | Connor Langford |  |  |
+| 29.04.2025 | Bina Rajan |  |  |
+| 06.05.2025 | Jack Naylor |  |  |
+| 13.05.2025 | Jason Lai |  |  |
+| 20.05.2025 | Jesse Mehami |  |  |
+| 27.05.2025 | Nikolai Goncharov |  |  |
+| 03.06.2025 | Alexandre Cardaillac |  |  |
+| 10.06.2025 | Ryan Griffiths |  |  |
+| 17.06.2025 | Oliver Yan |  |  |
+| 24.06.2025 | Connor Langford |  |  |
+| 01.07.2025 | Bina Rajan |  |  |
 
 
 ## Members 
