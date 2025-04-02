@@ -10,8 +10,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |   
 | ---------| ----------- | ----------- | ---------| ----------- |
-| 01.04.2025 | Alexandre Cardaillac | Paper | LodeStar: Maritime Radar Descriptor for Semi-Direct Radar Odometry | [paper](https://ieeexplore.ieee.org/document/10380692) |
-| 08.04.2025 | Ryan Griffiths |  |  |
+| 08.04.2025 | Ryan Griffiths | Paper | Continuous 3D Perception Model with Persistent State | [paper](http://arxiv.org/abs/2501.12387) |
 | 15.04.2025 | Oliver Yan |  |  |
 | 22.04.2025 | Connor Langford |  |  |
 | 29.04.2025 | Bina Rajan |  |  |
@@ -76,6 +75,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |  
 | ---------| ----------- | ----------- | ---------| ----------- |
+| 01.04.2025 | Alexandre Cardaillac | Paper | LodeStar: Maritime Radar Descriptor for Semi-Direct Radar Odometry | [paper](https://ieeexplore.ieee.org/document/10380692) |
 | 18.03.2025 | Nikolai Goncharov | Tutorial | Levenberg Marquardt and Bundle Adjustment | [slides](https://github.com/RoboticImaging/ImgRG/blob/gh-pages/tut_slides/Goncharov_2025_Bundle_Adjustment.pdf) |
 | 11.03.2025 | James Gray | Tutorial | Variational Disparity and Optical Flow Estimation | [slides](https://github.com/RoboticImaging/ImgRG/blob/gh-pages/tut_slides/Gray_2025_Variational_Optical_Flow_and_Disparity_Estimation.pdf) |
 | 04.03.2025 | Jesse Mehami | Paper | Learning to Control Camera Exposure via Reinforcement Learning | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Lee_Learning_to_Control_Camera_Exposure_via_Reinforcement_Learning_CVPR_2024_paper.pdf) [project](https://openaccess.thecvf.com/content/CVPR2024/html/Lee_Learning_to_Control_Camera_Exposure_via_Reinforcement_Learning_CVPR_2024_paper.html) |
