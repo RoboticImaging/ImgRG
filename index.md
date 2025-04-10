@@ -41,25 +41,27 @@ The meetings are held once a week (day and time subject to change depending on a
   * Dr. Donald Dansereau
 
 * Others
+  * Henry Lyu
+  * Darryl Tseng
   * Bhargava Gowda
   * Raghav Mishra 
   * Dr. Gideon Billings
-  * Feiyu Wang
+  * Dr. Feiyu Wang
   * Ziting Wen
   * Heather Doig
-  * Darren Tsai
-  * Ahalya Ravendran
+  * Dr. Darren Tsai
+  * Dr. Ahalya Ravendran
   * Ziting Wen
-  * James Allworth
+  * Dr. James Allworth
   * Dr. Stephany Berrio
   * Dr. Liyang Liu
   * Dr. Mitch Bryson
   * Georgia Markham
-  * Kunming Li
+  * Dr. Kunming Li
   * Evie Deaker
   * Will Marais
   * Dr. Mehala Balamurali
-  * Jacob MacKay
+  * Dr. Jacob MacKay
   * Jesse Morris
   * Dr. Jasper Brown
 
