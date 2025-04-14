@@ -16,7 +16,7 @@ The meetings are held once a week (day and time subject to change depending on a
 | 13.05.2025 | All | Paper | CVPR 2025 Papers | [accepted papers](https://cvpr.thecvf.com/Conferences/2025/AcceptedPapers) |
 | 20.05.2025 | Jack Naylor |  |  |
 | 27.05.2025 | Jason Lai |  |  |
-| 03.06.2025 | All | Paper | ICRA 2025 Papers | |
+| 03.06.2025 | All | Paper | ICRA 2025 Papers | [accepted papers](https://docs.google.com/spreadsheets/d/1f9f1USjX6FotkuIcYNMAG-gQtHsZOcxG/edit?usp=sharing&ouid=110564943079042799904&rtpof=true&sd=true) |
 | 10.06.2025 | Jesse Mehami |  |  |
 | 17.06.2025 | Nikolai Goncharov |  |  |
 | 24.06.2025 | Alexandre Cardaillac |  |  |
