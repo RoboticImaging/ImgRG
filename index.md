@@ -10,7 +10,6 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |   
 | ---------| ----------- | ----------- | ---------| ----------- |
-| 15.04.2025 | Oliver Yan | Paper | Separating Direct and Global Components from Novel Viewpoints |[paper](https://openaccess.thecvf.com/content/WACV2025/papers/Matsufuji_Separating_Direct_and_Global_Components_from_Novel_Viewpoints_WACV_2025_paper.pdf)|
 | 29.04.2025 | Connor Langford |  |  |
 | 06.05.2025 | Bina Rajan |  |  |
 | 13.05.2025 | All | Paper | CVPR 2025 Papers | [accepted papers](https://cvpr.thecvf.com/Conferences/2025/AcceptedPapers) |
@@ -78,6 +77,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |  
 | ---------| ----------- | ----------- | ---------| ----------- |
+| 15.04.2025 | Oliver Yan | Paper | Separating Direct and Global Components from Novel Viewpoints |[paper](https://openaccess.thecvf.com/content/WACV2025/papers/Matsufuji_Separating_Direct_and_Global_Components_from_Novel_Viewpoints_WACV_2025_paper.pdf)|
 | 08.04.2025 | Ryan Griffiths | Paper | Continuous 3D Perception Model with Persistent State | [paper](http://arxiv.org/abs/2501.12387) |
 | 01.04.2025 | Alexandre Cardaillac | Paper | LodeStar: Maritime Radar Descriptor for Semi-Direct Radar Odometry | [paper](https://ieeexplore.ieee.org/document/10380692) |
 | 18.03.2025 | Nikolai Goncharov | Tutorial | Levenberg Marquardt and Bundle Adjustment | [slides](https://github.com/RoboticImaging/ImgRG/blob/gh-pages/tut_slides/Goncharov_2025_Bundle_Adjustment.pdf) |
