@@ -10,7 +10,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |   
 | ---------| ----------- | ----------- | ---------| ----------- |
-| 29.04.2025 | Connor Langford |  |  |
+| 29.04.2025 | Connor Langford | Paper | Metrology calibration and very high accuracy centroiding with the NEAT testbed, Precision Projector Laboratory: Detector Characterization with an Astronomical Emulation Testbed | [Paper 1](https://arxiv.org/abs/1407.1387) [Paper 2](https://www.spiedigitallibrary.org/journals/Journal-of-Astronomical-Telescopes-Instruments-and-Systems/volume-5/issue-4/041503/Precision-Projector-Laboratory--detector-characterization-with-an-astronomical-emulation/10.1117/1.JATIS.5.4.041503.short?SSO=1) |
 | 06.05.2025 | Bina Rajan |  |  |
 | 13.05.2025 | All | Paper | CVPR 2025 Papers | [accepted papers](https://cvpr.thecvf.com/Conferences/2025/AcceptedPapers) |
 | 20.05.2025 | Jack Naylor |  |  |
