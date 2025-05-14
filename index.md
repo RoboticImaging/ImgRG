@@ -11,15 +11,14 @@ The meetings are held once a week (day and time subject to change depending on a
 | Date | Presenter | Type | Title | Related Link |   
 | ---------| ----------- | ----------- | ---------| ----------- |
 | 20.05.2025 | All | Paper | ICRA 2025 Papers | [form](https://docs.google.com/spreadsheets/d/1p7pGrTCfVy1GsZB8obnnt4NHxaKX2rRO2Tv9OktqfTs/edit?usp=sharing) [accepted papers](https://docs.google.com/spreadsheets/d/1f9f1USjX6FotkuIcYNMAG-gQtHsZOcxG/edit?usp=sharing&ouid=110564943079042799904&rtpof=true&sd=true) |
-| 27.05.2025 | Jason Lai |  |  |
-| 03.06.2025 | Jack Naylor |  |  |
-| 10.06.2025 | Jesse Mehami |  |  |
-| 17.06.2025 | Nikolai Goncharov |  |  |
-| 24.06.2025 | Alexandre Cardaillac |  |  |
-| 01.07.2025 | Ryan Griffiths |  |  |
-| 08.07.2025 | Oliver Yan |  |  |
-| 15.07.2025 | Connor Langford |  |  |
-| 22.07.2025 | Bina Rajan |  |  |
+| 27.05.2025 | Jason Lai |  |  | |
+| 03.06.2025 | Jack Naylor | Paper | On-the-fly Reconstruction for Large-Scale Novel View Synthesis from Unposed Images | [paper](https://repo-sam.inria.fr/nerphys/on-the-fly-nvs/onthefly_nvs.pdf) [project](https://repo-sam.inria.fr/nerphys/on-the-fly-nvs/) | |
+| 10.06.2025 | Nikolai Goncharov |  |  | |
+| 17.06.2025 | Alexandre Cardaillac |  |  | |
+| 24.06.2025 | Ryan Griffiths |  |  | |
+| 01.07.2025 | Oliver Yan |  |  | |
+| 08.07.2025 | Connor Langford |  | | |
+| 15.07.2025 | Bina Rajan |  |  | |
 
 
 ## Members 
