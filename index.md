@@ -10,7 +10,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |   
 | ---------| ----------- | ----------- | ---------| ----------- |
-| 27.05.2025 | Jason Lai |  |  | |
+| 27.05.2025 | Jason Lai | Paper | HQGS: High-Quality Novel View Synthesis with Gaussian Splatting in Degraded Scenes | [paper](https://openreview.net/pdf/2eb9a157d40c6e32a1e0304ca5eb8278c50c456a.pdf) [project](https://github.com/linxin0/HQGS) |
 | 03.06.2025 | Jack Naylor | Paper | On-the-fly Reconstruction for Large-Scale Novel View Synthesis from Unposed Images | [paper](https://repo-sam.inria.fr/nerphys/on-the-fly-nvs/onthefly_nvs.pdf) [project](https://repo-sam.inria.fr/nerphys/on-the-fly-nvs/) | |
 | 10.06.2025 | Nikolai Goncharov |  |  | |
 | 17.06.2025 | Alexandre Cardaillac |  |  | |
@@ -30,11 +30,11 @@ The meetings are held once a week (day and time subject to change depending on a
   * Bina Rajan
   * Nikolai Goncharov
   * Oliver Yan
-  * Dr. Jesse Mehami
   * Dr. Alexandre Cardaillac
   * Dr. Donald Dansereau
 
 * Others
+  * Dr. Jesse Mehami
   * Henry Lyu
   * Darryl Tseng
   * Bhargava Gowda
