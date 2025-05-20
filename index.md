@@ -10,7 +10,6 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |   
 | ---------| ----------- | ----------- | ---------| ----------- |
-| 20.05.2025 | All | Paper | ICRA 2025 Papers | [form](https://docs.google.com/spreadsheets/d/1p7pGrTCfVy1GsZB8obnnt4NHxaKX2rRO2Tv9OktqfTs/edit?usp=sharing) [accepted papers](https://docs.google.com/spreadsheets/d/1f9f1USjX6FotkuIcYNMAG-gQtHsZOcxG/edit?usp=sharing&ouid=110564943079042799904&rtpof=true&sd=true) |
 | 27.05.2025 | Jason Lai |  |  | |
 | 03.06.2025 | Jack Naylor | Paper | On-the-fly Reconstruction for Large-Scale Novel View Synthesis from Unposed Images | [paper](https://repo-sam.inria.fr/nerphys/on-the-fly-nvs/onthefly_nvs.pdf) [project](https://repo-sam.inria.fr/nerphys/on-the-fly-nvs/) | |
 | 10.06.2025 | Nikolai Goncharov |  |  | |
@@ -73,6 +72,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |  
 | ---------| ----------- | ----------- | ---------| ----------- |
+| 20.05.2025 | All | Paper | ICRA 2025 Papers. List of Presented Papers: [form](https://docs.google.com/spreadsheets/d/1p7pGrTCfVy1GsZB8obnnt4NHxaKX2rRO2Tv9OktqfTs/edit?usp=sharing)| [accepted papers](https://docs.google.com/spreadsheets/d/1f9f1USjX6FotkuIcYNMAG-gQtHsZOcxG/edit?usp=sharing&ouid=110564943079042799904&rtpof=true&sd=true) |
 | 13.05.2025 | All | Paper | CVPR 2025 Papers. List of Presented Papers: [form](https://docs.google.com/spreadsheets/d/1VMql42KzF-7IPIXXaBJNTj0QQL97IcMWXKEpVB4GTK0/edit?usp=sharing) | [accepted papers](https://cvpr.thecvf.com/Conferences/2025/AcceptedPapers)|
 | 06.05.2025 | Bina Rajan | Paper | Blurry-Edges: Photon-Limited Depth Estimation from Defocused Boundaries | [paper](https://arxiv.org/pdf/2503.23606) [project](https://blurry-edges.qiguo.org/)|
 | 29.04.2025 | Connor Langford | Paper | Metrology calibration and very high accuracy centroiding with the NEAT testbed, Precision Projector Laboratory: Detector Characterization with an Astronomical Emulation Testbed | [Paper 1](https://arxiv.org/abs/1407.1387) [Paper 2](https://www.spiedigitallibrary.org/journals/Journal-of-Astronomical-Telescopes-Instruments-and-Systems/volume-5/issue-4/041503/Precision-Projector-Laboratory--detector-characterization-with-an-astronomical-emulation/10.1117/1.JATIS.5.4.041503.short?SSO=1) |
