@@ -17,7 +17,8 @@ The meetings are held once a week (day and time subject to change depending on a
 | 08.07.2025 | Connor Langford |  | | |
 | 15.07.2025 | Alexandre Cardaillac |  |  | |
 | 22.07.2025 | Bina Rajan |  |  | |
-| 29.07.2025 | Ryan Griffiths |  |  | |
+| 29.07.2025 | Sahaj Mand  |  |  | |
+| 05.08.2025 | Ryan Griffiths |  |  | |
 
 
 ## Members 
