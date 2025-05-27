@@ -31,7 +31,6 @@ The meetings are held once a week (day and time subject to change depending on a
   * Bina Rajan
   * Nikolai Goncharov
   * Oliver Yan
-  * Darryl Tseng
   * Sahaj Mand 
   * Dr. Alexandre Cardaillac
   * Dr. Donald Dansereau
@@ -44,11 +43,10 @@ The meetings are held once a week (day and time subject to change depending on a
   * Raghav Mishra 
   * Dr. Gideon Billings
   * Dr. Feiyu Wang
-  * Ziting Wen
   * Heather Doig
   * Dr. Darren Tsai
   * Dr. Ahalya Ravendran
-  * Ziting Wen
+  * Dr. Ziting Wen
   * Dr. James Allworth
   * Dr. Stephany Berrio
   * Dr. Liyang Liu
@@ -56,7 +54,7 @@ The meetings are held once a week (day and time subject to change depending on a
   * Georgia Markham
   * Dr. Kunming Li
   * Evie Deaker
-  * Will Marais
+  * Dr. Will Marais
   * Dr. Mehala Balamurali
   * Dr. Jacob MacKay
   * Jesse Morris
