@@ -10,8 +10,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |   
 | ---------| ----------- | ----------- | ---------| ----------- |
-| 03.06.2025 | Jack Naylor | Paper | On-the-fly Reconstruction for Large-Scale Novel View Synthesis from Unposed Images | [paper](https://repo-sam.inria.fr/nerphys/on-the-fly-nvs/onthefly_nvs.pdf) [project](https://repo-sam.inria.fr/nerphys/on-the-fly-nvs/) |
-| 17.06.2025 | Darryl Tseng |  |  | |
+| 17.06.2025 | Darryl Tseng | Paper | M2S-RoAD: Multi-Modal Semantic Segmentation for Road Damage Using Camera and LiDAR Data, Panoptic-CUDAL Technical Report: Rural Australia Point Cloud Dataset in Rainy Conditions| [Paper 1](https://arxiv.org/pdf/2504.10123) [Paper 2](https://arxiv.org/pdf/2503.16378?)|
 | 24.06.2025 | Nikolai Goncharov |  |  | |
 | 01.07.2025 | Oliver Yan |  |  | |
 | 08.07.2025 | Connor Langford |  | | |
@@ -73,6 +72,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |  
 | ---------| ----------- | ----------- | ---------| ----------- |
+| 03.06.2025 | Jack Naylor | Paper | On-the-fly Reconstruction for Large-Scale Novel View Synthesis from Unposed Images | [paper](https://repo-sam.inria.fr/nerphys/on-the-fly-nvs/onthefly_nvs.pdf) [project](https://repo-sam.inria.fr/nerphys/on-the-fly-nvs/) |
 | 27.05.2025 | Jason Lai | Paper | HQGS: High-Quality Novel View Synthesis with Gaussian Splatting in Degraded Scenes | [paper](https://openreview.net/pdf/2eb9a157d40c6e32a1e0304ca5eb8278c50c456a.pdf) [project](https://github.com/linxin0/HQGS) |
 | 20.05.2025 | All | Paper | ICRA 2025 Papers. List of Presented Papers: [form](https://docs.google.com/spreadsheets/d/1p7pGrTCfVy1GsZB8obnnt4NHxaKX2rRO2Tv9OktqfTs/edit?usp=sharing)| [accepted papers](https://docs.google.com/spreadsheets/d/1f9f1USjX6FotkuIcYNMAG-gQtHsZOcxG/edit?usp=sharing&ouid=110564943079042799904&rtpof=true&sd=true) |
 | 13.05.2025 | All | Paper | CVPR 2025 Papers. List of Presented Papers: [form](https://docs.google.com/spreadsheets/d/1VMql42KzF-7IPIXXaBJNTj0QQL97IcMWXKEpVB4GTK0/edit?usp=sharing) | [accepted papers](https://cvpr.thecvf.com/Conferences/2025/AcceptedPapers)|
