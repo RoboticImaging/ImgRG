@@ -10,7 +10,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |   
 | ---------| ----------- | ----------- | ---------| ----------- |
-| 08.07.2025 | Oliver Yan | Paper | DoF-Gaussian: Controllable Depth-of-Field for 3D Gaussian Splatting | [paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Shen_DoF-Gaussian_Controllable_Depth-of-Field_for_3D_Gaussian_Splatting_CVPR_2025_paper.pdf)[project](https://dof-gaussian.github.io/) |
+| 08.07.2025 | Oliver Yan | Paper | DoF-Gaussian: Controllable Depth-of-Field for 3D Gaussian Splatting | [paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Shen_DoF-Gaussian_Controllable_Depth-of-Field_for_3D_Gaussian_Splatting_CVPR_2025_paper.pdf) [project](https://dof-gaussian.github.io/) |
 | 08.07.2025 | Connor Langford |  | | |
 | 15.07.2025 | Alexandre Cardaillac |  |  | |
 | 22.07.2025 | Bina Rajan |  |  | |
