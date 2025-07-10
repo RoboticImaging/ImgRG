@@ -10,13 +10,12 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |   
 | ---------| ----------- | ----------- | ---------| ----------- |
-| 08.07.2025 | Oliver Yan | Paper | DoF-Gaussian: Controllable Depth-of-Field for 3D Gaussian Splatting | [paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Shen_DoF-Gaussian_Controllable_Depth-of-Field_for_3D_Gaussian_Splatting_CVPR_2025_paper.pdf) [project](https://dof-gaussian.github.io/) |
-| 08.07.2025 | Connor Langford |  | | |
-| 15.07.2025 | Alexandre Cardaillac |  |  | |
-| 22.07.2025 | Bina Rajan |  |  | |
+| 15.07.2025 | Connor Langford | Papers | On-Orbit Performance & Operation of the Attitude & Pointing Control Subsystems on ASTERIA, On-Orbit Results and Lessons Learned from the ASTERIA Space Telescope Mission | [Paper 1](https://scispace.com/pdf/on-orbit-performance-operation-of-the-attitude-pointing-2xyzv2imcm.pdf) [Paper 2](https://scispace.com/pdf/on-orbit-results-and-lessons-learned-from-the-asteria-space-s76xwe94c7.pdf) |
+| 22.07.2025 | All | Paper | SIGGRAPH 2025 Papers | |
 | 29.07.2025 | Sahaj Mand  |  |  | |
-| 05.08.2025 | Ryan Griffiths |  |  | |
-
+| 05.08.2025 | Alexandre Cardaillac |  |  | |
+| 12.08.2025 | Bina Rajan |  |  | |
+| 19.08.2025 | Ryan Griffiths |  |  | |
 
 ## Members 
 * Active, Presenters
@@ -70,6 +69,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |  
 | ---------| ----------- | ----------- | ---------| ----------- |
+| 08.07.2025 | Oliver Yan | Paper | DoF-Gaussian: Controllable Depth-of-Field for 3D Gaussian Splatting | [paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Shen_DoF-Gaussian_Controllable_Depth-of-Field_for_3D_Gaussian_Splatting_CVPR_2025_paper.pdf) [project](https://dof-gaussian.github.io/) |
 | 24.06.2025 | Nikolai Goncharov | Book | Foundations of Computer Vision | [Website](https://visionbook.mit.edu/) |
 | 17.06.2025 | Darryl Tseng | Paper | M2S-RoAD: Multi-Modal Semantic Segmentation for Road Damage Using Camera and LiDAR Data, Panoptic-CUDAL Technical Report: Rural Australia Point Cloud Dataset in Rainy Conditions| [Paper 1](https://arxiv.org/pdf/2504.10123) [Paper 2](https://arxiv.org/pdf/2503.16378?)|
 | 03.06.2025 | Jack Naylor | Paper | On-the-fly Reconstruction for Large-Scale Novel View Synthesis from Unposed Images | [paper](https://repo-sam.inria.fr/nerphys/on-the-fly-nvs/onthefly_nvs.pdf) [project](https://repo-sam.inria.fr/nerphys/on-the-fly-nvs/) |
