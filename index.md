@@ -10,7 +10,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |   
 | ---------| ----------- | ----------- | ---------| ----------- |
-| 29.07.2025 | Sahaj Mand  |  |  | |
+| 29.07.2025 | Sahaj Mand  | Paper | Reasoning in visual navigation of end-to-end trained agents: a dynamical systems approach | [paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Janny_Reasoning_in_Visual_Navigation_of_End-to-end_Trained_Agents_A_Dynamical_CVPR_2025_paper.pdf) [project](https://europe.naverlabs.com/research/publications/reasoning-in-visual-navigation-of-end-to-end-trained-agents/)  |
 | 05.08.2025 | Alexandre Cardaillac |  |  | |
 | 12.08.2025 | Ryan Griffiths |  |  | |
 | 19.08.2025 | Bina Rajan |  |  | |
