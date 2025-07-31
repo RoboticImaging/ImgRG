@@ -10,10 +10,26 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |   
 | ---------| ----------- | ----------- | ---------| ----------- |
-| 29.07.2025 | Sahaj Mand  | Paper | Reasoning in visual navigation of end-to-end trained agents: a dynamical systems approach | [paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Janny_Reasoning_in_Visual_Navigation_of_End-to-end_Trained_Agents_A_Dynamical_CVPR_2025_paper.pdf) [project](https://europe.naverlabs.com/research/publications/reasoning-in-visual-navigation-of-end-to-end-trained-agents/)  |
-| 05.08.2025 | Alexandre Cardaillac |  |  | |
+| 05.08.2025 | Alexandre Cardaillac | Paper | DISO: Direct Imaging Sonar Odometry | [paper](https://ieeexplore.ieee.org/document/10611064) |
 | 12.08.2025 | Ryan Griffiths |  |  | |
 | 19.08.2025 | Bina Rajan |  |  | |
+| 26.08.2025 | All | Paper | ICCP 2025 Papers | [accepted papers](https://iccp2025.iccp-conference.org/#program) |
+| 02.09.2025 | James Gray |  |  | |
+| 09.09.2025 | Jason Lai  |  |  | |
+| 16.09.2025 | Nikolai Goncharov |  |  | |
+| 23.09.2025 | Oliver Yan |  |  | |
+| 30.09.2025 | All | Paper | ICCV 2025 Papers | [accepted papers](https://iccv.thecvf.com/Conferences/2025/AcceptedPapers) |
+| 07.10.2025 | Connor Langford |  |  | |
+| 14.10.2025 | Alexandre Cardaillac |  |  | |
+| 21.10.2025 | Ryan Griffiths |  |  | |
+| 28.10.2025 | Bina Rajan |  |  | |
+| 04.11.2025 | All | Paper | IROS 2025 Papers | |
+| 11.11.2025 |  |  |  | |
+| 18.11.2025 |  |  |  | |
+| 25.11.2025 | All | Paper | SIGGRAPH ASIA 2025 Papers | |
+| 02.12.2025 |  |  |  | |
+| 09.12.2025 |  |  |  | |
+| 16.12.2025 | All | Paper | ImgRG Retrospective | |
 
 ## Members 
 * Active, Presenters
@@ -67,6 +83,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |  
 | ---------| ----------- | ----------- | ---------| ----------- |
+| 29.07.2025 | Sahaj Mand  | Paper | Reasoning in visual navigation of end-to-end trained agents: a dynamical systems approach | [paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Janny_Reasoning_in_Visual_Navigation_of_End-to-end_Trained_Agents_A_Dynamical_CVPR_2025_paper.pdf) [project](https://europe.naverlabs.com/research/publications/reasoning-in-visual-navigation-of-end-to-end-trained-agents/)  |
 | 22.07.2025 | All | Paper | SIGGRAPH 2025 Papers. List of Presented Papers: [form](https://docs.google.com/spreadsheets/d/1GDWmN79JBW7Z4WYu-YmjrHiOqYMvD-53_48kQpv4WBo/edit?usp=sharing) | [accepted papers](https://s2025.conference-schedule.org/?filter1=sstype101&_gl=1%2A1f6vg0j%2A_ga%2AOTM3OTEwMzIyLjE3NDM3MzEwMzQ.%2A_ga_X5ZBLN2D01%2AczE3NTI1MzgxNjckbzUkZzEkdDE3NTI1MzgxODckajQwJGwwJGgw)|
 | 15.07.2025 | Connor Langford | Papers | On-Orbit Performance & Operation of the Attitude & Pointing Control Subsystems on ASTERIA, On-Orbit Results and Lessons Learned from the ASTERIA Space Telescope Mission | [Paper 1](https://scispace.com/pdf/on-orbit-performance-operation-of-the-attitude-pointing-2xyzv2imcm.pdf) [Paper 2](https://scispace.com/pdf/on-orbit-results-and-lessons-learned-from-the-asteria-space-s76xwe94c7.pdf) |
 | 08.07.2025 | Oliver Yan | Paper | DoF-Gaussian: Controllable Depth-of-Field for 3D Gaussian Splatting | [paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Shen_DoF-Gaussian_Controllable_Depth-of-Field_for_3D_Gaussian_Splatting_CVPR_2025_paper.pdf) [project](https://dof-gaussian.github.io/) |
