@@ -10,8 +10,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |   
 | ---------| ----------- | ----------- | ---------| ----------- |
-| 12.08.2025 | Ryan Griffiths | Paper | xLSTM: Extended Long Short-Term Memory | [paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/c2ce2f2701c10a2b2f2ea0bfa43cfaa3-Paper-Conference.pdf) [github](https://github.com/NX-AI/xlstm) |
-| 19.08.2025 | Bina Rajan |  |  | |
+| 19.08.2025 | Bina Rajan | Paper | Learning Spatially Varying Pixel Exposures for Motion Deblurring |[paper](https://ieeexplore.ieee.org/document/9887786) |
 | 26.08.2025 | All | Paper | ICCP 2025 Papers | [accepted papers](https://iccp2025.iccp-conference.org/#program) |
 | 02.09.2025 | James Gray |  |  | |
 | 09.09.2025 | Jason Lai  |  |  | |
@@ -82,6 +81,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |  
 | ---------| ----------- | ----------- | ---------| ----------- |
+| 12.08.2025 | Ryan Griffiths | Paper | xLSTM: Extended Long Short-Term Memory | [paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/c2ce2f2701c10a2b2f2ea0bfa43cfaa3-Paper-Conference.pdf) [github](https://github.com/NX-AI/xlstm) |
 | 05.08.2025 | Alexandre Cardaillac | Paper | DISO: Direct Imaging Sonar Odometry | [paper](https://ieeexplore.ieee.org/document/10611064) |
 | 29.07.2025 | Sahaj Mand  | Paper | Reasoning in visual navigation of end-to-end trained agents: a dynamical systems approach | [paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Janny_Reasoning_in_Visual_Navigation_of_End-to-end_Trained_Agents_A_Dynamical_CVPR_2025_paper.pdf) [project](https://europe.naverlabs.com/research/publications/reasoning-in-visual-navigation-of-end-to-end-trained-agents/)  |
 | 22.07.2025 | All | Paper | SIGGRAPH 2025 Papers. List of Presented Papers: [form](https://docs.google.com/spreadsheets/d/1GDWmN79JBW7Z4WYu-YmjrHiOqYMvD-53_48kQpv4WBo/edit?usp=sharing) | [accepted papers](https://s2025.conference-schedule.org/?filter1=sstype101&_gl=1%2A1f6vg0j%2A_ga%2AOTM3OTEwMzIyLjE3NDM3MzEwMzQ.%2A_ga_X5ZBLN2D01%2AczE3NTI1MzgxNjckbzUkZzEkdDE3NTI1MzgxODckajQwJGwwJGgw)|
