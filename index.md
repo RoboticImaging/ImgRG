@@ -10,7 +10,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |   
 | ---------| ----------- | ----------- | ---------| ----------- |
-| 26.08.2025 | All | Paper | ICCP 2025 Papers | [accepted papers](https://iccp2025.iccp-conference.org/#program) |
+| 26.08.2025 | All | Paper | ICCP 2025 Papers. List of Presented Papers: [form](https://docs.google.com/spreadsheets/d/1W2zP_Wh1QjkisU9FGJyYRCkYWKzgq5wd58qeKGPDRak/edit?usp=sharing)| [accepted papers](https://iccp2025.iccp-conference.org/#program) |
 | 02.09.2025 | James Gray |  |  | |
 | 09.09.2025 | Jason Lai  |  |  | |
 | 16.09.2025 | Nikolai Goncharov |  |  | |
