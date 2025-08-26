@@ -13,18 +13,17 @@ The meetings are held once a week (day and time subject to change depending on a
 | 26.08.2025 | All | Paper | ICCP 2025 Papers. List of Presented Papers: [form](https://docs.google.com/spreadsheets/d/1W2zP_Wh1QjkisU9FGJyYRCkYWKzgq5wd58qeKGPDRak/edit?usp=sharing)| [accepted papers](https://iccp2025.iccp-conference.org/#program) |
 | 02.09.2025 | James Gray |  |  | |
 | 09.09.2025 | Jason Lai  |  |  | |
-| 16.09.2025 | Nikolai Goncharov |  |  | |
 | 23.09.2025 | Oliver Yan |  |  | |
 | 30.09.2025 | All | Paper | ICCV 2025 Papers | [accepted papers](https://iccv.thecvf.com/Conferences/2025/AcceptedPapers) |
 | 07.10.2025 | Connor Langford |  |  | |
-| 14.10.2025 | Alexandre Cardaillac |  |  | |
-| 21.10.2025 | Ryan Griffiths |  |  | |
-| 28.10.2025 | Bina Rajan |  |  | |
-| 04.11.2025 | All | Paper | IROS 2025 Papers | |
-| 11.11.2025 |  |  |  | |
+| 14.10.2025 | Nikolai Goncharov |  |  | |
+| 21.10.2025 | Alexandre Cardaillac |  |  | |
+| 28.10.2025 | Ryan Griffiths |  |  | |
+| 04.11.2025 | Bina Rajan |  |  | |
+| 11.11.2025 | All | Paper | IROS 2025 Papers | |
 | 18.11.2025 |  |  |  | |
-| 25.11.2025 | All | Paper | SIGGRAPH ASIA 2025 Papers | |
-| 02.12.2025 |  |  |  | |
+| 25.11.2025 |  |  |  | |
+| 02.11.2025 | All | Paper | SIGGRAPH ASIA 2025 Papers | |
 | 09.12.2025 |  |  |  | |
 | 16.12.2025 | All | Paper | ImgRG Retrospective | |
 
