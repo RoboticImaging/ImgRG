@@ -18,12 +18,12 @@ The meetings are held once a week (day and time subject to change depending on a
 | 07.10.2025 | Connor Langford |  |  | |
 | 14.10.2025 | Nikolai Goncharov |  |  | |
 | 21.10.2025 | Alexandre Cardaillac |  |  | |
-| 28.10.2025 | Ryan Griffiths |  |  | |
-| 04.11.2025 | Bina Rajan |  |  | |
-| 11.11.2025 | All | Paper | IROS 2025 Papers | |
+| 28.10.2025 | All | Paper | IROS 2025 Papers | |
+| 04.11.2025 | Ryan Griffiths |  |  | |
+| 11.11.2025 | Bina Rajan |  |  | |
 | 18.11.2025 |  |  |  | |
-| 25.11.2025 |  |  |  | |
-| 02.11.2025 | All | Paper | SIGGRAPH ASIA 2025 Papers | |
+| 25.11.2025 | All | Paper | SIGGRAPH ASIA 2025 Papers | |
+| 02.12.2025 |  |  |  | |
 | 09.12.2025 |  |  |  | |
 | 16.12.2025 | All | Paper | ImgRG Retrospective | |
 
