@@ -10,8 +10,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |   
 | ---------| ----------- | ----------- | ---------| ----------- |
-| 02.09.2025 | James Gray | Paper | IRGS: Inter-Reflective Gaussian Splatting with 2D Gaussian Ray Tracing | [paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Gu_IRGS_Inter-Reflective_Gaussian_Splatting_with_2D_Gaussian_Ray_Tracing_CVPR_2025_paper.pdf) [project](https://fudan-zvg.github.io/IRGS/)|
-| 09.09.2025 | Jason Lai  |  |  | |
+| 09.09.2025 | Jason Lai  | Paper | GaussianUpdate: Continual 3D Gaussian Splatting Update for Changing Environments | [paper](https://arxiv.org/pdf/2508.08867) [project](https://zju3dv.github.io/GaussianUpdate/) |
 | 23.09.2025 | Oliver Yan |  |  | |
 | 30.09.2025 | All | Paper | ICCV 2025 Papers | [accepted papers](https://iccv.thecvf.com/Conferences/2025/AcceptedPapers) |
 | 07.10.2025 | Connor Langford |  |  | |
@@ -78,6 +77,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |  
 | ---------| ----------- | ----------- | ---------| ----------- |
+| 02.09.2025 | James Gray | Paper | IRGS: Inter-Reflective Gaussian Splatting with 2D Gaussian Ray Tracing | [paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Gu_IRGS_Inter-Reflective_Gaussian_Splatting_with_2D_Gaussian_Ray_Tracing_CVPR_2025_paper.pdf) [project](https://fudan-zvg.github.io/IRGS/)|
 | 26.08.2025 | All | Paper | ICCP 2025 Papers. List of Presented Papers: [form](https://docs.google.com/spreadsheets/d/1W2zP_Wh1QjkisU9FGJyYRCkYWKzgq5wd58qeKGPDRak/edit?usp=sharing)| [accepted papers](https://iccp2025.iccp-conference.org/#program) |
 | 19.08.2025 | Bina Rajan | Paper | Learning Spatially Varying Pixel Exposures for Motion Deblurring |[paper](https://ieeexplore.ieee.org/document/9887786)|
 | 12.08.2025 | Ryan Griffiths | Paper | xLSTM: Extended Long Short-Term Memory | [paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/c2ce2f2701c10a2b2f2ea0bfa43cfaa3-Paper-Conference.pdf) [github](https://github.com/NX-AI/xlstm) |
