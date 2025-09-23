@@ -10,8 +10,6 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |   
 | ---------| ----------- | ----------- | ---------| ----------- |
-| 23.09.2025 | All | Paper | ICCV 2025 Papers. List of Presented Papers: [form](https://docs.google.com/spreadsheets/d/1AAZp6Lw8hmL--t27-Tv7oODGiTVr2cqCeegL3DPxJGA/edit?usp=sharing) | [accepted papers](https://iccv.thecvf.com/Conferences/2025/AcceptedPapers) |
-| 30.09.2025 | Oliver Yan |  |  | |
 | 07.10.2025 | Connor Langford |  |  | |
 | 14.10.2025 | Nikolai Goncharov |  |  | |
 | 21.10.2025 | Alexandre Cardaillac |  |  | |
@@ -76,6 +74,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |  
 | ---------| ----------- | ----------- | ---------| ----------- |
+| 23.09.2025 | All | Paper | ICCV 2025 Papers. List of Presented Papers: [form](https://docs.google.com/spreadsheets/d/1AAZp6Lw8hmL--t27-Tv7oODGiTVr2cqCeegL3DPxJGA/edit?usp=sharing) | [accepted papers](https://iccv.thecvf.com/Conferences/2025/AcceptedPapers) |
 | 09.09.2025 | Jason Lai  | Paper | GaussianUpdate: Continual 3D Gaussian Splatting Update for Changing Environments | [paper](https://arxiv.org/pdf/2508.08867) [project](https://zju3dv.github.io/GaussianUpdate/) |
 | 02.09.2025 | James Gray | Paper | IRGS: Inter-Reflective Gaussian Splatting with 2D Gaussian Ray Tracing | [paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Gu_IRGS_Inter-Reflective_Gaussian_Splatting_with_2D_Gaussian_Ray_Tracing_CVPR_2025_paper.pdf) [project](https://fudan-zvg.github.io/IRGS/)|
 | 26.08.2025 | All | Paper | ICCP 2025 Papers. List of Presented Papers: [form](https://docs.google.com/spreadsheets/d/1W2zP_Wh1QjkisU9FGJyYRCkYWKzgq5wd58qeKGPDRak/edit?usp=sharing)| [accepted papers](https://iccp2025.iccp-conference.org/#program) |
