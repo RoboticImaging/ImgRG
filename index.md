@@ -19,7 +19,7 @@ The meetings are held once a week (day and time subject to change depending on a
 | 18.11.2025 |  |  |  | |
 | 25.11.2025 | All | Paper | SIGGRAPH ASIA 2025 Papers | |
 | 02.12.2025 |  |  |  | |
-| 09.12.2025 |  |  |  | |
+| 09.12.2025 | Oliver Yan |  |  | |
 | 16.12.2025 | All | Paper | ImgRG Retrospective | |
 
 ## Members 
