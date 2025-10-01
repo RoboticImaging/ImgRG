@@ -10,7 +10,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |   
 | ---------| ----------- | ----------- | ---------| ----------- |
-| 07.10.2025 | Connor Langford | Paper | Micro-arcsecond Astrometry Technology: Detector and Field Distortion Calibration | [paper](https://arxiv.org/abs/2212.08129) |
+| 07.10.2025 | Connor Langford | Paper | Micro-arcsecond Astrometry Technology: Detector and Field Distortion Calibration | [paper](https://iopscience.iop.org/article/10.1088/1538-3873/ace3f4) |
 | 14.10.2025 | Nikolai Goncharov |  |  | |
 | 21.10.2025 | Alexandre Cardaillac |  |  | |
 | 28.10.2025 | All | Paper | IROS 2025 Papers | |
