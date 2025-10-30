@@ -10,8 +10,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |   
 | ---------| ----------- | ----------- | ---------| ----------- |
-| 28.10.2025 | All | Paper | IROS 2025 Papers. List of Presented Papers: [form](https://docs.google.com/spreadsheets/d/1NKs-PJUD3JdWKXApABdhmABf_oHbsUESNJP59rShyJA/edit?usp=sharing) | [accepted papers](https://docs.google.com/spreadsheets/d/1G8BmGjz7dGXkJynrJWIIavfpA8nJKHc2/edit?usp=sharing&ouid=110564943079042799904&rtpof=true&sd=true) |
-| 04.11.2025 | Ryan Griffiths |  |  | |
+| 04.11.2025 | Ryan Griffiths | Paper | Opportunistic Single-Photon Time of Flight | [paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Nousias_Opportunistic_Single-Photon_Time_of_Flight_CVPR_2025_paper.pdf) [project](https://www.dgp.toronto.edu/projects/opportunistic/)|
 | 11.11.2025 | Bina Rajan |  |  | |
 | 18.11.2025 |  |  |  | |
 | 25.11.2025 | All | Paper | SIGGRAPH ASIA 2025 Papers | |
@@ -71,6 +70,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |  
 | ---------| ----------- | ----------- | ---------| ----------- |
+| 28.10.2025 | All | Paper | IROS 2025 Papers. List of Presented Papers: [form](https://docs.google.com/spreadsheets/d/1NKs-PJUD3JdWKXApABdhmABf_oHbsUESNJP59rShyJA/edit?usp=sharing) | [accepted papers](https://docs.google.com/spreadsheets/d/1G8BmGjz7dGXkJynrJWIIavfpA8nJKHc2/edit?usp=sharing&ouid=110564943079042799904&rtpof=true&sd=true) |
 | 21.10.2025 | Alexandre Cardaillac | Paper | Neural Implicit Surface Reconstruction using Imaging Sonar | [paper](https://arxiv.org/abs/2209.08221) [project](https://rpl.ri.cmu.edu/neusis/) |
 | 14.10.2025 | Nikolai Goncharov | Paper | LoopSplat: Loop Closure by Registering 3D Gaussian Splats | [paper](https://arxiv.org/abs/2408.10154) [project](https://loopsplat.github.io/) |
 | 07.10.2025 | Connor Langford | Paper | Micro-arcsecond Astrometry Technology: Detector and Field Distortion Calibration | [paper](https://iopscience.iop.org/article/10.1088/1538-3873/ace3f4) |
