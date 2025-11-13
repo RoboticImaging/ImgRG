@@ -10,28 +10,28 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |   
 | ---------| ----------- | ----------- | ---------| ----------- |
-| 11.11.2025 | Bina Rajan | Paper | Spatially-Varying Autofocus | [paper](https://imaging.cs.cmu.edu/svaf/static/pdfs/Spatially_Varying_Autofocus.pdf) [project](https://imaging.cs.cmu.edu/svaf/) |
-| 18.11.2025 |  |  |  | |
+| 18.11.2025 | Jennifer Wakulicz | Paper | SHRUMS: Sensor Hallucination for Real-time Underwater Motion Planning with a Compact 3D Sonar | [paper](https://arxiv.org/abs/2510.18996) |
 | 25.11.2025 | All | Paper | SIGGRAPH ASIA 2025 Papers | |
 | 02.12.2025 |  |  |  | |
-| 09.12.2025 | Oliver Yan |  |  | |
+| 09.12.2025 |  |  |  | |
 | 16.12.2025 | All | Paper | ImgRG Retrospective | |
 
 ## Members 
 * Active, Presenters
   * Jason Lai
   * Connor Langford
-  * Dr. James Gray
   * Ryan Griffiths
   * Jack Naylor
   * Bina Rajan
   * Nikolai Goncharov
   * Oliver Yan
-  * Sahaj Mand 
+  * Dr. James Gray
   * Dr. Alexandre Cardaillac
+  * Dr. Jennifer Wakulicz
   * Dr. Donald Dansereau
 
 * Others
+  * Sahaj Mand 
   * Dr. Jesse Mehami
   * Henry Lyu
   * Darryl Tseng
@@ -69,6 +69,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |  
 | ---------| ----------- | ----------- | ---------| ----------- |
+| 11.11.2025 | Bina Rajan | Paper | Spatially-Varying Autofocus | [paper](https://imaging.cs.cmu.edu/svaf/static/pdfs/Spatially_Varying_Autofocus.pdf) [project](https://imaging.cs.cmu.edu/svaf/) |
 | 04.11.2025 | Ryan Griffiths | Paper | Opportunistic Single-Photon Time of Flight | [paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Nousias_Opportunistic_Single-Photon_Time_of_Flight_CVPR_2025_paper.pdf) [project](https://www.dgp.toronto.edu/projects/opportunistic/)|
 | 28.10.2025 | All | Paper | IROS 2025 Papers. List of Presented Papers: [form](https://docs.google.com/spreadsheets/d/1NKs-PJUD3JdWKXApABdhmABf_oHbsUESNJP59rShyJA/edit?usp=sharing) | [accepted papers](https://docs.google.com/spreadsheets/d/1G8BmGjz7dGXkJynrJWIIavfpA8nJKHc2/edit?usp=sharing&ouid=110564943079042799904&rtpof=true&sd=true) |
 | 21.10.2025 | Alexandre Cardaillac | Paper | Neural Implicit Surface Reconstruction using Imaging Sonar | [paper](https://arxiv.org/abs/2209.08221) [project](https://rpl.ri.cmu.edu/neusis/) |
