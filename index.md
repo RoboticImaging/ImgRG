@@ -11,7 +11,7 @@ The meetings are held once a week (day and time subject to change depending on a
 | Date | Presenter | Type | Title | Related Link |   
 | ---------| ----------- | ----------- | ---------| ----------- |
 | 18.11.2025 | Jennifer Wakulicz | Paper | SHRUMS: Sensor Hallucination for Real-time Underwater Motion Planning with a Compact 3D Sonar | [paper](https://arxiv.org/abs/2510.18996) |
-| 25.11.2025 | All | Paper | SIGGRAPH ASIA 2025 Papers | |
+| 25.11.2025 | All | Paper | SIGGRAPH ASIA 2025 Papers | [accepted papers](https://sa2025.conference-schedule.org/?filter1=sstype112) |
 | 02.12.2025 |  |  |  | |
 | 09.12.2025 |  |  |  | |
 | 16.12.2025 | All | Paper | ImgRG Retrospective | |
