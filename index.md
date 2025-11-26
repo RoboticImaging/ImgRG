@@ -11,7 +11,7 @@ The meetings are held once a week (day and time subject to change depending on a
 | Date | Presenter | Type | Title | Related Link |   
 | ---------| ----------- | ----------- | ---------| ----------- |
 | 25.11.2025 | All | Paper | SIGGRAPH ASIA 2025 Papers. List of Presented Papers: [form](https://url.au.m.mimecastprotect.com/s/mZWLCNLJyQUPX0z4Vu4hyCy0Kk4?domain=docs.google.com) | [accepted papers](https://sa2025.conference-schedule.org/?filter1=sstype112) |
-| 02.12.2025 | James Gray | Tutorial | Blender Tutorial | |
+| 02.12.2025 | James Gray | Tutorial | Blender for Research: an Introduction | Slides Coming Soon |
 | 09.12.2025 |  |  |  | |
 | 16.12.2025 | All | Paper | ImgRG Retrospective | |
 
