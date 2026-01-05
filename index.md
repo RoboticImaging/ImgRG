@@ -10,8 +10,8 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |   
 | ---------| ----------- | ----------- | ---------| ----------- |
-| 09.12.2025 |  |  |  | |
-| 16.12.2025 | All | Paper | ImgRG Top Papers Retrospective | [list](https://docs.google.com/spreadsheets/d/1meXm89N0TnqWeTl1r6dlXBuwp_x-4JO-RJPosco7s2I/edit?usp=sharing)|
+| 13.01.2026 | Oliver Yan | Paper | AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views | [paper](https://arxiv.org/abs/2505.23716) [project](https://city-super.github.io/anysplat/)|
+| 27.01.2026 | | | | |
 
 ## Members 
 * Active, Presenters
@@ -46,7 +46,7 @@ The meetings are held once a week (day and time subject to change depending on a
   * Dr. Mitch Bryson
   * Georgia Markham
   * Dr. Kunming Li
-  * Evie Deaker
+  * Dr. Evie Deaker
   * Dr. Will Marais
   * Dr. Mehala Balamurali
   * Dr. Jacob MacKay
@@ -66,6 +66,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |  
 | ---------| ----------- | ----------- | ---------| ----------- |
+| 16.12.2025 | All | Paper | ImgRG Top Papers Retrospective | [list](https://docs.google.com/spreadsheets/d/1meXm89N0TnqWeTl1r6dlXBuwp_x-4JO-RJPosco7s2I/edit?usp=sharing)|
 | 02.12.2025 | James Gray | Tutorial | Blender for Research: an Introduction |  |
 | 25.11.2025 | All | Paper | SIGGRAPH ASIA 2025 Papers. List of Presented Papers: [form](https://url.au.m.mimecastprotect.com/s/mZWLCNLJyQUPX0z4Vu4hyCy0Kk4?domain=docs.google.com) | [accepted papers](https://sa2025.conference-schedule.org/?filter1=sstype112) |
 | 18.11.2025 | Jennifer Wakulicz | Paper | SHRUMS: Sensor Hallucination for Real-time Underwater Motion Planning with a Compact 3D Sonar | [paper](https://arxiv.org/abs/2510.18996) |
