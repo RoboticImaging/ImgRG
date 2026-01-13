@@ -10,14 +10,24 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |   
 | ---------| ----------- | ----------- | ---------| ----------- |
-| 13.01.2026 | Oliver Yan | Paper | AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views | [paper](https://arxiv.org/abs/2505.23716) [project](https://city-super.github.io/anysplat/)|
-| 27.01.2026 | | | | |
+| 20.01.2026 | James Cook | Paper | VL-JEPA: Joint Embedding Predictive Architecture for Vision-language | [paper](https://arxiv.org/abs/2512.10942) |
+| 27.01.2026 | Bina Rajan | | | |
+| 10.02.2026 | Connor Langford | | | |
+| 17.02.2026 | James Gray | | | |
+| 24.02.2026 | Jason Lai | | | |
+| 03.03.2026 | Donald Dansereau | | | |
+| 17.03.2026 | Jennifer Wakulicz | | | |
+| 24.03.2026 | Nikolai Goncharov | | | |
+| 31.03.2026 | Jack Naylor | | | |
+| 07.04.2026 | | | | |
+| 14.04.2026 | | | | |
+| 21.04.2026 | | | | |
+| 28.04.2026 | | | | |
 
 ## Members 
 * Active, Presenters
   * Jason Lai
   * Connor Langford
-  * Ryan Griffiths
   * Jack Naylor
   * Bina Rajan
   * Nikolai Goncharov
@@ -28,6 +38,8 @@ The meetings are held once a week (day and time subject to change depending on a
   * Dr. Donald Dansereau
 
 * Others
+  * Ryan Griffiths
+  * James Cook
   * Sahaj Mand 
   * Dr. Jesse Mehami
   * Henry Lyu
@@ -61,6 +73,13 @@ The meetings are held once a week (day and time subject to change depending on a
 [2023](#2023)
 [2024](#2024)
 [2025](#2025)
+[2026](#2026)
+
+### 2026
+
+| Date | Presenter | Type | Title | Related Link |  
+| ---------| ----------- | ----------- | ---------| ----------- |
+| 13.01.2026 | Oliver Yan | Paper | AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views | [paper](https://arxiv.org/abs/2505.23716) [project](https://city-super.github.io/anysplat/)|
 
 ### 2025
 
