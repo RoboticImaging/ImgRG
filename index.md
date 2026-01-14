@@ -289,6 +289,9 @@ The meetings are held once a week (day and time subject to change depending on a
 * [Distortion-free wide-angle portraits on camera phones](https://dl.acm.org/doi/10.1145/3306346.3322948) Shih, Y., Lai, W.S. and Liang, C.K., 2019. Distortion-free wide-angle portraits on camera phones. ACM Transactions on Graphics (TOG), 38(4), pp.1-12.
 
 ## Curated list of Robotic Imaging Resources
+### How to do Awesome Maths
+* [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
+
 ### Textbooks
 * [Computation Imaging](https://imagingtext.github.io/)
 * [Computational Imaging through Atmospheric Turbulence](https://nchimitt.github.io/book/)
