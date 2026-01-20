@@ -10,8 +10,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |   
 | ---------| ----------- | ----------- | ---------| ----------- |
-| 20.01.2026 | James Cook | Paper | VL-JEPA: Joint Embedding Predictive Architecture for Vision-language | [paper](https://arxiv.org/abs/2512.10942) |
-| 27.01.2026 | Bina Rajan | | | |
+| 27.01.2026 | Bina Rajan | Paper | Image as an IMU: Estimating Camera Motion from a Single Motion-Blurred Image | [paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_Image_as_an_IMU_Estimating_Camera_Motion_from_a_Single_ICCV_2025_paper.pdf) [project](https://jerredchen.github.io/image-as-imu/) |
 | 10.02.2026 | Connor Langford | | | |
 | 17.02.2026 | James Gray | | | |
 | 24.02.2026 | Jason Lai | | | |
@@ -79,6 +78,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |  
 | ---------| ----------- | ----------- | ---------| ----------- |
+| 20.01.2026 | James Cook | Paper | VL-JEPA: Joint Embedding Predictive Architecture for Vision-language | [paper](https://arxiv.org/abs/2512.10942) |
 | 13.01.2026 | Oliver Yan | Paper | AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views | [paper](https://arxiv.org/abs/2505.23716) [project](https://city-super.github.io/anysplat/)|
 
 ### 2025
