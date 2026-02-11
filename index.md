@@ -10,14 +10,13 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |   
 | ---------| ----------- | ----------- | ---------| ----------- |
-| 10.02.2026 | Connor Langford | Talk | Manufacturing of Liquid Crystal Geometric Phase Holograms for TOLIMAN | |
-| 17.02.2026 | Jennifer Wakulicz | | | |
-| 24.02.2026 | Jason Lai | | | |
+| 17.02.2026 | Jennifer Wakulicz | Paper | Deep Evidential Uncertainty Estimation for Semantic Segmentation under Out-Of-Distribution Obstacles | [paper](https://ieeexplore.ieee.org/document/10611342) |
 | 03.03.2026 | Donald Dansereau | | | |
+| 10.03.2026 | Jason Lai | | | |
 | 17.03.2026 | James Gray | | | |
 | 24.03.2026 | Nikolai Goncharov | | | |
 | 31.03.2026 | Jack Naylor | | | |
-| 07.04.2026 | | | | |
+| 07.04.2026 | Alexandre Cardaillac | | | |
 | 14.04.2026 | | | | |
 | 21.04.2026 | | | | |
 | 28.04.2026 | | | | |
@@ -77,6 +76,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |  
 | ---------| ----------- | ----------- | ---------| ----------- |
+| 10.02.2026 | Connor Langford | Talk | Manufacturing of Liquid Crystal Geometric Phase Holograms for TOLIMAN | |
 | 27.01.2026 | Bina Rajan | Paper | Image as an IMU: Estimating Camera Motion from a Single Motion-Blurred Image | [paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_Image_as_an_IMU_Estimating_Camera_Motion_from_a_Single_ICCV_2025_paper.pdf) [project](https://jerredchen.github.io/image-as-imu/) |
 | 20.01.2026 | James Cook | Paper | VL-JEPA: Joint Embedding Predictive Architecture for Vision-language | [paper](https://arxiv.org/abs/2512.10942) |
 | 13.01.2026 | Oliver Yan | Paper | AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views | [paper](https://arxiv.org/abs/2505.23716) [project](https://city-super.github.io/anysplat/)|
