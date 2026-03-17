@@ -10,8 +10,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |   
 | ---------| ----------- | ----------- | ---------| ----------- |
-| 17.03.2026 | James Gray | Paper | Dense-SfM: Structure from Motion with Dense Consistent Matching. | [paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Lee_Dense-SfM_Structure_from_Motion_with_Dense_Consistent_Matching_CVPR_2025_paper.pdf) [project](https://icetea-cv.github.io/densesfm/) |
-| 24.03.2026 | Nikolai Goncharov | | | |
+| 24.03.2026 | Nikolai Goncharov | Paper | SpectroMotion: Dynamic 3D Reconstruction of Specular Scenes | [paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Fan_SpectroMotion_Dynamic_3D_Reconstruction_of_Specular_Scenes_CVPR_2025_paper.pdf) [project](https://cdfan0627.github.io/spectromotion/) |
 | 31.03.2026 | Jack Naylor | | | |
 | 07.04.2026 | Alexandre Cardaillac | | | |
 | 14.04.2026 | | | | |
@@ -73,6 +72,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |  
 | ---------| ----------- | ----------- | ---------| ----------- |
+| 17.03.2026 | James Gray | Paper | Dense-SfM: Structure from Motion with Dense Consistent Matching. | [paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Lee_Dense-SfM_Structure_from_Motion_with_Dense_Consistent_Matching_CVPR_2025_paper.pdf) [project](https://icetea-cv.github.io/densesfm/) |
 | 10.03.2026 | Jason Lai | Paper | UnReflectAnything: RGB-Only Highlight Removal by Rendering Synthetic Specular Supervision | [paper](https://arxiv.org/abs/2512.09583) [project](https://alberto-rota.github.io/UnReflectAnything/)|
 | 03.03.2026 | All | Paper | WACV 2026 Papers. List of Presented Papers: [form](https://docs.google.com/spreadsheets/d/1VtvRSkNP5NApI7BDp0bj98yuF4vm71K15EmK9E6yhr0/edit?usp=sharing) | [accepted papers](https://wacv.thecvf.com/Conferences/2026/AcceptedPapers) |
 | 17.02.2026 | Jennifer Wakulicz | Paper | Deep Evidential Uncertainty Estimation for Semantic Segmentation under Out-Of-Distribution Obstacles | [paper](https://ieeexplore.ieee.org/document/10611342) |
