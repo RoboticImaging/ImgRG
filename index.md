@@ -20,7 +20,7 @@ The meetings are held once a week (day and time subject to change depending on a
 | 19.05.2026 | James Gray | | | |
 | 26.05.2026 | Nikolai Goncharov | | | |
 | 02.06.2026 | Jack Naylor | | | |
-| 09.06.2026 | All | CVPR 2026 Papers | | |
+| 09.06.2026 | All | Paper | CVPR 2026 Papers | |
 | 16.06.2026 | Alexandre Cardaillac | | | |
 | 23.06.2026 | | | | |
 | 30.06.2026 | | | | |
