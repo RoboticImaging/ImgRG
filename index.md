@@ -10,19 +10,18 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |   
 | ---------| ----------- | ----------- | ---------| ----------- |
-| 31.03.2026 | Jack Naylor | Paper | Coherent Optical Modems for Full-Wavefield Lidar | [paper](https://www.dgp.toronto.edu/fullwavefieldlidar/static/data/FWL-paper.pdf) [project](https://www.dgp.toronto.edu/fullwavefieldlidar/)|
-| 07.04.2026 | Alexandre Cardaillac | | | |
-| 14.04.2026 | Oliver Yan | | | |
-| 21.04.2026 | Bina Rajan | | | |
-| 28.04.2026 | Connor Langford | | | |
-| 05.05.2026 | Jennifer Wakulicz | | | |
-| 12.05.2026 | Jason Lai | | | |
-| 19.05.2026 | James Gray | | | |
-| 26.05.2026 | Nikolai Goncharov | | | |
-| 02.06.2026 | Jack Naylor | | | |
-| 09.06.2026 | All | Paper | CVPR 2026 Papers | |
-| 16.06.2026 | Alexandre Cardaillac | | | |
-| 23.06.2026 | | | | |
+| 07.04.2026 | Cameron Jones | Talk | Adaptive Optics for Free-Space Optical Communication Links | |
+| 14.04.2026 | Alexandre Cardaillac | | | |
+| 21.04.2026 | Oliver Yan | | | |
+| 28.04.2026 | Bina Rajan | | | |
+| 05.05.2026 | Connor Langford | | | |
+| 12.05.2026 | Jennifer Wakulicz | | | |
+| 19.05.2026 | Jason Lai | | | |
+| 26.05.2026 | James Gray | | | |
+| 02.06.2026 | Nikolai Goncharov | | | |
+| 09.06.2026 | Jack Naylor | | | |
+| 16.06.2026 | All | Paper | CVPR 2026 Papers | |
+| 23.06.2026 | Alexandre Cardaillac | | | |
 | 30.06.2026 | | | | |
 
 ## Members 
@@ -80,6 +79,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |  
 | ---------| ----------- | ----------- | ---------| ----------- |
+| 31.03.2026 | Jack Naylor | Paper | Coherent Optical Modems for Full-Wavefield Lidar | [paper](https://www.dgp.toronto.edu/fullwavefieldlidar/static/data/FWL-paper.pdf) [project](https://www.dgp.toronto.edu/fullwavefieldlidar/)|
 | 24.03.2026 | Nikolai Goncharov | Paper | SpectroMotion: Dynamic 3D Reconstruction of Specular Scenes | [paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Fan_SpectroMotion_Dynamic_3D_Reconstruction_of_Specular_Scenes_CVPR_2025_paper.pdf) [project](https://cdfan0627.github.io/spectromotion/) |
 | 17.03.2026 | James Gray | Paper | Dense-SfM: Structure from Motion with Dense Consistent Matching. | [paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Lee_Dense-SfM_Structure_from_Motion_with_Dense_Consistent_Matching_CVPR_2025_paper.pdf) [project](https://icetea-cv.github.io/densesfm/) |
 | 10.03.2026 | Jason Lai | Paper | UnReflectAnything: RGB-Only Highlight Removal by Rendering Synthetic Specular Supervision | [paper](https://arxiv.org/abs/2512.09583) [project](https://alberto-rota.github.io/UnReflectAnything/)|
