@@ -10,13 +10,12 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |   
 | ---------| ----------- | ----------- | ---------| ----------- |
-| 14.04.2026 | Alexandre Cardaillac | Paper | Sidescan Only Neural Bathymetry from Large-Scale Survey | [paper](https://www.mdpi.com/1424-8220/22/14/5092) |
-| 21.04.2026 | Oliver Yan | | | |
-| 28.04.2026 | Bina Rajan | | | |
+| 21.04.2026 | Oliver Yan | Paper | 3DGEER: 3D Gaussian Rendering Made Exact and Efficient for Generic Cameras | [Paper](https://arxiv.org/abs/2505.24053) [Project](https://github.com/boschresearch/3dgeer)|
+| 28.04.2026 | | | | |
 | 05.05.2026 | Connor Langford | | | |
-| 12.05.2026 | James Gray | | | |
+| 12.05.2026 | Jennifer Wakulicz | | | |
 | 19.05.2026 | Jason Lai | | | |
-| 26.05.2026 | Jennifer Wakulicz| | | |
+| 26.05.2026 | James Gray | | | |
 | 02.06.2026 | Nikolai Goncharov | | | |
 | 09.06.2026 | Jack Naylor | | | |
 | 16.06.2026 | All | Paper | CVPR 2026 Papers | |
@@ -78,6 +77,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |  
 | ---------| ----------- | ----------- | ---------| ----------- |
+| 14.04.2026 | Alexandre Cardaillac | Paper | Sidescan Only Neural Bathymetry from Large-Scale Survey | [paper](https://www.mdpi.com/1424-8220/22/14/5092) |
 | 07.04.2026 | Cameron Jones | Talk | Adaptive Optics for Free-Space Optical Communication Links | |
 | 31.03.2026 | Jack Naylor | Paper | Coherent Optical Modems for Full-Wavefield Lidar | [paper](https://www.dgp.toronto.edu/fullwavefieldlidar/static/data/FWL-paper.pdf) [project](https://www.dgp.toronto.edu/fullwavefieldlidar/)|
 | 24.03.2026 | Nikolai Goncharov | Paper | SpectroMotion: Dynamic 3D Reconstruction of Specular Scenes | [paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Fan_SpectroMotion_Dynamic_3D_Reconstruction_of_Specular_Scenes_CVPR_2025_paper.pdf) [project](https://cdfan0627.github.io/spectromotion/) |
