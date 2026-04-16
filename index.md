@@ -20,7 +20,8 @@ The meetings are held once a week (day and time subject to change depending on a
 | 09.06.2026 | Jack Naylor | | | |
 | 16.06.2026 | All | Paper | CVPR 2026 Papers | |
 | 23.06.2026 | Alexandre Cardaillac | | | |
-| 30.06.2026 | | | | |
+| 30.06.2026 | Joshua Knights | | | |
+| 07.07.2026 | Arihant Lunawat | | | |
 
 ## Members 
 * Active, Presenters
@@ -30,6 +31,8 @@ The meetings are held once a week (day and time subject to change depending on a
   * Bina Rajan
   * Nikolai Goncharov
   * Oliver Yan
+  * Arihant Lunawat
+  * Dr. Joshua Knights
   * Dr. James Gray
   * Dr. Alexandre Cardaillac
   * Dr. Jennifer Wakulicz
