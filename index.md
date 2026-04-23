@@ -10,7 +10,6 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |   
 | ---------| ----------- | ----------- | ---------| ----------- |
-| 21.04.2026 | Oliver Yan | Paper | 3DGEER: 3D Gaussian Rendering Made Exact and Efficient for Generic Cameras | [Paper](https://openreview.net/pdf?id=4voMNlRWI7) [Project](https://zixunh.github.io/3d-geer/)|
 | 28.04.2026 | | | | |
 | 05.05.2026 | Connor Langford | | | |
 | 12.05.2026 | Jennifer Wakulicz | | | |
@@ -80,6 +79,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |  
 | ---------| ----------- | ----------- | ---------| ----------- |
+| 21.04.2026 | Oliver Yan | Paper | 3DGEER: 3D Gaussian Rendering Made Exact and Efficient for Generic Cameras | [Paper](https://openreview.net/pdf?id=4voMNlRWI7) [Project](https://zixunh.github.io/3d-geer/)|
 | 14.04.2026 | Alexandre Cardaillac | Paper | Sidescan Only Neural Bathymetry from Large-Scale Survey | [paper](https://www.mdpi.com/1424-8220/22/14/5092) |
 | 07.04.2026 | Cameron Jones | Talk | Adaptive Optics for Free-Space Optical Communication Links | |
 | 31.03.2026 | Jack Naylor | Paper | Coherent Optical Modems for Full-Wavefield Lidar | [paper](https://www.dgp.toronto.edu/fullwavefieldlidar/static/data/FWL-paper.pdf) [project](https://www.dgp.toronto.edu/fullwavefieldlidar/)|
