@@ -10,8 +10,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |   
 | ---------| ----------- | ----------- | ---------| ----------- |
-| 28.04.2026 | | | | |
-| 05.05.2026 | Connor Langford | | | |
+| 05.05.2026 | Connor Langford | Paper | High-speed vertical positioning stage with integrated dual-sensor arrangement |  |
 | 12.05.2026 | Jennifer Wakulicz | | | |
 | 19.05.2026 | Jason Lai | | | |
 | 26.05.2026 | James Gray | | | |
@@ -79,6 +78,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |  
 | ---------| ----------- | ----------- | ---------| ----------- |
+| 28.04.2026 | | | | |
 | 21.04.2026 | Oliver Yan | Paper | 3DGEER: 3D Gaussian Rendering Made Exact and Efficient for Generic Cameras | [Paper](https://openreview.net/pdf?id=4voMNlRWI7) [Project](https://zixunh.github.io/3d-geer/)|
 | 14.04.2026 | Alexandre Cardaillac | Paper | Sidescan Only Neural Bathymetry from Large-Scale Survey | [paper](https://www.mdpi.com/1424-8220/22/14/5092) |
 | 07.04.2026 | Cameron Jones | Talk | Adaptive Optics for Free-Space Optical Communication Links | |
