@@ -10,8 +10,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |   
 | ---------| ----------- | ----------- | ---------| ----------- |
-| 05.05.2026 | Connor Langford | Paper | High-speed vertical positioning stage with integrated dual-sensor arrangement |  |
-| 12.05.2026 | Jennifer Wakulicz | | | |
+| 12.05.2026 | Jennifer Wakulicz | RA-L Paper | ManiVID-3D: Generalizable View-Invariant Reinforcement Learning for Robotic Manipulation via Disentangled 3D Representations | [Project](https://zheng-joe-lee.github.io/manivid3d/) |
 | 19.05.2026 | Jason Lai | | | |
 | 26.05.2026 | James Gray | | | |
 | 02.06.2026 | Nikolai Goncharov | | | |
@@ -78,6 +77,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |  
 | ---------| ----------- | ----------- | ---------| ----------- |
+| 05.05.2026 | Connor Langford | Paper | High-speed vertical positioning stage with integrated dual-sensor arrangement |  |
 | 28.04.2026 | | | | |
 | 21.04.2026 | Oliver Yan | Paper | 3DGEER: 3D Gaussian Rendering Made Exact and Efficient for Generic Cameras | [Paper](https://openreview.net/pdf?id=4voMNlRWI7) [Project](https://zixunh.github.io/3d-geer/)|
 | 14.04.2026 | Alexandre Cardaillac | Paper | Sidescan Only Neural Bathymetry from Large-Scale Survey | [paper](https://www.mdpi.com/1424-8220/22/14/5092) |
