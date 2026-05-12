@@ -10,8 +10,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |   
 | ---------| ----------- | ----------- | ---------| ----------- |
-| 12.05.2026 | Jennifer Wakulicz | RA-L Paper | ManiVID-3D: Generalizable View-Invariant Reinforcement Learning for Robotic Manipulation via Disentangled 3D Representations | [Project](https://zheng-joe-lee.github.io/manivid3d/) |
-| 19.05.2026 | Jason Lai | | | |
+| 19.05.2026 | Jason Lai | Paper -- CVPR2026 | DiffSoup: Direct Differentiable Rasterization of Triangle Soup for Extreme Radiance Field Simplification | [Project page](https://kenji-tojo.github.io/publications/diffsoup/) |
 | 26.05.2026 | James Gray | | | |
 | 02.06.2026 | Nikolai Goncharov | | | |
 | 09.06.2026 | Jack Naylor | | | |
@@ -77,6 +76,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Related Link |  
 | ---------| ----------- | ----------- | ---------| ----------- |
+| 12.05.2026 | Jennifer Wakulicz | RA-L Paper | ManiVID-3D: Generalizable View-Invariant Reinforcement Learning for Robotic Manipulation via Disentangled 3D Representations | [Project](https://zheng-joe-lee.github.io/manivid3d/) |
 | 05.05.2026 | Connor Langford | Paper | High-speed vertical positioning stage with integrated dual-sensor arrangement |  |
 | 28.04.2026 | | | | |
 | 21.04.2026 | Oliver Yan | Paper | 3DGEER: 3D Gaussian Rendering Made Exact and Efficient for Generic Cameras | [Paper](https://openreview.net/pdf?id=4voMNlRWI7) [Project](https://zixunh.github.io/3d-geer/)|
