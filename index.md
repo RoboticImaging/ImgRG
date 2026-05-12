@@ -8,9 +8,9 @@ The meetings are held once a week (day and time subject to change depending on a
 
 ## Upcoming Reading Sessions 
 
-| Date | Presenter | Type | Title | Related Link |   
-| ---------| ----------- | ----------- | ---------| ----------- |
-| 19.05.2026 | Jason Lai | Paper -- CVPR2026 | DiffSoup: Direct Differentiable Rasterization of Triangle Soup for Extreme Radiance Field Simplification | [Project page](https://kenji-tojo.github.io/publications/diffsoup/) |
+| Date | Presenter | Type | Title | Venue | Related Link |   
+| ---------| ----------- | ----------- | ---- | ---------| ----------- |
+| 19.05.2026 | Jason Lai | Paper| DiffSoup: Direct Differentiable Rasterization of Triangle Soup for Extreme Radiance Field Simplification | CVPR2026 | [Project page](https://kenji-tojo.github.io/publications/diffsoup/) |
 | 26.05.2026 | James Gray | | | |
 | 02.06.2026 | Nikolai Goncharov | | | |
 | 09.06.2026 | Jack Naylor | | | |
@@ -74,25 +74,27 @@ The meetings are held once a week (day and time subject to change depending on a
 
 ### 2026
 
-| Date | Presenter | Type | Title | Related Link |  
-| ---------| ----------- | ----------- | ---------| ----------- |
-| 12.05.2026 | Jennifer Wakulicz | RA-L Paper | ManiVID-3D: Generalizable View-Invariant Reinforcement Learning for Robotic Manipulation via Disentangled 3D Representations | [Project](https://zheng-joe-lee.github.io/manivid3d/) |
-| 05.05.2026 | Connor Langford | Paper | High-speed vertical positioning stage with integrated dual-sensor arrangement |  |
-| 28.04.2026 | | | | |
-| 21.04.2026 | Oliver Yan | Paper | 3DGEER: 3D Gaussian Rendering Made Exact and Efficient for Generic Cameras | [Paper](https://openreview.net/pdf?id=4voMNlRWI7) [Project](https://zixunh.github.io/3d-geer/)|
-| 14.04.2026 | Alexandre Cardaillac | Paper | Sidescan Only Neural Bathymetry from Large-Scale Survey | [paper](https://www.mdpi.com/1424-8220/22/14/5092) |
-| 07.04.2026 | Cameron Jones | Talk | Adaptive Optics for Free-Space Optical Communication Links | |
-| 31.03.2026 | Jack Naylor | Paper | Coherent Optical Modems for Full-Wavefield Lidar | [paper](https://www.dgp.toronto.edu/fullwavefieldlidar/static/data/FWL-paper.pdf) [project](https://www.dgp.toronto.edu/fullwavefieldlidar/)|
-| 24.03.2026 | Nikolai Goncharov | Paper | SpectroMotion: Dynamic 3D Reconstruction of Specular Scenes | [paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Fan_SpectroMotion_Dynamic_3D_Reconstruction_of_Specular_Scenes_CVPR_2025_paper.pdf) [project](https://cdfan0627.github.io/spectromotion/) |
-| 17.03.2026 | James Gray | Paper | Dense-SfM: Structure from Motion with Dense Consistent Matching. | [paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Lee_Dense-SfM_Structure_from_Motion_with_Dense_Consistent_Matching_CVPR_2025_paper.pdf) [project](https://icetea-cv.github.io/densesfm/) |
-| 10.03.2026 | Jason Lai | Paper | UnReflectAnything: RGB-Only Highlight Removal by Rendering Synthetic Specular Supervision | [paper](https://arxiv.org/abs/2512.09583) [project](https://alberto-rota.github.io/UnReflectAnything/)|
-| 03.03.2026 | All | Paper | WACV 2026 Papers. List of Presented Papers: [form](https://docs.google.com/spreadsheets/d/1VtvRSkNP5NApI7BDp0bj98yuF4vm71K15EmK9E6yhr0/edit?usp=sharing) | [accepted papers](https://wacv.thecvf.com/Conferences/2026/AcceptedPapers) |
-| 17.02.2026 | Jennifer Wakulicz | Paper | Deep Evidential Uncertainty Estimation for Semantic Segmentation under Out-Of-Distribution Obstacles | [paper](https://ieeexplore.ieee.org/document/10611342) |
-| 10.02.2026 | Connor Langford | Talk | Manufacturing of Liquid Crystal Geometric Phase Holograms for TOLIMAN | |
-| 27.01.2026 | Bina Rajan | Paper | Image as an IMU: Estimating Camera Motion from a Single Motion-Blurred Image | [paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_Image_as_an_IMU_Estimating_Camera_Motion_from_a_Single_ICCV_2025_paper.pdf) [project](https://jerredchen.github.io/image-as-imu/) |
-| 20.01.2026 | James Cook | Paper | VL-JEPA: Joint Embedding Predictive Architecture for Vision-language | [paper](https://arxiv.org/abs/2512.10942) |
-| 13.01.2026 | Oliver Yan | Paper | AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views | [paper](https://arxiv.org/abs/2505.23716) [project](https://city-super.github.io/anysplat/)|
+| Date | Presenter | Type | Title | Venue* | Related Link |  
+| ---------| ----------- | ----------- | ---- | ---------| ----------- |
+| 12.05.2026 | Jennifer Wakulicz | Paper | ManiVID-3D: Generalizable View-Invariant Reinforcement Learning for Robotic Manipulation via Disentangled 3D Representations | RA-L | [Project](https://zheng-joe-lee.github.io/manivid3d/) |
+| 05.05.2026 | Connor Langford | Paper | High-speed vertical positioning stage with integrated dual-sensor arrangement | | |
+| 28.04.2026 | | | | | |
+| 21.04.2026 | Oliver Yan | Paper | 3DGEER: 3D Gaussian Rendering Made Exact and Efficient for Generic Cameras | | [Paper](https://openreview.net/pdf?id=4voMNlRWI7) [Project](https://zixunh.github.io/3d-geer/)|
+| 14.04.2026 | Alexandre Cardaillac | Paper | Sidescan Only Neural Bathymetry from Large-Scale Survey | | [paper](https://www.mdpi.com/1424-8220/22/14/5092) |
+| 07.04.2026 | Cameron Jones | Talk | Adaptive Optics for Free-Space Optical Communication Links | | |
+| 31.03.2026 | Jack Naylor | Paper | Coherent Optical Modems for Full-Wavefield Lidar | | [paper](https://www.dgp.toronto.edu/fullwavefieldlidar/static/data/FWL-paper.pdf) [project](https://www.dgp.toronto.edu/fullwavefieldlidar/)|
+| 24.03.2026 | Nikolai Goncharov | Paper | SpectroMotion: Dynamic 3D Reconstruction of Specular Scenes | | [paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Fan_SpectroMotion_Dynamic_3D_Reconstruction_of_Specular_Scenes_CVPR_2025_paper.pdf) [project](https://cdfan0627.github.io/spectromotion/) |
+| 17.03.2026 | James Gray | Paper | Dense-SfM: Structure from Motion with Dense Consistent Matching. | | [paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Lee_Dense-SfM_Structure_from_Motion_with_Dense_Consistent_Matching_CVPR_2025_paper.pdf) [project](https://icetea-cv.github.io/densesfm/) |
+| 10.03.2026 | Jason Lai | Paper | UnReflectAnything: RGB-Only Highlight Removal by Rendering Synthetic Specular Supervision | | [paper](https://arxiv.org/abs/2512.09583) [project](https://alberto-rota.github.io/UnReflectAnything/)|
+| 03.03.2026 | All | Paper | WACV 2026 Papers. List of Presented Papers: [form](https://docs.google.com/spreadsheets/d/1VtvRSkNP5NApI7BDp0bj98yuF4vm71K15EmK9E6yhr0/edit?usp=sharing) | | [accepted papers](https://wacv.thecvf.com/Conferences/2026/AcceptedPapers) |
+| 17.02.2026 | Jennifer Wakulicz | Paper | Deep Evidential Uncertainty Estimation for Semantic Segmentation under Out-Of-Distribution Obstacles | | [paper](https://ieeexplore.ieee.org/document/10611342) |
+| 10.02.2026 | Connor Langford | Talk | Manufacturing of Liquid Crystal Geometric Phase Holograms for TOLIMAN | | |
+| 27.01.2026 | Bina Rajan | Paper | Image as an IMU: Estimating Camera Motion from a Single Motion-Blurred Image | | [paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_Image_as_an_IMU_Estimating_Camera_Motion_from_a_Single_ICCV_2025_paper.pdf) [project](https://jerredchen.github.io/image-as-imu/) |
+| 20.01.2026 | James Cook | Paper | VL-JEPA: Joint Embedding Predictive Architecture for Vision-language | | [paper](https://arxiv.org/abs/2512.10942) |
+| 13.01.2026 | Oliver Yan | Paper | AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views | | [paper](https://arxiv.org/abs/2505.23716) [project](https://city-super.github.io/anysplat/)|
 
+\*Venue tracked from May onward
+  
 ### 2025
 
 | Date | Presenter | Type | Title | Related Link |  
