@@ -12,8 +12,8 @@ The meetings are held once a week (day and time subject to change depending on a
 | ---------| ----------- | ----------- | ---- | ---------| ----------- |
 | 19.05.2026 | Jason Lai | Paper| DiffSoup: Direct Differentiable Rasterization of Triangle Soup for Extreme Radiance Field Simplification | CVPR2026 | [Project page](https://kenji-tojo.github.io/publications/diffsoup/) |
 | 26.05.2026 | James Gray | | | |
-| 02.06.2026 | Nikolai Goncharov | | | |
-| 09.06.2026 | Jack Naylor | | | |
+| 02.06.2026 | Postpone for ICRA | | | |
+| 09.06.2026 |  | | | |
 | 16.06.2026 | All | Paper | CVPR 2026 Papers | |
 | 23.06.2026 | Alexandre Cardaillac | | | |
 | 30.06.2026 | Joshua Knights | | | |
