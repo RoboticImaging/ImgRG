@@ -10,7 +10,6 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Venue | Related Link |   
 | ---------| ----------- | ----------- | ---- | ---------| ----------- |
-| 19.05.2026 | Jason Lai | Paper | DiffSoup: Direct Differentiable Rasterization of Triangle Soup for Extreme Radiance Field Simplification | CVPR2026 | [Project page](https://kenji-tojo.github.io/publications/diffsoup/) |
 | 26.05.2026 | James Gray | Paper | Thermal Polarimetric Multi-view Stereo | ICCV2025 | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Kushida_Thermal_Polarimetric_Multi-view_Stereo_ICCV_2025_paper.html) |
 | 02.06.2026 | - | - | Postpone for ICRA | - | - |
 | 09.06.2026 |  | | | |
@@ -76,6 +75,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Venue* | Related Link |  
 | ---------| ----------- | ----------- | ---- | ---------| ----------- |
+| 19.05.2026 | Jason Lai | Paper | DiffSoup: Direct Differentiable Rasterization of Triangle Soup for Extreme Radiance Field Simplification | CVPR2026 | [Project page](https://kenji-tojo.github.io/publications/diffsoup/) |
 | 12.05.2026 | Jennifer Wakulicz | Paper | ManiVID-3D: Generalizable View-Invariant Reinforcement Learning for Robotic Manipulation via Disentangled 3D Representations | RA-L | [Project](https://zheng-joe-lee.github.io/manivid3d/) |
 | 05.05.2026 | Connor Langford | Paper | High-speed vertical positioning stage with integrated dual-sensor arrangement | | |
 | 28.04.2026 | | | | | |
