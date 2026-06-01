@@ -12,7 +12,7 @@ The meetings are held once a week (day and time subject to change depending on a
 | ---------| ----------- | ----------- | ---- | ---------| ----------- |
 | 26.05.2026 | James Gray | Paper | Thermal Polarimetric Multi-view Stereo | ICCV2025 | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Kushida_Thermal_Polarimetric_Multi-view_Stereo_ICCV_2025_paper.html) |
 | 02.06.2026 | - | - | Postpone for ICRA | - | - |
-| 09.06.2026 |  | | | |
+| 09.06.2026 | Pengshuo Li | Paper | Weakly Supervised Cross-Modal Learning for 4D Radar Scene Flow Estimation | ICML 2026 | [Paper](https://arxiv.org/abs/2605.18507) [Code](https://github.com/FuJingyun/IterFlow) |
 | 16.06.2026 | All | Paper | CVPR 2026 Papers | |
 | 23.06.2026 | Alexandre Cardaillac | | | |
 | 30.06.2026 | Joshua Knights | | | |
