@@ -15,6 +15,22 @@ The meetings are held once a week (day and time subject to change depending on a
 | 23.06.2026 | Alexandre Cardaillac | | | |
 | 30.06.2026 | Joshua Knights | | | |
 | 07.07.2026 | Arihant Lunawat | | | |
+| 14.07.2026 | - | - | RSS is in Sydney! | - | - |
+| 21.07.2026 | Shanshan Zhao | | | | |
+| 28.07.2026 | Teresa Vidal-Calleja | | | | |
+| 04.08.2026 | Narmada Balasooriya | | | | |
+| 11.08.2026 | Jack Naylor | | | | |
+| 18.08.2026 | Nikolai Goncharov | | | | |
+| 25.08.2026 | Will McDonald | | | | |
+| 01.09.2026 | Donald Dansereau | | | | |
+| 08.09.2026 | Jason Lai | | | | |
+| 15.09.2026 | Connor Langford | | | | |
+| 22.09.2026 | Jen Wakulicz | | | | |
+| 29.09.2026 | Sheila Sutjipto | | | | |
+| 06.10.2026 | James Gray | | | | |
+| 13.10.2026 | Monisha Uttsha | | | | |
+| 20.10.2026 | Oliver Yan | | | | |
+| 27.10.2026 | Nadim Haque | | | | |
 
 ## Members 
 * Active, Presenters
