@@ -29,6 +29,7 @@ The meetings are held once a week (day and time subject to change depending on a
 | 13.10.2026 | Monisha Uttsha | | | | |
 | 20.10.2026 | Oliver Yan | | | | |
 | 27.10.2026 | Nadim Haque | | | | |
+| 03.11.2026 | Liyang Liu | | | | |
 
 ## Members 
 * Active, Presenters
