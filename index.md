@@ -10,8 +10,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Venue | Related Link |   
 | ---------| ----------- | ----------- | ---- | ---------| ----------- |
-| 30.06.2026 | Joshua Knights | Paper | Pair-VPR: Place-Aware Pre-training and Contrastive Pair Classification for Visual Place Recognition with Vision Transformers | RAL | [Project page](https://csiro-robotics.github.io/Pair-VPR/) |
-| 07.07.2026 | Arihant Lunawat | | | |
+| 07.07.2026 | Arihant Lunawat | Paper | RUSSO: Robust Underwater SLAM with Sonar Optimization against Visual Degradation | Transactions on Mechatronics | [Paper](https://ieeexplore.ieee.org/document/10960758) |
 | 14.07.2026 | - | - | RSS is in Sydney! | - | - |
 | 21.07.2026 | Shanshan Zhao | | | | |
 | 28.07.2026 | Teresa Vidal-Calleja | | | | |
@@ -87,6 +86,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Venue* | Related Link |  
 | ---------| ----------- | ----------- | ---- | ---------| ----------- |
+| 30.06.2026 |  |  | | | |
 | 23.06.2026 | All | Paper | CVPR 2026 Papers| CVPR | [Accepted papers](https://docs.google.com/spreadsheets/d/1XgJrEih_ern98TBJxBNPeS2F0QomIRoKk3ZQiltMdHc/edit?gid=1971719182#gid=1971719182) |
 | 16.06.2026 | All | Paper | CVPR 2026 Papers | CVPR | [Accepted papers](https://docs.google.com/spreadsheets/d/1XgJrEih_ern98TBJxBNPeS2F0QomIRoKk3ZQiltMdHc/edit?gid=1971719182#gid=1971719182) |
 | 09.06.2026 | Pengshuo Li | Paper | Weakly Supervised Cross-Modal Learning for 4D Radar Scene Flow Estimation | ICML 2026 | [Paper](https://arxiv.org/abs/2605.18507) [Code](https://github.com/FuJingyun/IterFlow) |
