@@ -10,9 +10,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Venue | Related Link |   
 | ---------| ----------- | ----------- | ---- | ---------| ----------- |
-| 07.07.2026 | Arihant Lunawat | Paper | RUSSO: Robust Underwater SLAM with Sonar Optimization against Visual Degradation | Transactions on Mechatronics | [Paper](https://ieeexplore.ieee.org/document/10960758) |
-| 14.07.2026 | - | - | RSS is in Sydney! | - | - |
-| 21.07.2026 | Shanshan Zhao | | | | |
+| 21.07.2026 | Shanshan Zhao | Paper | PolyMerge: Compressing 3D Gaussian Splats with Polytope Coverings for Provably Safe Resource-Constrained Navigation | RA-L 2026 | [Paper](https://athlon76.github.io/PolyMerge-website/static/pdfs/paper.pdf) [Project page](https://athlon76.github.io/PolyMerge-website/) |
 | 28.07.2026 | Teresa Vidal-Calleja | | | | |
 | 04.08.2026 | Narmada Balasooriya | | | | |
 | 11.08.2026 | Jack Naylor | | | | |
@@ -86,6 +84,8 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Venue* | Related Link |  
 | ---------| ----------- | ----------- | ---- | ---------| ----------- |
+| 14.07.2026 | - | - | RSS is in Sydney! | - | - |
+| 07.07.2026 | Arihant Lunawat | Paper | RUSSO: Robust Underwater SLAM with Sonar Optimization against Visual Degradation | Transactions on Mechatronics | [Paper](https://ieeexplore.ieee.org/document/10960758) |
 | 30.06.2026 |  |  | | | |
 | 23.06.2026 | All | Paper | CVPR 2026 Papers| CVPR | [Accepted papers](https://docs.google.com/spreadsheets/d/1XgJrEih_ern98TBJxBNPeS2F0QomIRoKk3ZQiltMdHc/edit?gid=1971719182#gid=1971719182) |
 | 16.06.2026 | All | Paper | CVPR 2026 Papers | CVPR | [Accepted papers](https://docs.google.com/spreadsheets/d/1XgJrEih_ern98TBJxBNPeS2F0QomIRoKk3ZQiltMdHc/edit?gid=1971719182#gid=1971719182) |
