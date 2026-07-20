@@ -29,6 +29,13 @@ The meetings are held once a week (day and time subject to change depending on a
 
 ## Members 
 * Active, Presenters
+  * Pengshuo Li
+  * Liyang Liu
+  * Nadim Haque
+  * Narmada Balasooriya
+  * Will McDonald
+  * Monisha Uttsha
+  * Shanshan Zhao
   * Jason Lai
   * Connor Langford
   * Jack Naylor
@@ -36,11 +43,13 @@ The meetings are held once a week (day and time subject to change depending on a
   * Nikolai Goncharov
   * Oliver Yan
   * Arihant Lunawat
+  * Dr. Sheila Sutjipto
   * Dr. Joshua Knights
   * Dr. James Gray
   * Dr. Alexandre Cardaillac
   * Dr. Jennifer Wakulicz
   * Dr. Donald Dansereau
+  * Prof Teresa Vidal-Calleja
 
 * Others
   * Ryan Griffiths
