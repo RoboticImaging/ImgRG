@@ -2,7 +2,7 @@
 
 This page keeps track of the on-going imaging reading group activities. You will be able to find the schedule of the upcoming reading sessions, past presentations, related articles and a curated list of resources on imaging.
 
-Our meetings generally alternate between reviewing a recent paper in detail, a section of a computational imaging textbook, and conference proceedings. Topics of interest span most of visual computing including computational imaging, computer vision, machine learning, and graphics covering novel cameras, representations and algorithms/architectures that let robots see and do.
+Our meetings generally alternate between reviewing a recent paper in detail, a section of a computational imaging textbook, and conference proceedings. Topics of interest span most of visual computing including computational imaging, computer vision, machine learning, and graphics covering novel cameras, representations and algorithms/architectures that let robots see and do. To get an idea of the papers we find interesting, browse our [ImgRG stack](https://docs.google.com/spreadsheets/d/1_Lj0cImZfRhMADH98qLCQTXqkdK8AkApGglodizGZUE/edit?usp=sharing).
 
 The meetings are held once a week (day and time subject to change depending on availabilities) in hybrid mode: via Zoom and hopefully and  in-person at J04/J18 conference rooms, Australian Centre For Robotics (ACFR), The University of Sydney, NSW, Australia. If you like to join Robotic Imaging Reading Group, feel free to contact us. You can subscribe to the mailing list [here](https://lists.acfr.usyd.edu.au/postorius/lists/imgrg.acfr.usyd.edu.au/).
 
@@ -10,7 +10,6 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Venue | Related Link |   
 | ---------| ----------- | ----------- | ---- | ---------| ----------- |
-| 21.07.2026 | Shanshan Zhao | Paper | PolyMerge: Compressing 3D Gaussian Splats with Polytope Coverings for Provably Safe Resource-Constrained Navigation | RA-L 2026 | [Paper](https://athlon76.github.io/PolyMerge-website/static/pdfs/paper.pdf) [Project page](https://athlon76.github.io/PolyMerge-website/) |
 | 28.07.2026 | All | Paper | RSS2026 Papers! | RSS | [Accepted Papers](https://roboticsconference.org/program/papers/) |
 | 04.08.2026 | Narmada Balasooriya | | | | |
 | 11.08.2026 | Jack Naylor | | | | |
@@ -93,6 +92,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Venue* | Related Link |  
 | ---------| ----------- | ----------- | ---- | ---------| ----------- |
+| 21.07.2026 | Shanshan Zhao | Paper | PolyMerge: Compressing 3D Gaussian Splats with Polytope Coverings for Provably Safe Resource-Constrained Navigation | RA-L 2026 | [Paper](https://athlon76.github.io/PolyMerge-website/static/pdfs/paper.pdf) [Project page](https://athlon76.github.io/PolyMerge-website/) |
 | 14.07.2026 | - | - | RSS is in Sydney! | - | - |
 | 07.07.2026 | Arihant Lunawat | Paper | RUSSO: Robust Underwater SLAM with Sonar Optimization against Visual Degradation | Transactions on Mechatronics | [Paper](https://ieeexplore.ieee.org/document/10960758) |
 | 30.06.2026 |  |  | | | |
