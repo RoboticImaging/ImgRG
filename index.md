@@ -10,8 +10,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Venue | Related Link |   
 | ---------| ----------- | ----------- | ---- | ---------| ----------- |
-| 04.08.2026 | Narmada Balasooriya | Paper | Multi S-Graphs: An Efficient Distributed Semantic-Relational Collaborative SLAM | RA-L | [Paper](https://arxiv.org/abs/2401.05152) [Code](https://github.com/snt-arg/multi_s_graphs_docker) |
-| 11.08.2026 | Jack Naylor | | | | |
+| 11.08.2026 | Jack Naylor | Papers | Super-Resolution with Structured Motion | ICCP 2025 | [Paper](https://www.computer.org/csdl/proceedings-article/iccp/2025/11143835/29JEcGysc7u) [Follow-up](https://arxiv.org/pdf/2604.21810) |
 | 18.08.2026 | Nikolai Goncharov | | | | |
 | 25.08.2026 | Will McDonald | | | | |
 | 01.09.2026 | Donald Dansereau | | | | |
@@ -91,6 +90,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Venue* | Related Link |  
 | ---------| ----------- | ----------- | ---- | ---------| ----------- |
+| 04.08.2026 | Narmada Balasooriya | Paper | Multi S-Graphs: An Efficient Distributed Semantic-Relational Collaborative SLAM | RA-L | [Paper](https://arxiv.org/abs/2401.05152) [Code](https://github.com/snt-arg/multi_s_graphs_docker) |
 | 28.07.2026 | All | Paper | RSS2026 Papers! | RSS | [Accepted Papers](https://roboticsconference.org/program/papers/) |
 | 21.07.2026 | Shanshan Zhao | Paper | PolyMerge: Compressing 3D Gaussian Splats with Polytope Coverings for Provably Safe Resource-Constrained Navigation | RA-L 2026 | [Paper](https://athlon76.github.io/PolyMerge-website/static/pdfs/paper.pdf) [Project page](https://athlon76.github.io/PolyMerge-website/) |
 | 14.07.2026 | - | - | RSS is in Sydney! | - | - |
