@@ -49,7 +49,7 @@ The meetings are held once a week (day and time subject to change depending on a
   * Prof Teresa Vidal-Calleja
 
 * Others
-  * Ryan Griffiths
+  * Dr. Ryan Griffiths
   * James Cook
   * Sahaj Mand 
   * Dr. Jesse Mehami
@@ -59,7 +59,7 @@ The meetings are held once a week (day and time subject to change depending on a
   * Raghav Mishra 
   * Dr. Gideon Billings
   * Dr. Feiyu Wang
-  * Heather Doig
+  * Dr. Heather Doig
   * Dr. Darren Tsai
   * Dr. Ahalya Ravendran
   * Dr. Ziting Wen
