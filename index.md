@@ -10,9 +10,8 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Venue | Related Link |   
 | ---------| ----------- | ----------- | ---- | ---------| ----------- |
-| 18.08.2026 | Nikolai Goncharov | Paper | RCTrans: Transparent Object Reconstruction in Natural Scene via Refractive Correspondence Estimation | SIGGRAPH Asia 2025 | [Paper](https://arkgao.github.io/RCTrans/pdf/main.pdf) [Project page](https://arkgao.github.io/RCTrans/) |
 | 25.08.2026 | Will McDonald | | | | |
-| 01.09.2026 | Donald Dansereau | | | | |
+| 01.09.2026 | Donald Dansereau | Lecture | Computational imaging | USyd J07.S213 | |
 | 08.09.2026 | Jason Lai | | | | |
 | 15.09.2026 | Connor Langford | | | | |
 | 22.09.2026 | Jen Wakulicz | | | | |
@@ -89,6 +88,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Venue* | Related Link |  
 | ---------| ----------- | ----------- | ---- | ---------| ----------- |
+| 18.08.2026 | Nikolai Goncharov | Paper | RCTrans: Transparent Object Reconstruction in Natural Scene via Refractive Correspondence Estimation | SIGGRAPH Asia 2025 | [Paper](https://arkgao.github.io/RCTrans/pdf/main.pdf) [Project page](https://arkgao.github.io/RCTrans/) |
 | 11.08.2026 | Jack Naylor | Paper | Super-Resolution with Structured Motion | ICCP 2025 | [Paper](https://www.computer.org/csdl/proceedings-article/iccp/2025/11143835/29JEcGysc7u) [Follow-up](https://arxiv.org/pdf/2604.21810) |
 | 04.08.2026 | Narmada Balasooriya | Paper | Multi S-Graphs: An Efficient Distributed Semantic-Relational Collaborative SLAM | RA-L | [Paper](https://arxiv.org/abs/2401.05152) [Code](https://github.com/snt-arg/multi_s_graphs_docker) |
 | 28.07.2026 | All | Paper | RSS2026 Papers! | RSS | [Accepted Papers](https://roboticsconference.org/program/papers/) |
