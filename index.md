@@ -10,7 +10,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Venue | Related Link |   
 | ---------| ----------- | ----------- | ---- | ---------| ----------- |
-| 25.08.2026 | Will McDonald | | | | |
+| 25.08.2026 | Will McDonald | Paper | A Hybrid 2D–3D RGB-D Method for Growth Axis Estimation and Robotic Grasp Pose Generation of Phalaenopsis Orchid Buds | MethodsX | [Paper](https://www.sciencedirect.com/science/article/pii/S2215016126003201) |
 | 01.09.2026 | Donald Dansereau | Lecture | Computational imaging | USyd J07.S213 | |
 | 08.09.2026 | Jason Lai | | | | |
 | 15.09.2026 | Connor Langford | | | | |
