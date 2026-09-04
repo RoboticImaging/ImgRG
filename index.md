@@ -10,9 +10,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Venue | Related Link |   
 | ---------| ----------- | ----------- | ---- | ---------| ----------- |
-| 25.08.2026 | Will McDonald | Paper | A Hybrid 2D–3D RGB-D Method for Growth Axis Estimation and Robotic Grasp Pose Generation of Phalaenopsis Orchid Buds | MethodsX | [Paper](https://www.sciencedirect.com/science/article/pii/S2215016126003201) |
-| 01.09.2026 | Donald Dansereau | Lecture | Computational imaging | USyd J07.S213 | |
-| 08.09.2026 | Jason Lai | | | | |
+| 08.09.2026 | Jason Lai | Paper | Inverse Rendering for Modeling with Line Primitives | SIGGRAPH Asia | [Paper](https://kenji-tojo.github.io/sa26-line-primitives/resources/sa26_lines_paper.pdf) [Project page](https://kenji-tojo.github.io/sa26-line-primitives/) |
 | 15.09.2026 | Connor Langford | | | | |
 | 22.09.2026 | Jen Wakulicz | | | | |
 | 29.09.2026 | Sheila Sutjipto | | | | |
@@ -88,6 +86,8 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Venue* | Related Link |  
 | ---------| ----------- | ----------- | ---- | ---------| ----------- |
+| 25.08.2026 | Will McDonald | Paper | A Hybrid 2D–3D RGB-D Method for Growth Axis Estimation and Robotic Grasp Pose Generation of Phalaenopsis Orchid Buds | MethodsX | [Paper](https://www.sciencedirect.com/science/article/pii/S2215016126003201) |
+| 01.09.2026 | Donald Dansereau | Lecture | Computational imaging | USyd J07.S213 | |
 | 18.08.2026 | Nikolai Goncharov | Paper | RCTrans: Transparent Object Reconstruction in Natural Scene via Refractive Correspondence Estimation | SIGGRAPH Asia 2025 | [Paper](https://arkgao.github.io/RCTrans/pdf/main.pdf) [Project page](https://arkgao.github.io/RCTrans/) |
 | 11.08.2026 | Jack Naylor | Paper | Super-Resolution with Structured Motion | ICCP 2025 | [Paper](https://www.computer.org/csdl/proceedings-article/iccp/2025/11143835/29JEcGysc7u) [Follow-up](https://arxiv.org/pdf/2604.21810) |
 | 04.08.2026 | Narmada Balasooriya | Paper | Multi S-Graphs: An Efficient Distributed Semantic-Relational Collaborative SLAM | RA-L | [Paper](https://arxiv.org/abs/2401.05152) [Code](https://github.com/snt-arg/multi_s_graphs_docker) |
