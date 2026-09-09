@@ -10,8 +10,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Venue | Related Link |   
 | ---------| ----------- | ----------- | ---- | ---------| ----------- |
-| 08.09.2026 | Jason Lai | Paper | Inverse Rendering for Modeling with Line Primitives | SIGGRAPH Asia | [Paper](https://kenji-tojo.github.io/sa26-line-primitives/resources/sa26_lines_paper.pdf) [Project page](https://kenji-tojo.github.io/sa26-line-primitives/) |
-| 15.09.2026 | Connor Langford | | | | |
+| 15.09.2026 | Connor Langford | Tutorial | Diffractive Optics Optimisation for the Astrometric Detection of Exoplanets  | - | [Code](https://louisdesdoigts.github.io/dLux/latest/mask_design/) |
 | 22.09.2026 | Jen Wakulicz | | | | |
 | 29.09.2026 | Sheila Sutjipto | | | | |
 | 06.10.2026 | James Gray | | | | |
@@ -86,6 +85,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Venue* | Related Link |  
 | ---------| ----------- | ----------- | ---- | ---------| ----------- |
+| 08.09.2026 | Jason Lai | Paper | Inverse Rendering for Modeling with Line Primitives | SIGGRAPH Asia | [Paper](https://kenji-tojo.github.io/sa26-line-primitives/resources/sa26_lines_paper.pdf) [Project page](https://kenji-tojo.github.io/sa26-line-primitives/) |
 | 25.08.2026 | Will McDonald | Paper | A Hybrid 2D–3D RGB-D Method for Growth Axis Estimation and Robotic Grasp Pose Generation of Phalaenopsis Orchid Buds | MethodsX | [Paper](https://www.sciencedirect.com/science/article/pii/S2215016126003201) |
 | 01.09.2026 | Donald Dansereau | Lecture | Computational imaging | USyd J07.S213 | |
 | 18.08.2026 | Nikolai Goncharov | Paper | RCTrans: Transparent Object Reconstruction in Natural Scene via Refractive Correspondence Estimation | SIGGRAPH Asia 2025 | [Paper](https://arkgao.github.io/RCTrans/pdf/main.pdf) [Project page](https://arkgao.github.io/RCTrans/) |
