@@ -10,9 +10,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Venue | Related Link |   
 | ---------| ----------- | ----------- | ---- | ---------| ----------- |
-| 22.09.2026 | Jen Wakulicz | Paper | Continuum Robot Localization using Distributed Time-of-Flight Sensors | RSS2026 | [Paper](https://arxiv.org/pdf/2602.07209) [Code](https://github.com/utiasASRL/space_time_continuum) |
-| 29.09.2026 | Nadim Haque | | | | |
-| 06.10.2026 | James Gray | | | | |
+| 06.10.2026 | James Gray | Paper | On Geometric Understanding and Learned Priors in Feed-forward 3D Reconstruction Models | ECCV 2026 | [Paper](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/7756.pdf) |
 | 13.10.2026 | Monisha Uttsha | | | | |
 | 20.10.2026 | Oliver Yan | | | | |
 | 27.10.2026 | Sheila Sutjipto | | | | |
@@ -84,6 +82,8 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Venue* | Related Link |  
 | ---------| ----------- | ----------- | ---- | ---------| ----------- |
+| 29.09.2026 | Nadim Haque | Paper | GWM: Towards Scalable Gaussian World Models for Robotic Manipulation | ICCV2025 | [Paper](https://arxiv.org/pdf/2508.17600) [Project](https://gaussian-world-model.github.io/) |
+| 22.09.2026 | Jen Wakulicz | Paper | Continuum Robot Localization using Distributed Time-of-Flight Sensors | RSS2026 | [Paper](https://arxiv.org/pdf/2602.07209) [Code](https://github.com/utiasASRL/space_time_continuum) |
 | 15.09.2026 | Connor Langford | Tutorial | Diffractive Optics Optimisation for the Astrometric Detection of Exoplanets  | - | [Code](https://louisdesdoigts.github.io/dLux/latest/mask_design/) |
 | 08.09.2026 | Jason Lai | Paper | Inverse Rendering for Modeling with Line Primitives | SIGGRAPH Asia | [Paper](https://kenji-tojo.github.io/sa26-line-primitives/resources/sa26_lines_paper.pdf) [Project page](https://kenji-tojo.github.io/sa26-line-primitives/) |
 | 25.08.2026 | Will McDonald | Paper | A Hybrid 2D–3D RGB-D Method for Growth Axis Estimation and Robotic Grasp Pose Generation of Phalaenopsis Orchid Buds | MethodsX | [Paper](https://www.sciencedirect.com/science/article/pii/S2215016126003201) |
