@@ -10,11 +10,11 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Venue | Related Link |   
 | ---------| ----------- | ----------- | ---- | ---------| ----------- |
-| 06.10.2026 | James Gray | Paper | On Geometric Understanding and Learned Priors in Feed-forward 3D Reconstruction Models | ECCV 2026 | [Paper](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/7756.pdf) |
-| 13.10.2026 | Monisha Uttsha | | | | |
-| 20.10.2026 | Oliver Yan | | | | |
-| 27.10.2026 | Sheila Sutjipto | | | | |
+| 13.10.2026 | -- | -- | -- | -- | -- |
+| 20.10.2026 | Sheila Sutjipto | | | | |
+| 27.10.2026 | Monisha Uttsha | | | | |
 | 03.11.2026 | Liyang Liu | | | | |
+| 10.11.2026 | Kavisha Vidanapathirana | | | | |
 
 ## Members 
 * Active, Presenters
@@ -32,6 +32,7 @@ The meetings are held once a week (day and time subject to change depending on a
   * Nikolai Goncharov
   * Oliver Yan
   * Arihant Lunawat
+  * Dr. Kavisha Vidanapathirana
   * Dr. Sheila Sutjipto
   * Dr. Joshua Knights
   * Dr. James Gray
@@ -82,6 +83,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Venue* | Related Link |  
 | ---------| ----------- | ----------- | ---- | ---------| ----------- |
+| 06.10.2026 | James Gray | Paper | On Geometric Understanding and Learned Priors in Feed-forward 3D Reconstruction Models | ECCV 2026 | [Paper](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/7756.pdf) |
 | 29.09.2026 | Nadim Haque | Paper | GWM: Towards Scalable Gaussian World Models for Robotic Manipulation | ICCV2025 | [Paper](https://arxiv.org/pdf/2508.17600) [Project](https://gaussian-world-model.github.io/) |
 | 22.09.2026 | Jen Wakulicz | Paper | Continuum Robot Localization using Distributed Time-of-Flight Sensors | RSS2026 | [Paper](https://arxiv.org/pdf/2602.07209) [Code](https://github.com/utiasASRL/space_time_continuum) |
 | 15.09.2026 | Connor Langford | Tutorial | Diffractive Optics Optimisation for the Astrometric Detection of Exoplanets  | - | [Code](https://louisdesdoigts.github.io/dLux/latest/mask_design/) |
