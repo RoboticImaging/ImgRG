@@ -10,11 +10,11 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Venue | Related Link |   
 | ---------| ----------- | ----------- | ---- | ---------| ----------- |
-| 13.10.2026 | -- | -- | -- | -- | -- |
-| 20.10.2026 | Sheila Sutjipto | | | | |
-| 27.10.2026 | Monisha Uttsha | | | | |
-| 03.11.2026 | Liyang Liu | | | | |
+| 27.10.2026 | Sheila Sutjipto | Paper | SplatCtrl: Perception–Action Coupling via Gaussian Scene Representations and Reactive Robot Control | ICRA 2026 | [Paper](https://www.merl.com/publications/docs/TR2026-069.pdf) |
+| 03.11.2026 | All | Conference | -- | SIGGRAPH 2026 | |
 | 10.11.2026 | Kavisha Vidanapathirana | | | | |
+| 17.11.2026 | Nikolai Goncharov | | | | |
+| 24.11.2026 | All | Debate | | -- | [Topics](https://docs.google.com/spreadsheets/d/1uz3jG8vIOGlZFixiAKDKr5_npC3dXLh-dg1MuENLR3U/edit?gid=0#gid=0) |
 
 ## Members 
 * Active, Presenters
@@ -34,7 +34,6 @@ The meetings are held once a week (day and time subject to change depending on a
   * Arihant Lunawat
   * Dr. Kavisha Vidanapathirana
   * Dr. Sheila Sutjipto
-  * Dr. Joshua Knights
   * Dr. James Gray
   * Dr. Alexandre Cardaillac
   * Dr. Jennifer Wakulicz
@@ -83,6 +82,8 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Venue* | Related Link |  
 | ---------| ----------- | ----------- | ---- | ---------| ----------- |
+| 20.10.2026 | -- | -- | -- | -- | -- |
+| 13.10.2026 | -- | -- | -- | -- | -- |
 | 06.10.2026 | James Gray | Paper | On Geometric Understanding and Learned Priors in Feed-forward 3D Reconstruction Models | ECCV 2026 | [Paper](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/7756.pdf) |
 | 29.09.2026 | Nadim Haque | Paper | GWM: Towards Scalable Gaussian World Models for Robotic Manipulation | ICCV2025 | [Paper](https://arxiv.org/pdf/2508.17600) [Project](https://gaussian-world-model.github.io/) |
 | 22.09.2026 | Jen Wakulicz | Paper | Continuum Robot Localization using Distributed Time-of-Flight Sensors | RSS2026 | [Paper](https://arxiv.org/pdf/2602.07209) [Code](https://github.com/utiasASRL/space_time_continuum) |
