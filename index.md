@@ -11,10 +11,10 @@ The meetings are held once a week (day and time subject to change depending on a
 | Date | Presenter | Type | Title | Venue | Related Link |   
 | ---------| ----------- | ----------- | ---- | ---------| ----------- |
 | 27.10.2026 | Sheila Sutjipto | Paper | SplatCtrl: Perception–Action Coupling via Gaussian Scene Representations and Reactive Robot Control | ICRA 2026 | [Paper](https://www.merl.com/publications/docs/TR2026-069.pdf) |
-| 03.11.2026 | All | Conference | -- | SIGGRAPH 2026 | |
+| 03.11.2026 | All | Paper | SIGGRAPH2026 Proceedings Review. [Form here.](https://docs.google.com/spreadsheets/d/1Ys8t1E1k9U85oOZl5PNMmLN47uyTyGgW1B-C8bhzwU0/edit?usp=sharing) | SIGGRAPH 2026 | [Papers](https://dl.acm.org/doi/proceedings/10.1145/3799902) |
 | 10.11.2026 | Kavisha Vidanapathirana | | | | |
 | 17.11.2026 | Nikolai Goncharov | | | | |
-| 24.11.2026 | All | Debate | | -- | [Topics](https://docs.google.com/spreadsheets/d/1uz3jG8vIOGlZFixiAKDKr5_npC3dXLh-dg1MuENLR3U/edit?gid=0#gid=0) |
+| 24.11.2026 | All | Debate | Our first ImgRG debate! | -- | [Topics](https://docs.google.com/spreadsheets/d/1uz3jG8vIOGlZFixiAKDKr5_npC3dXLh-dg1MuENLR3U/edit?gid=0#gid=0) |
 
 ## Members 
 * Active, Presenters
