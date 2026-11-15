@@ -10,7 +10,6 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Type | Title | Venue | Related Link |   
 | ---------| ----------- | ----------- | ---- | ---------| ----------- |
-
 | 17.11.2026 | Sheila Sutjipto | Paper | SplatCtrl: Perception–Action Coupling via Gaussian Scene Representations and Reactive Robot Control | ICRA2026 | [Paper](https://www.merl.com/publications/docs/TR2026-069.pdf) |
 | 24.11.2026 | Nikolai Goncharov | | | | |
 | 01.12.2026 | All | Debate | Our first ImgRG debate! | -- | [Topics](https://docs.google.com/spreadsheets/d/1uz3jG8vIOGlZFixiAKDKr5_npC3dXLh-dg1MuENLR3U/edit?usp=sharing) |
